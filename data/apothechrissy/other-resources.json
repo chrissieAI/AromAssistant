@@ -1,0 +1,86 @@
+[
+  {
+    "id": "rec1KMn0t41z5nvtY",
+    "createdTime": "2017-03-09T19:13:08.000Z",
+    "fields": {
+      "URL": "http://www.lisabronner.com/wp-content/uploads/2012/09/Dilutions-Cheat-Sheet.pdf",
+      "Attachments": [
+        {
+          "id": "attZzqQuFxxd42GOl",
+          "filename": "Castile Soap Dilutions-Cheat-Sheet.pdf",
+          "url": "https://v5.airtableusercontent.com/v3/u/59/59/1794902400000/79fZcHzZ13FgQgWWsZgRig/uKMjK6lsnyymhK29KTBaElaB2SPW2BayZ0FCj0A_kTkdEg8rulf2AAQ_Y5EzvA5kC67AdoCJAuTtz9Gdx7TpQW0UH1lEWBy6DA_jVfIyIcCBAu52Z3xekQY9KxGDhKtb/lv5fb12I4oCpEedHcNnN6s-TD2LWfIDmgquKDFYenEk",
+          "size": 43721,
+          "type": "application/pdf"
+        }
+      ],
+      "Source": "Bonner, Lisa",
+      "Name": "Castile Soap Dilution Recommendations"
+    }
+  },
+  {
+    "id": "recGtwng8KXcjsND6",
+    "createdTime": "2017-03-09T19:13:08.000Z",
+    "fields": {
+      "Attachments": [
+        {
+          "id": "attKC6NbvUItjJaDG",
+          "filename": "Dermal Concentrations",
+          "url": "https://v5.airtableusercontent.com/v3/u/59/59/1794902400000/RzxbtfCFjkV2Y6co3yfdGQ/UuMYvgqyy9-muq8HxXGowcGkj44Kbk1hkwpzqgPP-psOP4w9yi9Ihgv5wEU65FHrsOpe51kmj_0rAxPY6RWfpbo3Ns30wZsYeoRijz2qOCM/c20tXA6-czG5D3xGzimYgHMmI8WE93M5CcgnW4yDJlM",
+          "size": 107771,
+          "type": "image/jpeg",
+          "width": 802,
+          "height": 581
+        }
+      ],
+      "Other": "SUEGEO Reference",
+      "Source": "Tisserand, Robert",
+      "Name": "Dermal Concentrations"
+    }
+  },
+  {
+    "id": "recKEMjVg4goIIBVq",
+    "createdTime": "2017-03-09T19:15:01.000Z",
+    "fields": {
+      "Notes": "Provides a quick overview of how the AromAssistant Recipe Manager works.",
+      "URL": "aromassistant.com",
+      "Attachments": [
+        {
+          "id": "attHIh8qYU5murzzL",
+          "filename": "Getting Started with AromAssistant Recipe Manager© .pdf",
+          "url": "https://v5.airtableusercontent.com/v3/u/59/59/1794902400000/ePbSN-lsp8uFyjOYd_jssg/aUGygPE5CVRcKuhpZ_j8Eeq-zCiEGtPYec-aSMN7F6BRisDR0aORS7dBU9MowdOPy9xvSz4mDWmNlFHavVUrMw79P4baeKParojRkAak4D1uvLjac3ZrKNG16G-yG_4PXNKqnjEBvlt7ufY-47-t2HqCh7x1BmqqjFeeGGq71kI/tFzoeExOluT4FwJgjn2WE1-Yks-CMD4F6QB0RG-sJEo",
+          "size": 491202,
+          "type": "application/pdf"
+        }
+      ],
+      "Name": "Getting Started with AromAssistant"
+    }
+  },
+  {
+    "id": "recaXWZOGSyG9bCR0",
+    "createdTime": "2017-03-09T19:13:08.000Z",
+    "fields": {
+      "Attachments": [
+        {
+          "id": "attJpSq8JGorl7nzS",
+          "filename": "Measurement Equivalents",
+          "url": "https://v5.airtableusercontent.com/v3/u/59/59/1794902400000/aUmJdDhXqpHMGVLAlCMIEg/A3YfDjmMPW0Dv-HCVUqEO59TansOlR3XS3K7mtpVz1yOb4aRiwxK8AEKstCT8a1kvobmYhkApfk9SnCx00W-VUDR6maYcTDNcO8SnNv6fDl-OeH4bfDTsDZzhrn_EHf7/Nyr_CIWdJ5XADBeCIDArLP2Vybeuaet6WXoYJqoHE2k",
+          "size": 135062,
+          "type": "image/png",
+          "width": 505,
+          "height": 354
+        }
+      ],
+      "Source": "Selzer, Dana",
+      "Name": "Measurement Equivalents"
+    }
+  },
+  {
+    "id": "recfIyVKRplemKUj6",
+    "createdTime": "2017-04-10T17:38:25.000Z",
+    "fields": {
+      "Notes": "Join this group asap and view the Getting Started video which is pinned to the top of the group page.",
+      "URL": "https://www.facebook.com/groups/632283663628792/ ",
+      "Name": "Join the AromAssistant Fb User's Group"
+    }
+  }
+]

@@ -1,0 +1,3462 @@
+[
+  {
+    "id": "rec0dCRyuSF39cYhH",
+    "createdTime": "2017-07-21T23:01:17.000Z",
+    "fields": {
+      "Botanical Name": [
+        "rec3Sgt7DOP5w1NoC"
+      ],
+      "Recipes": [
+        "rechrdphI79JYvdOq"
+      ],
+      "Botanical Family": [
+        "recW673888slkgdNC"
+      ],
+      "Common Name": "Angelica Root",
+      "Chemical Family": [
+        "recTmSyJ4dybL7kfp"
+      ],
+      "Botanical Name (text)": "Angelica archangelica"
+    }
+  },
+  {
+    "id": "rec1J28o5XJ9ezcBH",
+    "createdTime": "2020-05-23T13:51:22.000Z",
+    "fields": {
+      "Botanical Name": [
+        "recLZ1zDBE3lOPybd"
+      ],
+      "Recipes": [
+        "recDSvgkpPSi8fQVd",
+        "recQdgAQONm5Z2qMK"
+      ],
+      "Common Name": "Avocado Oil",
+      "AGP Notes": "Avocado oil is expressed from dried avocado flesh. It is highly penetrating, deeply nourishing, and softens dry skin. It is known to restore and re-moisturize the skin. Repeated applications of moisturizing butters, oils or lotions made with avocado oil reveal an increase of hydration of the upper layers of the skin, and an improvement of the skin’s elastic properties.\n\nAvocado oil prevents chapping, cracks and stretch marks, promotes cell regeneration to damaged skin, and is used for skin inflammation and for arthritis pain blends.\n\nIt also adds a beautiful deep olive-green color to the blend. It has a mild aroma, a bit like olive oil.\n\nShelf life: 1–2 years from production, depending on storage (keep cool)",
+      "Inventory": [
+        "recgcKn7ShrfmdDsg"
+      ]
+    }
+  },
+  {
+    "id": "rec1ReCZ54W7JFcm5",
+    "createdTime": "2017-07-21T08:21:45.000Z",
+    "fields": {
+      "Botanical Name": [
+        "rec9YM9bo3a5OzwHG"
+      ],
+      "Recipes": [
+        "recmuP8u7UMh3LBvd",
+        "rec5O5Mo7cRgogyKw"
+      ],
+      "Botanical Family": [
+        "recxCauzbDCmaEhTL"
+      ],
+      "Common Name": "Lemongrass",
+      "Chemical Family": [
+        "recCGgxQaxeMxhKcm"
+      ],
+      "Botanical Name (text)": "Cymbopogon citratus"
+    }
+  },
+  {
+    "id": "rec1iRio6vIsGJqhr",
+    "createdTime": "2017-10-13T00:07:29.000Z",
+    "fields": {
+      "Botanical Name": [
+        "recq27iPrUiOnxPoa"
+      ],
+      "Common Name": "Citronella",
+      "Chemical Family": [
+        "rec1nOJtroMEW0nvl",
+        "recCGgxQaxeMxhKcm"
+      ],
+      "Botanical Name (text)": "Cymbopogon winterianus"
+    }
+  },
+  {
+    "id": "rec1tZoMdar2rL2Oc",
+    "createdTime": "2020-05-23T14:02:47.000Z",
+    "fields": {
+      "Botanical Name": [
+        "rec6vZ2UTpzhbVV7F"
+      ],
+      "Recipes": [
+        "recO3LOV1YwXDbZ1W"
+      ],
+      "Common Name": "Lavender Hydrosol",
+      "AGP Notes": "How are hydrosols made? The distillation process involves filling the still with plant material and forcing pressurized steam through the plant. The pressurized steam breaks open the cells to release the oil content. The steam and oil molecules pass through a cooling condenser, turning the steam back to water.\n\nThe water is collected in a Florentine flask and the oil generally floats on the surface of the water. This water is the hydrosol.\n\nLavender Hydrosol is a personal favorite. I use it for all kinds of skin issues for myself and my animals, as it is cleansing, cooling and offers an anti-inflammatory effect for the skin.  I also use it to clean! I spray it on any surface that tolerates water, such as my windows, glass tables, kitchen counters and just about everywhere in the bathroom!\n\nShelf life: 1 year from production (keep cool)",
+      "Inventory": [
+        "recDajtq6vxZPI9HY"
+      ]
+    }
+  },
+  {
+    "id": "rec21D4hisP2F1BHm",
+    "createdTime": "2017-07-21T23:16:59.000Z",
+    "fields": {
+      "Botanical Name": [
+        "recOqyT3oEpzksWYJ"
+      ],
+      "Botanical Family": [
+        "recrqJWcsQfbac8Tp"
+      ],
+      "Common Name": "Blue Cypress",
+      "Botanical Name (text)": "Callitris intratropica"
+    }
+  },
+  {
+    "id": "rec21TefvPP7r7L5t",
+    "createdTime": "2017-10-12T23:22:54.000Z",
+    "fields": {
+      "Botanical Name": [
+        "recXbrpE5n3jU7ZqF"
+      ],
+      "Common Name": "Sage, Spanish",
+      "Chemical Family": [
+        "recTmSyJ4dybL7kfp"
+      ],
+      "Botanical Name (text)": "Salvia lavandulaefolia"
+    }
+  },
+  {
+    "id": "rec24TpMAUnkMxMzu",
+    "createdTime": "2017-07-22T03:39:49.000Z",
+    "fields": {
+      "Botanical Name": [
+        "recYIjMuKzYasuT2t"
+      ],
+      "Common Name": "St Johns Wort",
+      "Botanical Name (text)": "Hypericum perforatum "
+    }
+  },
+  {
+    "id": "rec2DL9rEbO0WlpjD",
+    "createdTime": "2017-07-15T06:21:51.000Z",
+    "fields": {
+      "Botanical Name": [
+        "recZ3La4cHXM6Dc83"
+      ],
+      "Recipes": [
+        "recSw9ERdHTAqwQHa"
+      ],
+      "Botanical Family": [
+        "recxCauzbDCmaEhTL"
+      ],
+      "Common Name": "Vetiver",
+      "Chemical Family": [
+        "recSIgQxjD6hYIOR2",
+        "recpi86pImkunoC7E",
+        "recFAR6Q1oXXKNx8q"
+      ],
+      "Botanical Name (text)": "Vetiveria zizanoides",
+      "Inventory": [
+        "recRiu2vZRSk7JPEY",
+        "recDg2e9l1ArP0pNZ"
+      ]
+    }
+  },
+  {
+    "id": "rec2OmKeJmLSvPFk0",
+    "createdTime": "2017-10-13T00:58:43.000Z",
+    "fields": {
+      "Botanical Name": [
+        "recB2cN84YWwAF5Ht"
+      ],
+      "Recipes": [
+        "reccvvYJSARjFtU9q"
+      ],
+      "Safety": "Internal use of methyl salicylate-rich oils should be avoided in people with gastroesophageal reflux disease. Salicylate are contraindicated in children due to the risk of developing Reye's syndrome. Do not use birch or wintergreen on infants, on damaged skin, or with individuals who are on other salicylate-based medication or warfarin. Topically applied methyl salicylate can potentiate the anticoagulant effects of warfarin, causing side effects such as internal hemorrhage. One teaspoon of the essential oil of wintergreen is equivalent to approximately 7000 mg of salicylate or 21.7 adult aspirin tablets. Ingestion of as little as 4 ml in a child can be fatal. Immediate action should be taken to treat accidental poisoning from birch or wintergreen essential oils. Methyl salicylate in topical analgesic preparations may cause irritation or allergic contact dermatitis and anaphylactic reactions. A considerable amount of salicylic acid may be absorbed through the skin after topical application of methyl salicylate products. This may increase with multiple applications. Caution is advised in clients for whom systemic salicylate may be hazardous or problematic.    Petroleum bases may slightly minimize skin absorption (that's how it's used in BenGay and other deep heat products for muscle aches and pains)",
+      "Common Name": "Birch",
+      "Chemical Family": [
+        "rect9p0btPwA8PbBi"
+      ],
+      "Botanical Name (text)": "Betula lenta"
+    }
+  },
+  {
+    "id": "rec2Qo0zyzSuOhokV",
+    "createdTime": "2017-07-21T23:31:25.000Z",
+    "fields": {
+      "Botanical Name": [
+        "reco1bTokFeeCWcOT"
+      ],
+      "Common Name": "Chamomile, Cape",
+      "Chemical Family": [
+        "rect9p0btPwA8PbBi"
+      ],
+      "Botanical Name (text)": "Eriocephalus punctulatus "
+    }
+  },
+  {
+    "id": "rec2XGHR50v2DSfn4",
+    "createdTime": "2017-07-21T07:51:30.000Z",
+    "fields": {
+      "Botanical Name": [
+        "recWx9xN4LJPv6HsB"
+      ],
+      "Recipes": [
+        "rect2xo7y9eO3Rksi",
+        "reckN3Ygc46xsiGfH"
+      ],
+      "Botanical Family": [
+        "recgTSgv5gwHVEhqM"
+      ],
+      "Chemical Component": [
+        "rec3lVN8aJYSmvBaH"
+      ],
+      "Common Name": "Orange",
+      "Chemical Family": [
+        "recTmSyJ4dybL7kfp"
+      ],
+      "Botanical Name (text)": "Citrus sinensis",
+      "Inventory": [
+        "rec3TjoG1AUcRJFEw"
+      ]
+    }
+  },
+  {
+    "id": "rec2lXmRhnV9i7N6u",
+    "createdTime": "2017-07-22T01:08:37.000Z",
+    "fields": {
+      "Botanical Name": [
+        "reci5qp4d582t7Muq"
+      ],
+      "Chemical Component": [
+        "rec7WlxHiT65Mx9bn"
+      ],
+      "Common Name": "Kanuka ",
+      "Botanical Name (text)": "Kunzea ericoides"
+    }
+  },
+  {
+    "id": "rec3ANt5HGanL5SFz",
+    "createdTime": "2017-07-22T01:34:08.000Z",
+    "fields": {
+      "Botanical Name": [
+        "reclPuRWmy05eGGDE"
+      ],
+      "Common Name": "Linaloe Berry",
+      "Chemical Family": [
+        "rec1nOJtroMEW0nvl",
+        "rect9p0btPwA8PbBi"
+      ],
+      "Botanical Name (text)": "Bursera delpechiana "
+    }
+  },
+  {
+    "id": "rec3JkwBWZOQPeA1p",
+    "createdTime": "2020-05-21T22:37:45.000Z",
+    "fields": {
+      "Common Name": "curzerene",
+      "Chemical Family": [
+        "rech1u5BlhgvzSx9A"
+      ]
+    }
+  },
+  {
+    "id": "rec3pRyNUHRMuDUtV",
+    "createdTime": "2017-07-21T07:46:34.000Z",
+    "fields": {
+      "Botanical Name": [
+        "recYcBeVJYW04atDz"
+      ],
+      "Recipes": [
+        "rec1m9VHe8Z4ObU0R",
+        "recly2DPeYSQOMncs"
+      ],
+      "Common Name": "Laurel Leaf",
+      "Chemical Family": [
+        "recTmSyJ4dybL7kfp",
+        "recJ9xSHFPxqyf7VU"
+      ],
+      "Botanical Name (text)": "Laurus nobillis",
+      "Inventory": [
+        "recgG6eXHjf7hDMu0"
+      ]
+    }
+  },
+  {
+    "id": "rec42sWA8zBUjkgZ4",
+    "createdTime": "2017-10-12T23:16:24.000Z",
+    "fields": {
+      "Botanical Name": [
+        "recPlBkvvBMlrENdh"
+      ],
+      "Recipes": [
+        "rec9zCyd7CQaCBrXW",
+        "rectUIradKQqAqc3n"
+      ],
+      "Botanical Family": [
+        "recrswfsvmr1fanaS"
+      ],
+      "Common Name": "Pine",
+      "Chemical Family": [
+        "recTmSyJ4dybL7kfp"
+      ],
+      "Botanical Name (text)": "Pines sylvestris"
+    }
+  },
+  {
+    "id": "rec4BPMm9jwdvXThN",
+    "createdTime": "2020-05-23T13:25:08.000Z",
+    "fields": {
+      "Chemical Component": [
+        "rec3lVN8aJYSmvBaH"
+      ],
+      "Common Name": "Clementine"
+    }
+  },
+  {
+    "id": "rec4Snn6QMlqYEIKu",
+    "createdTime": "2017-10-13T00:12:14.000Z",
+    "fields": {
+      "Botanical Name": [
+        "recDGcf8m1d1oMSh2"
+      ],
+      "Chemical Component": [
+        "recKoApvJM6R3mWr0"
+      ],
+      "Common Name": "Lavender",
+      "Chemical Family": [
+        "rec1nOJtroMEW0nvl"
+      ],
+      "Botanical Name (text)": "Lavandula stoechas ssp. stoechas "
+    }
+  },
+  {
+    "id": "rec5CwHH2uKvWhJKF",
+    "createdTime": "2017-07-21T08:19:20.000Z",
+    "fields": {
+      "Botanical Name": [
+        "recEuJX9TYrfBCP43"
+      ],
+      "Common Name": "Jasmine absolute",
+      "Chemical Family": [
+        "rect9p0btPwA8PbBi"
+      ],
+      "Botanical Name (text)": "Jasminum grandiflorum "
+    }
+  },
+  {
+    "id": "rec5MP73aOLXpla9h",
+    "createdTime": "2017-07-21T08:07:14.000Z",
+    "fields": {
+      "Botanical Name": [
+        "reclmYcvnERnAXhQA"
+      ],
+      "Common Name": "Patchouli",
+      "Chemical Family": [
+        "recSIgQxjD6hYIOR2",
+        "recpi86pImkunoC7E"
+      ],
+      "Botanical Name (text)": "Pogostemon cablin",
+      "Inventory": [
+        "receFJG41vXjlMNXn"
+      ]
+    }
+  },
+  {
+    "id": "rec5N8CaliInITW8i",
+    "createdTime": "2017-10-12T23:19:15.000Z",
+    "fields": {
+      "Botanical Name": [
+        "recz6q2SxbkDNoMEW"
+      ],
+      "Botanical Family": [
+        "recGrOXNXOchmhAMF"
+      ],
+      "Common Name": "Eucalyptus camaldulensis",
+      "Chemical Family": [
+        "recTmSyJ4dybL7kfp"
+      ],
+      "Botanical Name (text)": "Eucalyptus camaldulensis"
+    }
+  },
+  {
+    "id": "rec5yE3VwyIQA0bsR",
+    "createdTime": "2017-07-22T00:41:05.000Z",
+    "fields": {
+      "Botanical Name": [
+        "recZcCUjBqp4G1czW"
+      ],
+      "Common Name": "Helichrysum odoratissimum",
+      "Botanical Name (text)": "Helichrysum odoratissimum"
+    }
+  },
+  {
+    "id": "rec6GTBekD3rTXylB",
+    "createdTime": "2020-05-21T20:49:52.000Z",
+    "fields": {
+      "Botanical Name": [
+        "recvJo7twKa7LC2sy"
+      ],
+      "Recipes": [
+        "recM9tbgG1WEDkjdY",
+        "recW8FeMxeOHZgYKS",
+        "recQdgAQONm5Z2qMK",
+        "rec5O5Mo7cRgogyKw"
+      ],
+      "Safety": "Recommend patch test for sensitivity.",
+      "Botanical Family": [
+        "recg2ERf355vgsl3L"
+      ],
+      "Common Name": "Jojoba ",
+      "AGP Notes": "Jojoba is a liquid wax made from pressing the bean from the jojoba bush. It is highly penetrating and the molecular structure closely resembles our natural sebum. It has a great texture for massage and is very moisturizing for the skin. It can be used instead of a moisturizing cream.\n \n\nJojoba oil contains myristic acid, an anti-inflammatory agent making it an excellent carrier for all muscle, tendon and ligament injury blends. It is antioxidant, does not go rancid, and can extend the shelf life of other oils. It is cold pressed from the seeds and minimum pressure is used to obtain high quality oil. It has very little aroma.\n\nShelf life: As this is a liquid wax, it does not go rancid!",
+      "Botanical Name (text)": "Simmondsia chinensis",
+      "Inventory": [
+        "recValD48ucHj7kk8"
+      ]
+    }
+  },
+  {
+    "id": "rec6VEL8afc6WakoX",
+    "createdTime": "2017-07-21T07:58:19.000Z",
+    "fields": {
+      "Botanical Name": [
+        "recJa6mPLhvT7mnx7"
+      ],
+      "Recipes": [
+        "recmQ1NVSJIQalLpp",
+        "recqBruyVuPtYG8Ga",
+        "recQK7VzuFRHGQ5Iv",
+        "rec54DivyLcVdRVoe"
+      ],
+      "Common Name": "Rosemary ct camphor\t",
+      "Chemical Family": [
+        "recTmSyJ4dybL7kfp",
+        "recFAR6Q1oXXKNx8q",
+        "recJ9xSHFPxqyf7VU"
+      ],
+      "Botanical Name (text)": "Rosmarinus officinallis ct. camphor/1,8 cineole",
+      "Inventory": [
+        "recODbc3Y6zdBQPYu",
+        "recoe5DU4V5yYnIUV"
+      ]
+    }
+  },
+  {
+    "id": "rec6xawxWGGofNNq0",
+    "createdTime": "2017-07-22T02:21:31.000Z",
+    "fields": {
+      "Botanical Name": [
+        "recSBFCuu8XvWZ2kN"
+      ],
+      "Common Name": "Palo Santo (Holy Wood)",
+      "Chemical Family": [
+        "recTmSyJ4dybL7kfp"
+      ],
+      "Botanical Name (text)": "Bursera graveolens",
+      "Inventory": [
+        "recWkuYDqhQRdi5HY"
+      ]
+    }
+  },
+  {
+    "id": "rec77PSl0irlsa9EK",
+    "createdTime": "2017-07-21T08:17:44.000Z",
+    "fields": {
+      "Botanical Name": [
+        "recKlWqokRhOpZ5Xr"
+      ],
+      "Recipes": [
+        "recrM4WY42FGQEfvm"
+      ],
+      "Botanical Family": [
+        "recJg7VGNZPztRJJI"
+      ],
+      "Common Name": "Cardamom",
+      "Chemical Family": [
+        "rect9p0btPwA8PbBi",
+        "recJ9xSHFPxqyf7VU"
+      ],
+      "Botanical Name (text)": "Elettaria cardamomum"
+    }
+  },
+  {
+    "id": "rec7Z8F2vhH2nOCTG",
+    "createdTime": "2017-07-15T06:19:35.000Z",
+    "fields": {
+      "Botanical Name": [
+        "recOZq4ztwGryE1Dq"
+      ],
+      "Recipes": [
+        "rec9zCyd7CQaCBrXW",
+        "rectUIradKQqAqc3n"
+      ],
+      "Common Name": "Cedarwood",
+      "Chemical Family": [
+        "recSIgQxjD6hYIOR2",
+        "recpi86pImkunoC7E"
+      ],
+      "Botanical Name (text)": "Juniperus virginiana",
+      "Inventory": [
+        "recTKromjxAzbVTIp"
+      ]
+    }
+  },
+  {
+    "id": "rec7rnz84JzzXk2AT",
+    "createdTime": "2017-07-22T02:50:54.000Z",
+    "fields": {
+      "Botanical Name": [
+        "receejmFCwiDLxc3B"
+      ],
+      "Chemical Component": [
+        "rec7WlxHiT65Mx9bn"
+      ],
+      "Common Name": "Rock Rose",
+      "Botanical Name (text)": "Cistus ladanifer"
+    }
+  },
+  {
+    "id": "rec8C8gahlZf9nma0",
+    "createdTime": "2017-07-21T08:26:42.000Z",
+    "fields": {
+      "Botanical Name": [
+        "recfjmn6az2sEmQQx"
+      ],
+      "Recipes": [
+        "reclRL86pb11FS5A9"
+      ],
+      "Botanical Family": [
+        "recGrOXNXOchmhAMF"
+      ],
+      "Common Name": "Eucalyptus Globulus",
+      "Chemical Family": [
+        "recJ9xSHFPxqyf7VU"
+      ],
+      "Botanical Name (text)": "Eucalyptus globulus",
+      "Inventory": [
+        "recYgpYZ3lHqiIb6C"
+      ]
+    }
+  },
+  {
+    "id": "rec8CKbnKGlWJUpp6",
+    "createdTime": "2017-07-22T01:56:44.000Z",
+    "fields": {
+      "Botanical Name": [
+        "recUsg6BLn1FKX5va"
+      ],
+      "Recipes": [
+        "recg14RZa8gNhFZyb",
+        "recvhcObZybKB0o6g",
+        "rec9zCyd7CQaCBrXW"
+      ],
+      "Chemical Component": [
+        "rec7WlxHiT65Mx9bn"
+      ],
+      "Common Name": "Myrtle (Green or Red)",
+      "Chemical Family": [
+        "recTmSyJ4dybL7kfp",
+        "rect9p0btPwA8PbBi",
+        "recJ9xSHFPxqyf7VU"
+      ],
+      "Botanical Name (text)": "Myrtus communis ",
+      "Inventory": [
+        "recJQI6um5T42JD79"
+      ]
+    }
+  },
+  {
+    "id": "rec8JDLvbXJJRPD5A",
+    "createdTime": "2017-07-21T23:59:13.000Z",
+    "fields": {
+      "Botanical Name": [
+        "recoodlAxflQZP7Tn"
+      ],
+      "Common Name": "Corn Mint (Wild Mint)",
+      "Botanical Name (text)": "Mentha arvensis ",
+      "Inventory": [
+        "recfYNnOKsairHAK3"
+      ]
+    }
+  },
+  {
+    "id": "rec8rJdLzU9dXPFtJ",
+    "createdTime": "2017-07-21T23:07:02.000Z",
+    "fields": {
+      "Botanical Name": [
+        "recjd3ya6IMMGu4eG"
+      ],
+      "Recipes": [
+        "recM9tbgG1WEDkjdY",
+        "rec5O5Mo7cRgogyKw"
+      ],
+      "Botanical Family": [
+        "recB3BDcYkuGKw6AB"
+      ],
+      "Common Name": "Balsam Copaiba",
+      "Chemical Family": [
+        "recSIgQxjD6hYIOR2"
+      ],
+      "Botanical Name (text)": "Copaifera officinalis",
+      "Inventory": [
+        "reco4hGHXC1o6Qg8R"
+      ]
+    }
+  },
+  {
+    "id": "rec9KJHVd3FhFUdma",
+    "createdTime": "2017-07-22T00:48:27.000Z",
+    "fields": {
+      "Botanical Name": [
+        "recaCi5ddSryG5CTb"
+      ],
+      "Common Name": "Honey Myrtle",
+      "Botanical Name (text)": "Melaleuca teretifolia ",
+      "Inventory": [
+        "recnJHQRGjBBEvSLH"
+      ]
+    }
+  },
+  {
+    "id": "rec9ZZdBKrhqJHoTh",
+    "createdTime": "2017-07-21T23:22:32.000Z",
+    "fields": {
+      "Botanical Name": [
+        "recxxK73HPrBf6XB0"
+      ],
+      "Botanical Family": [
+        "recGrOXNXOchmhAMF"
+      ],
+      "Common Name": "Cajeput",
+      "Botanical Name (text)": "Melaleuca leucadendron var. cajuputi "
+    }
+  },
+  {
+    "id": "recA5dCxWMARBxOzw",
+    "createdTime": "2017-07-22T02:38:22.000Z",
+    "fields": {
+      "Botanical Name": [
+        "recIlhpKCMexIyzG7"
+      ],
+      "Botanical Family": [
+        "recrswfsvmr1fanaS"
+      ],
+      "Common Name": "Pinyon Pine",
+      "Botanical Name (text)": "Pines edulis",
+      "Inventory": [
+        "reckxP7pYb1OL24c3"
+      ]
+    }
+  },
+  {
+    "id": "recALSjcze2SrjftM",
+    "createdTime": "2017-07-22T03:58:14.000Z",
+    "fields": {
+      "Botanical Name": [
+        "recVpI2qC1ta7aHIL"
+      ],
+      "Safety": "Internal use of methyl salicylate-rich oils should be avoided in people with gastroesophageal reflux disease. Salicylate are contraindicated in children due to the risk of developing Reye's syndrome. Do not use birch or wintergreen on infants, on damaged skin, or with individuals who are on other salicylate-based medication or warfarin. Topically applied methyl salicylate can potentiate the anticoagulant effects of warfarin, causing side effects such as internal hemorrhage. One teaspoon of the essential oil of wintergreen is equivalent to approximately 7000 mg of salicylate or 21.7 adult aspirin tablets. Ingestion of as little as 4 ml in a child can be fatal. Immediate action should be taken to treat accidental poisoning from birch or wintergreen essential oils. Methyl salicylate in topical analgesic preparations may cause irritation or allergic contact dermatitis and anaphylactic reactions. A considerable amount of salicylic acid may be absorbed through the skin after topical application of methyl salicylate products. This may increase with multiple applications. Caution is advised in clients for whom systemic salicylate may be hazardous or problematic.    Petroleum bases may slightly minimize skin absorption (that's how it's used in BenGay and other deep heat products for muscle aches and pains)",
+      "Common Name": "Wintergreen",
+      "Chemical Family": [
+        "rect9p0btPwA8PbBi"
+      ],
+      "Botanical Name (text)": "Gaultheria fragmentissima wall "
+    }
+  },
+  {
+    "id": "recAXtlZhdOnug2AG",
+    "createdTime": "2017-10-14T01:43:50.000Z",
+    "fields": {
+      "Botanical Name": [
+        "recM6OMqLuZFnBr2Q"
+      ],
+      "Common Name": "Zest Myrtle",
+      "Botanical Name (text)": "Backhousia citriodora Variety A",
+      "Inventory": [
+        "recJaZrQu3imFbBoO"
+      ]
+    }
+  },
+  {
+    "id": "recAn2qompTF0Y983",
+    "createdTime": "2017-07-21T07:57:05.000Z",
+    "fields": {
+      "Botanical Name": [
+        "recMbwlvED2cI6Cqo"
+      ],
+      "Recipes": [
+        "rec6oq4XWFs3tC5zj"
+      ],
+      "Common Name": "Ravintsara (Ho leaf)",
+      "Chemical Family": [
+        "recTmSyJ4dybL7kfp",
+        "recJ9xSHFPxqyf7VU"
+      ],
+      "Botanical Name (text)": "Cinnamomum camphora ct. 1,8 cineole",
+      "Inventory": [
+        "recVVg21qUFtHRW5a"
+      ]
+    }
+  },
+  {
+    "id": "recAqphfOkm9avyZN",
+    "createdTime": "2017-07-21T08:22:16.000Z",
+    "fields": {
+      "Botanical Name": [
+        "recZ7OOsQeP28Zu54"
+      ],
+      "Common Name": "Melissa",
+      "Chemical Family": [
+        "recCGgxQaxeMxhKcm",
+        "rec1nOJtroMEW0nvl"
+      ],
+      "Botanical Name (text)": "Melissa officinalis"
+    }
+  },
+  {
+    "id": "recAxXJjCdRxswMkA",
+    "createdTime": "2020-05-23T14:00:13.000Z",
+    "fields": {
+      "Botanical Name": [
+        "recCNAVR3vGbufD4y"
+      ],
+      "Recipes": [
+        "recWAwlpajAu9nlzQ"
+      ],
+      "Common Name": "Aloe Vera Gel",
+      "AGP Notes": "Aloe Vera gel is made by grinding the inner leaf and cold pressing. It has a soft, silky texture and is very healing for the skin. It offers a cooling, wound-healing effect. Aloe gel is excellent for burns, fungus and to soothe hot, irritated, inflamed skin. I also use it as a base for a nourishing hand gel, acne blends, and for after-sun skin formulas.\n \n\nShelf life: 2 years from production (keep refrigerated).",
+      "Inventory": [
+        "recnlZ3bKrFI2t3vP"
+      ]
+    }
+  },
+  {
+    "id": "recBPOf9BgudqBJcx",
+    "createdTime": "2020-06-15T19:22:17.000Z",
+    "fields": {
+      "Botanical Name": [
+        "recVPLQYyv6ZmPshj"
+      ],
+      "Recipes": [
+        "recDSvgkpPSi8fQVd",
+        "recW8FeMxeOHZgYKS",
+        "recQdgAQONm5Z2qMK",
+        "rece15MB7C1wC2ZOW",
+        "recxfaELyR0ZLd9ol"
+      ],
+      "Botanical Family": [
+        "reczmGdwuGSBzEA3o"
+      ],
+      "Common Name": "Shea butter",
+      "Inventory": [
+        "recx4KkWKgMZvfE9M"
+      ]
+    }
+  },
+  {
+    "id": "recBWHtUAzYBOjYK9",
+    "createdTime": "2017-07-22T01:03:33.000Z",
+    "fields": {
+      "Botanical Name": [
+        "recBwH8PA8SQ5Z1Q3"
+      ],
+      "Common Name": "Jasmine Absolute (grandiflorum)",
+      "Botanical Name (text)": "Jasminum grandiflorum"
+    }
+  },
+  {
+    "id": "recBwaro6Z4j8FmYS",
+    "createdTime": "2017-07-22T01:09:29.000Z",
+    "fields": {
+      "Botanical Name": [
+        "recCJkWU0TyWnzTaw"
+      ],
+      "Common Name": "Kunzea",
+      "Botanical Name (text)": "Kunzea ambigua "
+    }
+  },
+  {
+    "id": "recC32Kril0ncHhRr",
+    "createdTime": "2017-07-22T01:27:51.000Z",
+    "fields": {
+      "Botanical Name": [
+        "receHswwZCXJiq8YM"
+      ],
+      "Safety": "May cause irritation to skin and mucous membranes, best to use in low doses. Avoid using on individuals with sensitive or damaged skin. May be sensitizing. Do not use on children under 2 years of age. ",
+      "Botanical Family": [
+        "recYZR3W6ho06TxcW"
+      ],
+      "Chemical Component": [
+        "rec3lVN8aJYSmvBaH",
+        "recO9lvG2ofjPtjkg",
+        "recsxTQUdnRM027WE"
+      ],
+      "Common Name": "Lemon Verbena (Washington State)",
+      "Chemical Family": [
+        "recTmSyJ4dybL7kfp"
+      ],
+      "Botanical Name (text)": "Aloysia citrodora",
+      "Inventory": [
+        "recmStXIUasOfvCKj"
+      ]
+    }
+  },
+  {
+    "id": "recCKd5gso1yiZTuc",
+    "createdTime": "2017-07-21T23:11:07.000Z",
+    "fields": {
+      "Botanical Name": [
+        "recJkuf0a6ue5p7IZ"
+      ],
+      "Botanical Family": [
+        "recQFLq7vRSVs4qZz"
+      ],
+      "Common Name": "Balsam Poplar",
+      "Botanical Name (text)": "Populus balsamifera"
+    }
+  },
+  {
+    "id": "recChVY6FQdjlaSzL",
+    "createdTime": "2017-07-21T08:11:27.000Z",
+    "fields": {
+      "Botanical Name": [
+        "recNQbLa8XrG09Hjg"
+      ],
+      "Recipes": [
+        "recNrKvqzoXLolPk4"
+      ],
+      "Botanical Family": [
+        "recxCauzbDCmaEhTL"
+      ],
+      "Common Name": "Palmarosa",
+      "Chemical Family": [
+        "rec1nOJtroMEW0nvl"
+      ],
+      "Botanical Name (text)": "Cymbopogon martini",
+      "Inventory": [
+        "recjsur2ZeZc1F2Fi"
+      ]
+    }
+  },
+  {
+    "id": "recCmXM5l0MKN5KEy",
+    "createdTime": "2017-07-15T06:22:20.000Z",
+    "fields": {
+      "Botanical Name": [
+        "recmxiok470CWJpkY"
+      ],
+      "Recipes": [
+        "recT4VDoINvY76GSp",
+        "recSw9ERdHTAqwQHa",
+        "recK8rqHgHRQ5Tg1e"
+      ],
+      "Common Name": "Ylang Ylang",
+      "Chemical Family": [
+        "recSIgQxjD6hYIOR2",
+        "rec1nOJtroMEW0nvl",
+        "rect9p0btPwA8PbBi"
+      ],
+      "Botanical Name (text)": "Cananga odorata for a genuina",
+      "Inventory": [
+        "recJJSmX6cubSP16D"
+      ]
+    }
+  },
+  {
+    "id": "recCz2npwN6Uymj1S",
+    "createdTime": "2017-07-21T23:40:34.000Z",
+    "fields": {
+      "Botanical Name": [
+        "recsgZRXkC8MACopp"
+      ],
+      "Recipes": [
+        "rec2UuTs45vBg2LdK"
+      ],
+      "Common Name": "Cinnamon Bark",
+      "Botanical Name (text)": "Cinnamomum zeylanicum ",
+      "Inventory": [
+        "rect4hoIidk0hOWX7"
+      ]
+    }
+  },
+  {
+    "id": "recE0iEwBVSMVP8MS",
+    "createdTime": "2017-07-21T08:02:59.000Z",
+    "fields": {
+      "Botanical Name": [
+        "recaZux9f2YHQJd3R"
+      ],
+      "Recipes": [
+        "rec2UuTs45vBg2LdK"
+      ],
+      "Common Name": "Thyme ct. thymol ",
+      "Chemical Family": [
+        "recTmSyJ4dybL7kfp",
+        "rec1nOJtroMEW0nvl",
+        "recma6BsWucf3dCB3"
+      ],
+      "Botanical Name (text)": "Thymus vulgaris ct. thymol",
+      "Inventory": [
+        "recMqhf0sZ05DNPt2"
+      ]
+    }
+  },
+  {
+    "id": "recF3p09cZglN99mp",
+    "createdTime": "2017-07-22T03:52:30.000Z",
+    "fields": {
+      "Botanical Name": [
+        "recQYzYNlWYho0XQ2"
+      ],
+      "Common Name": "Utah Juniper ",
+      "Botanical Name (text)": "Juniperus osteosperma "
+    }
+  },
+  {
+    "id": "recFeJ24IUbFb9NF7",
+    "createdTime": "2017-10-14T01:31:38.000Z",
+    "fields": {
+      "Botanical Name": [
+        "recXuIB7v2naxZm8X"
+      ],
+      "Recipes": [
+        "recSvRq9wJ5MueKFS"
+      ],
+      "Chemical Component": [
+        "recN8Jq5awb5vltMZ"
+      ],
+      "Common Name": "Hemp/CBD",
+      "Botanical Name (text)": "Cannabis saliva L"
+    }
+  },
+  {
+    "id": "recGsdm0CznfQ4MWq",
+    "createdTime": "2017-07-22T04:00:24.000Z",
+    "fields": {
+      "Botanical Name": [
+        "recWtdy3UsOHfXmz7"
+      ],
+      "Botanical Family": [
+        "recKufw1pXN8yZoJX"
+      ],
+      "Common Name": "Yarrow",
+      "Chemical Family": [
+        "recSIgQxjD6hYIOR2",
+        "rec1nOJtroMEW0nvl",
+        "recTmSyJ4dybL7kfp"
+      ],
+      "Botanical Name (text)": "Achillea millefolium ",
+      "Inventory": [
+        "recSyXTJoBMoh5QYZ"
+      ]
+    }
+  },
+  {
+    "id": "recGxIPpV3kIZNkWp",
+    "createdTime": "2017-07-21T08:22:51.000Z",
+    "fields": {
+      "Botanical Name": [
+        "recvrv2tsv6t1Qw5E"
+      ],
+      "Recipes": [
+        "rece15MB7C1wC2ZOW"
+      ],
+      "Botanical Family": [
+        "recGrOXNXOchmhAMF"
+      ],
+      "Common Name": "Clove Bud",
+      "Chemical Family": [
+        "recma6BsWucf3dCB3",
+        "recSIgQxjD6hYIOR2"
+      ],
+      "Botanical Name (text)": "Eugenia caryophylata",
+      "Inventory": [
+        "recqXH8nlCEk5OqFV"
+      ]
+    }
+  },
+  {
+    "id": "recHRn9GDGzVSszeh",
+    "createdTime": "2017-07-21T08:05:10.000Z",
+    "fields": {
+      "Botanical Name": [
+        "recKgKXdrbvlPeoe4"
+      ],
+      "Recipes": [
+        "reccvvYJSARjFtU9q",
+        "recN7IUYntDqLDOfQ",
+        "rec49M5G6iCe2M30q",
+        "reckN3Ygc46xsiGfH",
+        "rec5O5Mo7cRgogyKw"
+      ],
+      "Botanical Family": [
+        "recKufw1pXN8yZoJX"
+      ],
+      "Common Name": "Chamomile, German ",
+      "Chemical Family": [
+        "recSIgQxjD6hYIOR2",
+        "recJ9xSHFPxqyf7VU",
+        "recpi86pImkunoC7E"
+      ],
+      "Botanical Name (text)": "Matricaria recutita",
+      "Inventory": [
+        "recslFx8DRzYa1KNl"
+      ]
+    }
+  },
+  {
+    "id": "recHX3miCJPMNUVlV",
+    "createdTime": "2017-10-13T00:11:12.000Z",
+    "fields": {
+      "Botanical Name": [
+        "recJvksXU8reFxHZg"
+      ],
+      "Recipes": [
+        "recly2DPeYSQOMncs"
+      ],
+      "Common Name": "Lavandin",
+      "Chemical Family": [
+        "rec1nOJtroMEW0nvl"
+      ],
+      "Botanical Name (text)": "Lavandula x intermidia"
+    }
+  },
+  {
+    "id": "recHr5ml3g6I2O8sF",
+    "createdTime": "2017-07-22T03:36:46.000Z",
+    "fields": {
+      "Botanical Name": [
+        "recDp6uDhY5377yEK"
+      ],
+      "Common Name": "Spearmint",
+      "Botanical Name (text)": "Mentha spicata",
+      "Inventory": [
+        "recZDG6tzLNZm7iD9"
+      ]
+    }
+  },
+  {
+    "id": "recI2AIzBTTvL1iZN",
+    "createdTime": "2017-07-22T01:38:19.000Z",
+    "fields": {
+      "Botanical Name": [
+        "recYVExOHPHQQ0vab"
+      ],
+      "Common Name": "Makrut Lime Peel",
+      "Botanical Name (text)": "Citrus hystrix "
+    }
+  },
+  {
+    "id": "recI86tKg66n8qbnw",
+    "createdTime": "2017-07-21T08:29:09.000Z",
+    "fields": {
+      "Botanical Name": [
+        "rec6wnLWtneGkvALT"
+      ],
+      "Recipes": [
+        "recjyc08p3wfrnKmh"
+      ],
+      "Botanical Family": [
+        "recW673888slkgdNC"
+      ],
+      "Common Name": "Fennel, Sweet",
+      "Chemical Family": [
+        "recPbdlucrSGOi7Xc",
+        "recTmSyJ4dybL7kfp"
+      ],
+      "Botanical Name (text)": "Foeniculum vulgare",
+      "Inventory": [
+        "recZuY3fwFrzFzEfC"
+      ]
+    }
+  },
+  {
+    "id": "recIMho3eK3LRLzWR",
+    "createdTime": "2020-06-15T20:10:56.000Z",
+    "fields": {
+      "Common Name": "Frankincense Hydrosol",
+      "Inventory": [
+        "recWpnzRc6VcP7vJd"
+      ]
+    }
+  },
+  {
+    "id": "recIS2YdTR9SrQ8XV",
+    "createdTime": "2017-10-13T00:18:27.000Z",
+    "fields": {
+      "Botanical Name": [
+        "rec4nvxEP82QftsWz"
+      ],
+      "Common Name": "Thyme",
+      "Chemical Family": [
+        "rec1nOJtroMEW0nvl"
+      ],
+      "Botanical Name (text)": "Thymus satureioides"
+    }
+  },
+  {
+    "id": "recIUBavdAAoI1Uey",
+    "createdTime": "2017-12-04T00:31:11.000Z",
+    "fields": {
+      "Common Name": "Vetiver"
+    }
+  },
+  {
+    "id": "recIhITgc5csdd4pq",
+    "createdTime": "2017-07-15T06:20:18.000Z",
+    "fields": {
+      "Botanical Name": [
+        "recMJua9KZm269Qgt"
+      ],
+      "Recipes": [
+        "recmQ1NVSJIQalLpp",
+        "recqBruyVuPtYG8Ga",
+        "recNrKvqzoXLolPk4",
+        "reckN3Ygc46xsiGfH",
+        "rec5O5Mo7cRgogyKw"
+      ],
+      "Botanical Family": [
+        "recKufw1pXN8yZoJX"
+      ],
+      "Common Name": "Helichrysum",
+      "Chemical Family": [
+        "recSIgQxjD6hYIOR2",
+        "rect9p0btPwA8PbBi"
+      ],
+      "Botanical Name (text)": "Helichrysum italicum",
+      "Inventory": [
+        "recVWs9EmfFvQ8bNs",
+        "recQuUIRZpKgYWhnV"
+      ]
+    }
+  },
+  {
+    "id": "recIsmWBHsdjM0oWw",
+    "createdTime": "2017-07-21T08:13:14.000Z",
+    "fields": {
+      "Botanical Name": [
+        "recNJeNzdvuvX6yGu"
+      ],
+      "Chemical Component": [
+        "recKoApvJM6R3mWr0"
+      ],
+      "Common Name": "Rosewood",
+      "Chemical Family": [
+        "rec1nOJtroMEW0nvl"
+      ],
+      "Botanical Name (text)": "Aniba rosaeodora",
+      "Inventory": [
+        "rec1KuPsuJAqO9oMB"
+      ]
+    }
+  },
+  {
+    "id": "recJigaplwSsiPgYG",
+    "createdTime": "2017-07-22T02:58:15.000Z",
+    "fields": {
+      "Botanical Name": [
+        "recrikz0Au71Yx6vd"
+      ],
+      "Recipes": [
+        "reccvvYJSARjFtU9q",
+        "recN7IUYntDqLDOfQ",
+        "recHW4GTBZwYyxaib",
+        "recKU2xSiJv2c19oN",
+        "recjyc08p3wfrnKmh",
+        "reckgN7ErofqbHysA",
+        "recmuP8u7UMh3LBvd"
+      ],
+      "Common Name": "Rosemary ct verbenone",
+      "Botanical Name (text)": "Rosemarinus officinalis ct verbenone ",
+      "Inventory": [
+        "recLAKv8suxqAZBvk"
+      ]
+    }
+  },
+  {
+    "id": "recJkTKqMyglpeGcL",
+    "createdTime": "2017-10-14T01:27:18.000Z",
+    "fields": {
+      "Botanical Name": [
+        "recLt4spRyAV9OvPm"
+      ],
+      "Common Name": "Kimberly Heath ",
+      "Botanical Name (text)": "Caltrix exstipulata ",
+      "Inventory": [
+        "recpVw0wqQvATn5AS"
+      ]
+    }
+  },
+  {
+    "id": "recJn5iXVrwVg9r23",
+    "createdTime": "2017-07-22T03:05:05.000Z",
+    "fields": {
+      "Botanical Name": [
+        "recylPPBWlMI93KkH"
+      ],
+      "Recipes": [
+        "rec1m9VHe8Z4ObU0R"
+      ],
+      "Common Name": "Saro ",
+      "Chemical Family": [
+        "recTmSyJ4dybL7kfp",
+        "recJ9xSHFPxqyf7VU"
+      ],
+      "Botanical Name (text)": "Cinnamosma fragrans ",
+      "Inventory": [
+        "recsXVg3yyFNJgbal"
+      ]
+    }
+  },
+  {
+    "id": "recJzmFThA74YYxTR",
+    "createdTime": "2017-07-21T08:02:21.000Z",
+    "fields": {
+      "Botanical Name": [
+        "recD2HduEVvudeNiM"
+      ],
+      "Recipes": [
+        "reclRL86pb11FS5A9"
+      ],
+      "Chemical Component": [
+        "recKoApvJM6R3mWr0"
+      ],
+      "Common Name": "Thyme ct. linalool",
+      "Chemical Family": [
+        "recTmSyJ4dybL7kfp",
+        "rec1nOJtroMEW0nvl"
+      ],
+      "Botanical Name (text)": "Thymus vulgaris ct. linalol",
+      "Inventory": [
+        "reccZgIq8DlkWWgxe",
+        "recwsd7laV1zitsik"
+      ]
+    }
+  },
+  {
+    "id": "recKFsfVY6vfAHemD",
+    "createdTime": "2020-06-18T23:12:51.000Z",
+    "fields": {
+      "Recipes": [
+        "rece15MB7C1wC2ZOW"
+      ],
+      "Common Name": "Vanilla Infused Jojoba Oil"
+    }
+  },
+  {
+    "id": "recKGraA0kVTDqnYR",
+    "createdTime": "2020-05-23T14:02:07.000Z",
+    "fields": {
+      "Recipes": [
+        "rect2xo7y9eO3Rksi"
+      ],
+      "Common Name": "Castile Soap",
+      "AGP Notes": "We use this liquid castile soap as a base to make our own liquid soap for washing our hands in the kitchen and bathroom. We also use it in the shower. This base of Castile soap is unscented, and we add our own essential oils for a cleansing antibacterial effect, and for the great aroma!\n \n\nCastile soap is made from Water, Organic Jojoba oil (Simmondsia chinensis) Saponified Organic Coconut (Cocos nucifera), Saponified Organic Olive Oil (Olea europaea), Organic Aloe Vera (Aloe barbadensis), and Rosemary extract (Rosmarinus officinalis).\n\nShelf life: 1 year from production (keep cool)",
+      "Inventory": [
+        "recG77Og9ArUcb4I7"
+      ]
+    }
+  },
+  {
+    "id": "recKHoBscyUaTcDhc",
+    "createdTime": "2017-10-14T01:07:13.000Z",
+    "fields": {
+      "Botanical Name": [
+        "recAuQ79Sr7GX0kDX"
+      ],
+      "Common Name": "White Cypress ",
+      "Botanical Name (text)": "Callitris glaucophylla"
+    }
+  },
+  {
+    "id": "recKlGYG16cQUI8DL",
+    "createdTime": "2017-07-22T02:03:27.000Z",
+    "fields": {
+      "Botanical Name": [
+        "recoKMZ6j3EuyW99K"
+      ],
+      "Recipes": [
+        "recvhcObZybKB0o6g"
+      ],
+      "Common Name": "Niaouli ct 1,8 cineole",
+      "Chemical Family": [
+        "recTmSyJ4dybL7kfp",
+        "recJ9xSHFPxqyf7VU"
+      ],
+      "Botanical Name (text)": "Melaleuca quinquenervia ct 1,8 cineole",
+      "Inventory": [
+        "rechwCdnf2LMKLWGR"
+      ]
+    }
+  },
+  {
+    "id": "recL2IIzjvhZfZbvj",
+    "createdTime": "2017-07-22T00:04:14.000Z",
+    "fields": {
+      "Botanical Name": [
+        "rec2nAi3HB7uowqVD"
+      ],
+      "Chemical Component": [
+        "rec3lVN8aJYSmvBaH"
+      ],
+      "Common Name": "Elemi",
+      "Chemical Family": [
+        "recTmSyJ4dybL7kfp",
+        "recpi86pImkunoC7E"
+      ],
+      "Botanical Name (text)": "Carnarium luzonicum",
+      "Inventory": [
+        "recGqt3O4SlNumCQc"
+      ]
+    }
+  },
+  {
+    "id": "recL5fuy1WhBqJTzU",
+    "createdTime": "2017-07-22T00:37:50.000Z",
+    "fields": {
+      "Botanical Name": [
+        "recS18LKtAE9myiRR"
+      ],
+      "Common Name": "Helichrysum bracteiferum",
+      "Chemical Family": [
+        "recSIgQxjD6hYIOR2"
+      ],
+      "Botanical Name (text)": "Helichrysum bracteiferum"
+    }
+  },
+  {
+    "id": "recLRP4YQJe5ZALJz",
+    "createdTime": "2017-07-22T01:25:38.000Z",
+    "fields": {
+      "Botanical Name": [
+        "rec63p5iQp4HZAZki"
+      ],
+      "Common Name": "Lemon Thyme (Washington State)",
+      "Botanical Name (text)": "Thymus ct citriodorus "
+    }
+  },
+  {
+    "id": "recM5g9odQ5ppXuah",
+    "createdTime": "2017-07-21T23:05:53.000Z",
+    "fields": {
+      "Botanical Name": [
+        "rec3SZS17eg2Ca5Pz"
+      ],
+      "Botanical Family": [
+        "recrswfsvmr1fanaS"
+      ],
+      "Common Name": "Arizona Corkbark Fir",
+      "Botanical Name (text)": "Abies lasiocarpa var. arizonica"
+    }
+  },
+  {
+    "id": "recMP2w0oL8wZVlin",
+    "createdTime": "2017-12-02T21:42:36.000Z",
+    "fields": {
+      "Recipes": [
+        "recwWYFfJVH4A7qXb"
+      ],
+      "Common Name": "25 drops lime"
+    }
+  },
+  {
+    "id": "recMPxBawzErq4Hps",
+    "createdTime": "2017-07-22T01:41:54.000Z",
+    "fields": {
+      "Botanical Name": [
+        "recASfyjTocABsZdL"
+      ],
+      "Botanical Family": [
+        "recgTSgv5gwHVEhqM"
+      ],
+      "Common Name": "Mandarin (Red)",
+      "Botanical Name (text)": "Citrus reticulata"
+    }
+  },
+  {
+    "id": "recMQB2nKeCqFjxf2",
+    "createdTime": "2017-07-22T01:36:09.000Z",
+    "fields": {
+      "Botanical Name": [
+        "recLPt9FzccP4TLkk"
+      ],
+      "Common Name": "Linden Blossom CO2 Select",
+      "Botanical Name (text)": "Tilia cordata "
+    }
+  },
+  {
+    "id": "recMaTDALTc9Jwu0y",
+    "createdTime": "2020-05-23T14:05:31.000Z",
+    "fields": {
+      "Recipes": [
+        "recOPBLvBGUAZhA7h",
+        "reco6N6LVKoeWsyZg"
+      ],
+      "Safety": "A light, moisturizing lotion that deeply soothes and replenishes the natural oils of the skin. We like to use it as a carrier for essential oils. The unscented lotion from Aromatics International is made with organic alcohol as a light preservative. They have recently transitioned from using a non-preservative lotion to better accommodate shelf life for those making blends for clients. \n\nThe composition of the lotion is as follows: Organic Aloe Leaf Juice (Aloe Barbadensis), Organic Coconut Oil (Cocos Nucifera), Organic Alcohol, Cetearyl Olivate, Sorbitan Olivate, Cetyl Palmitate, Sorbitan Palmitate, Organic Olive Fruit Oil (Olea Europaea), Organic Green Tea Leaf Extract (Camellia Sinensis), Stearic Acid, Xanthan Gum\n\nShelf life: 1 year from production (keep cool)",
+      "Common Name": "Unscented Lotion",
+      "Inventory": [
+        "recdHwdlPyyBdydk1"
+      ]
+    }
+  },
+  {
+    "id": "recMgz49s9kRnvQWi",
+    "createdTime": "2017-12-02T21:42:36.000Z",
+    "fields": {
+      "Recipes": [
+        "recSVP53BbExoPJRE"
+      ],
+      "Common Name": "3 drops lavender"
+    }
+  },
+  {
+    "id": "recOCHINsGv3i8gdo",
+    "createdTime": "2017-07-22T00:04:56.000Z",
+    "fields": {
+      "Botanical Name": [
+        "recVPcAbrPUITVDK2"
+      ],
+      "Botanical Family": [
+        "recrswfsvmr1fanaS"
+      ],
+      "Common Name": "Engelman Spruce",
+      "Botanical Name (text)": "Picea engelmanii"
+    }
+  },
+  {
+    "id": "recOG8wH5ImtIF572",
+    "createdTime": "2017-07-21T23:14:41.000Z",
+    "fields": {
+      "Botanical Name": [
+        "recnOLmWsVeGggRAA"
+      ],
+      "Recipes": [
+        "recqeLmU0p9t6yFe9"
+      ],
+      "Botanical Family": [
+        "recXdmsZasocxKKc1"
+      ],
+      "Common Name": "Bergamot Mint",
+      "Chemical Family": [
+        "rec1nOJtroMEW0nvl",
+        "rect9p0btPwA8PbBi"
+      ],
+      "Botanical Name (text)": "Mentha citrata ",
+      "Inventory": [
+        "recADdeQW4u6gOrpT"
+      ]
+    }
+  },
+  {
+    "id": "recOJLnrsgHVynBM1",
+    "createdTime": "2017-07-21T23:58:07.000Z",
+    "fields": {
+      "Botanical Name": [
+        "recDAnoWpLnIO86st"
+      ],
+      "Chemical Component": [
+        "recKoApvJM6R3mWr0"
+      ],
+      "Common Name": "Coriander",
+      "Chemical Family": [
+        "rect9p0btPwA8PbBi",
+        "rec1nOJtroMEW0nvl"
+      ],
+      "Botanical Name (text)": "Coriandrum sativum",
+      "Inventory": [
+        "recMB37a3ga2oT8kg"
+      ]
+    }
+  },
+  {
+    "id": "recOKueJdKj6gYNNT",
+    "createdTime": "2017-10-13T00:09:54.000Z",
+    "fields": {
+      "Botanical Name": [
+        "recUony8oAY33VVN5"
+      ],
+      "Common Name": "Hyssop",
+      "Chemical Family": [
+        "rec1nOJtroMEW0nvl"
+      ],
+      "Botanical Name (text)": "Hyssopus officinalis L. var decumbens"
+    }
+  },
+  {
+    "id": "recOSagrpLMJh8HD3",
+    "createdTime": "2017-07-22T02:06:23.000Z",
+    "fields": {
+      "Botanical Name": [
+        "rec6WcEi0liDBZHlX"
+      ],
+      "Botanical Family": [
+        "recrswfsvmr1fanaS"
+      ],
+      "Chemical Component": [
+        "recvbQCdE1TUtl1XF"
+      ],
+      "Common Name": "Norway Pine (Red Pine)",
+      "Botanical Name (text)": "Pines resinosa "
+    }
+  },
+  {
+    "id": "recOdeJXRzzEjK53K",
+    "createdTime": "2017-07-22T01:50:04.000Z",
+    "fields": {
+      "Botanical Name": [
+        "recAsPFpMCoiw0gHg"
+      ],
+      "Recipes": [
+        "recfYhexxOE07bkAq",
+        "rec5O5Mo7cRgogyKw"
+      ],
+      "Botanical Family": [
+        "recqB1YhalijmnoVH"
+      ],
+      "Chemical Component": [
+        "rec7WlxHiT65Mx9bn",
+        "recN8Jq5awb5vltMZ"
+      ],
+      "Common Name": "Mastic\t",
+      "Chemical Family": [
+        "recTmSyJ4dybL7kfp"
+      ],
+      "Botanical Name (text)": "Pistacia lentiscus",
+      "Inventory": [
+        "recCo7VPRbg7IXdrD"
+      ]
+    }
+  },
+  {
+    "id": "recOkUJWKtiszIo6R",
+    "createdTime": "2017-07-22T03:55:59.000Z",
+    "fields": {
+      "Botanical Name": [
+        "recYQUiozfW3eirkY"
+      ],
+      "Botanical Family": [
+        "recrswfsvmr1fanaS"
+      ],
+      "Common Name": "White Pine ",
+      "Botanical Name (text)": "Pinus strobus "
+    }
+  },
+  {
+    "id": "recOxlrrPnkz2sxlW",
+    "createdTime": "2017-10-13T00:06:39.000Z",
+    "fields": {
+      "Botanical Name": [
+        "recsuGnQpPgc9phcU"
+      ],
+      "Common Name": "Citronella, Ceylon",
+      "Chemical Family": [
+        "rec1nOJtroMEW0nvl"
+      ],
+      "Botanical Name (text)": "Cymbopogon nardus"
+    }
+  },
+  {
+    "id": "recPHfbLeJOawgteN",
+    "createdTime": "2017-07-21T08:00:40.000Z",
+    "fields": {
+      "Botanical Name": [
+        "recRDyY9SJa3zuOzz"
+      ],
+      "Recipes": [
+        "recmQ1NVSJIQalLpp",
+        "recqBruyVuPtYG8Ga",
+        "recNrKvqzoXLolPk4",
+        "reclRL86pb11FS5A9",
+        "recHW4GTBZwYyxaib",
+        "rec54DivyLcVdRVoe"
+      ],
+      "Common Name": "Marjoram, Sweet",
+      "Chemical Family": [
+        "recTmSyJ4dybL7kfp",
+        "rec1nOJtroMEW0nvl"
+      ],
+      "Botanical Name (text)": "Origanum marjorana ",
+      "Inventory": [
+        "recYVqX5Zl6TX70e1"
+      ]
+    }
+  },
+  {
+    "id": "recPNjwCe356bXCef",
+    "createdTime": "2017-07-22T00:33:01.000Z",
+    "fields": {
+      "Botanical Name": [
+        "recvfNVJLgD1oy3jw"
+      ],
+      "Botanical Family": [
+        "recgTSgv5gwHVEhqM"
+      ],
+      "Common Name": "Grapefruit (White)",
+      "Botanical Name (text)": "Citrus paradisi "
+    }
+  },
+  {
+    "id": "recPTvIZtt6HoWSrU",
+    "createdTime": "2017-07-22T02:52:10.000Z",
+    "fields": {
+      "Botanical Name": [
+        "recDfImwUwBkkVzAK"
+      ],
+      "Common Name": "Rosalina \t",
+      "Botanical Name (text)": "Melaleuca ericifolia "
+    }
+  },
+  {
+    "id": "recQbBqunaEIAKPi2",
+    "createdTime": "2020-06-18T22:48:47.000Z",
+    "fields": {
+      "Recipes": [
+        "recW8FeMxeOHZgYKS",
+        "rec5O5Mo7cRgogyKw"
+      ],
+      "Common Name": "Kombo Butter"
+    }
+  },
+  {
+    "id": "recQqaHJVsMM4pWOO",
+    "createdTime": "2017-07-22T01:22:43.000Z",
+    "fields": {
+      "Botanical Name": [
+        "rec9Q7KzlnbQEF1eE"
+      ],
+      "Common Name": "Lemon Myrtle ",
+      "Botanical Name (text)": "Backhousia citriodora"
+    }
+  },
+  {
+    "id": "recR77XGQr9RRCwyR",
+    "createdTime": "2017-07-22T01:33:03.000Z",
+    "fields": {
+      "Botanical Name": [
+        "recahO3goNPLRLHGL"
+      ],
+      "Botanical Family": [
+        "recgTSgv5gwHVEhqM"
+      ],
+      "Common Name": "Lime",
+      "Botanical Name (text)": "Citrus aurantifolia",
+      "Inventory": [
+        "recGGj3MRHOjFAJ4p"
+      ]
+    }
+  },
+  {
+    "id": "recRBjlvLEicHcUbw",
+    "createdTime": "2017-07-22T01:01:21.000Z",
+    "fields": {
+      "Botanical Name": [
+        "recrscY5HwFvxw0HN"
+      ],
+      "Recipes": [
+        "recg14RZa8gNhFZyb",
+        "recvhcObZybKB0o6g"
+      ],
+      "Common Name": "Inula (Sweet)",
+      "Chemical Family": [
+        "rec1nOJtroMEW0nvl"
+      ],
+      "Botanical Name (text)": "Inula graveolens "
+    }
+  },
+  {
+    "id": "recRVpRdAC7q8RAGO",
+    "createdTime": "2020-05-23T13:56:44.000Z",
+    "fields": {
+      "Botanical Name": [
+        "recb1NkKVEJkurgqC"
+      ],
+      "Recipes": [
+        "recQdgAQONm5Z2qMK"
+      ],
+      "Common Name": "Hemp Seed Oil",
+      "AGP Notes": "Hemp Oil is anti-inflammatory, used for healing skin infections, has antioxidant properties, and is moisturizing for the skin. Hemp Oil is soft, not greasy, and absorbs into the skin easily. It is also known to protect the skin. Hemp can be used as a warm oil treatment for the hair as well!\n\nIt has a high percentage of Essential Fatty Acids. It contains both Omega-6 and Omega-3 Essential Fatty Acids, in a proportion of 3:1. This proportion is the recommended balance of Omega-6 to Omega-3 acids. Fatty Acids support healthy skin and hair. Hemp Seed Oil is used as a carrier oil for essential oil blends for acne, dry skin and hair conditions, eczema, psoriasis, and rheumatoid arthritis.\n\nShelf life: Eight months. Hemp Oil is a sensitive oil that will oxidize under exposure to light and changes in temperature. Best kept cold and ideally refrigerated.",
+      "Inventory": [
+        "rectQNcMvOaKf1L5y"
+      ]
+    }
+  },
+  {
+    "id": "recRieqmSbCbdCyjv",
+    "createdTime": "2017-07-21T08:29:40.000Z",
+    "fields": {
+      "Botanical Name": [
+        "recgcnrAfSmczfARH"
+      ],
+      "Recipes": [
+        "recly2DPeYSQOMncs"
+      ],
+      "Common Name": "Tarragon",
+      "Chemical Family": [
+        "recPbdlucrSGOi7Xc",
+        "recSIgQxjD6hYIOR2"
+      ],
+      "Botanical Name (text)": "Artemisia dracunculus",
+      "Inventory": [
+        "recEZexYuISlKkZPe"
+      ]
+    }
+  },
+  {
+    "id": "recRrnJo0HU0cEmUE",
+    "createdTime": "2017-07-22T00:28:58.000Z",
+    "fields": {
+      "Botanical Name": [
+        "recifT3wTuw8nTPVX"
+      ],
+      "Common Name": "Gingergrass ",
+      "Chemical Family": [
+        "recTmSyJ4dybL7kfp",
+        "recSIgQxjD6hYIOR2",
+        "rec1nOJtroMEW0nvl"
+      ],
+      "Botanical Name (text)": "Cymbopogon martini var. sofia",
+      "Inventory": [
+        "recGu0hJviSCEFhVO"
+      ]
+    }
+  },
+  {
+    "id": "recRtcCdxz715nxiE",
+    "createdTime": "2017-07-21T22:58:16.000Z",
+    "fields": {
+      "Botanical Name": [
+        "rech9docb8CKUMa1g"
+      ],
+      "Common Name": "Agarwood",
+      "Botanical Name (text)": "Aquilaria crassna",
+      "Inventory": [
+        "rec59UR0q1XRJquHi"
+      ]
+    }
+  },
+  {
+    "id": "recRxPOLzkkiUVWTD",
+    "createdTime": "2017-07-22T03:55:08.000Z",
+    "fields": {
+      "Botanical Name": [
+        "recU2oYlWzCdxPZsF"
+      ],
+      "Botanical Family": [
+        "recrswfsvmr1fanaS"
+      ],
+      "Common Name": "White Fir",
+      "Botanical Name (text)": "Abies concolor\t"
+    }
+  },
+  {
+    "id": "recSHa7727D98TLfO",
+    "createdTime": "2017-07-21T08:28:27.000Z",
+    "fields": {
+      "Botanical Name": [
+        "reclB0ql1ddZnRN83"
+      ],
+      "Botanical Family": [
+        "recW673888slkgdNC"
+      ],
+      "Common Name": "Anise",
+      "Chemical Family": [
+        "recPbdlucrSGOi7Xc"
+      ],
+      "Botanical Name (text)": "Pimpinella anisum"
+    }
+  },
+  {
+    "id": "recTCTJBuKFemBao5",
+    "createdTime": "2017-07-21T23:55:52.000Z",
+    "fields": {
+      "Botanical Name": [
+        "rec6F17ngdpW9OuYd"
+      ],
+      "Common Name": "Citronella Java",
+      "Botanical Name (text)": "Cymbopogon winterianus"
+    }
+  },
+  {
+    "id": "recTK0gPM2ZfAr8I7",
+    "createdTime": "2020-05-23T16:21:17.000Z",
+    "fields": {
+      "Recipes": [
+        "rect2xo7y9eO3Rksi"
+      ],
+      "Common Name": "Cornstarch"
+    }
+  },
+  {
+    "id": "recTXHkJbuVjytmU4",
+    "createdTime": "2020-05-21T22:58:10.000Z",
+    "fields": {
+      "Common Name": "Rosmarinus officinalis 'Herb Cottage' CT alpha-pinene",
+      "Inventory": [
+        "recm2X55BsyGKUP9G"
+      ]
+    }
+  },
+  {
+    "id": "recTZzbsxtIH9ZYr2",
+    "createdTime": "2017-10-12T23:19:50.000Z",
+    "fields": {
+      "Botanical Name": [
+        "reccqAL3Pxm4XBFMm"
+      ],
+      "Botanical Family": [
+        "recGrOXNXOchmhAMF"
+      ],
+      "Common Name": "Eucalyptus stageriana",
+      "Chemical Family": [
+        "recTmSyJ4dybL7kfp"
+      ],
+      "Botanical Name (text)": "Eucalyptus stageriana"
+    }
+  },
+  {
+    "id": "recTtK4muvzSwWbnm",
+    "createdTime": "2020-05-23T14:01:00.000Z",
+    "fields": {
+      "Botanical Name": [
+        "recxI28Kt5iVTk7EU"
+      ],
+      "Recipes": [
+        "recM9tbgG1WEDkjdY",
+        "recQdgAQONm5Z2qMK",
+        "rec5O5Mo7cRgogyKw"
+      ],
+      "Common Name": "Beeswax",
+      "AGP Notes": "Beeswax has a very stable chemical makeup and its properties remain consistent over time. Beeswax is collected by heating the honeycomb in water (after removing the honey) so that the floating wax can be separated after solidification when cool. It is used in cosmetic and skincare products as a thickening agent, emulsifier, and humectant.\n\nIt has emollient, soothing and softening properties, and helps the skin retain moisture. It also offers an anti-inflammatory effect.",
+      "Inventory": [
+        "recA10izjKqHEBl9X"
+      ]
+    }
+  },
+  {
+    "id": "recUL1ljZs9rdBSyX",
+    "createdTime": "2017-07-22T00:02:51.000Z",
+    "fields": {
+      "Botanical Name": [
+        "recTB8QzVdpaoGCWe"
+      ],
+      "Botanical Family": [
+        "recrswfsvmr1fanaS"
+      ],
+      "Common Name": "Douglas Fir",
+      "Botanical Name (text)": "Pseudotsuga menziesii"
+    }
+  },
+  {
+    "id": "recUPZAfvF5IKUQMR",
+    "createdTime": "2017-07-22T00:26:07.000Z",
+    "fields": {
+      "Botanical Name": [
+        "recCfQMKpnnMiQye4"
+      ],
+      "Common Name": "Ghandi Root",
+      "Chemical Family": [
+        "rec1nOJtroMEW0nvl"
+      ],
+      "Botanical Name (text)": "Homalomena aromatica",
+      "Inventory": [
+        "rec3brJ82x9VLkBF5"
+      ]
+    }
+  },
+  {
+    "id": "recUWWPEoRMkG4OGl",
+    "createdTime": "2017-07-21T08:10:02.000Z",
+    "fields": {
+      "Botanical Name": [
+        "recuj8mWZdQURXEh9"
+      ],
+      "Recipes": [
+        "reccvvYJSARjFtU9q",
+        "recjyc08p3wfrnKmh"
+      ],
+      "Common Name": "Geranium",
+      "Chemical Family": [
+        "rec1nOJtroMEW0nvl",
+        "rect9p0btPwA8PbBi"
+      ],
+      "Botanical Name (text)": "Pelargonium x asperum",
+      "Inventory": [
+        "recVG8F8dGVwLgPyt"
+      ]
+    }
+  },
+  {
+    "id": "recUbBxiirnunFrRA",
+    "createdTime": "2017-07-22T03:49:33.000Z",
+    "fields": {
+      "Botanical Name": [
+        "recfa8rh9HSUarP3o"
+      ],
+      "Recipes": [
+        "recSvRq9wJ5MueKFS"
+      ],
+      "Common Name": "Tumeric",
+      "Chemical Family": [
+        "recSIgQxjD6hYIOR2",
+        "recFAR6Q1oXXKNx8q"
+      ],
+      "Botanical Name (text)": "Curcuma longa ",
+      "Inventory": [
+        "recYcgNLl1fk0f9kx"
+      ]
+    }
+  },
+  {
+    "id": "recUxeCkfoXAd8r2D",
+    "createdTime": "2017-07-22T00:17:52.000Z",
+    "fields": {
+      "Botanical Name": [
+        "rec8xAWI1HTXyDf89"
+      ],
+      "Common Name": "Fennel (Washington State)",
+      "Botanical Name (text)": "Foeniculum vulgare"
+    }
+  },
+  {
+    "id": "recV44H5fRFCs5dPx",
+    "createdTime": "2017-07-21T08:20:47.000Z",
+    "fields": {
+      "Botanical Name": [
+        "rechpL2VMkfu3td9e"
+      ],
+      "Recipes": [
+        "recQK7VzuFRHGQ5Iv",
+        "recT4VDoINvY76GSp",
+        "rec54DivyLcVdRVoe"
+      ],
+      "Botanical Family": [
+        "recKufw1pXN8yZoJX"
+      ],
+      "Common Name": "Chamomile, Roman",
+      "Chemical Family": [
+        "rect9p0btPwA8PbBi"
+      ],
+      "Botanical Name (text)": "Chamaemelum nobile ",
+      "Inventory": [
+        "recgT5XsYoxvUVcUj",
+        "recanRibsFmaeojFS"
+      ]
+    }
+  },
+  {
+    "id": "recW1dhqW3ArCaAsc",
+    "createdTime": "2017-07-21T07:49:42.000Z",
+    "fields": {
+      "Botanical Name": [
+        "recdhIlQxaEsPLqbW"
+      ],
+      "Recipes": [
+        "rechrdphI79JYvdOq",
+        "recve2F0W1FLS6prm",
+        "rec2UuTs45vBg2LdK",
+        "recKU2xSiJv2c19oN",
+        "recjyc08p3wfrnKmh",
+        "reckgN7ErofqbHysA",
+        "rectUIradKQqAqc3n",
+        "recyI4j5LSQ6XZLbq"
+      ],
+      "Botanical Family": [
+        "recgTSgv5gwHVEhqM"
+      ],
+      "Common Name": "Lemon",
+      "Chemical Family": [
+        "recTmSyJ4dybL7kfp"
+      ],
+      "Botanical Name (text)": "Citrus limon",
+      "Inventory": [
+        "recssyIaFl25WlrQ1"
+      ]
+    }
+  },
+  {
+    "id": "recW67GJcCUnWQMC8",
+    "createdTime": "2020-05-23T13:55:29.000Z",
+    "fields": {
+      "Botanical Name": [
+        "recniYHOMPlC5ijPL"
+      ],
+      "Recipes": [
+        "recM9tbgG1WEDkjdY",
+        "recDSvgkpPSi8fQVd",
+        "recQdgAQONm5Z2qMK",
+        "rece15MB7C1wC2ZOW",
+        "recxfaELyR0ZLd9ol"
+      ],
+      "Common Name": "Coconut Oil ",
+      "AGP Notes": "Coconut oil is cold-pressed from the flesh found inside the shell. It is an excellent carrier oil for dry, itchy, sensitive skin and does not clog pores. It is resistant to rancidity. It is moisturizing and serves as a protective layer, helping to retain the moisture in your skin. Coconut oil is mild and generally safe for people with inflamed, irritated and sensitive skin. It has a strong coconut aroma.\n \n\nShelf life: 2 years from production (keep cool)",
+      "Inventory": [
+        "reciHPt4AhEgrqpcu"
+      ]
+    }
+  },
+  {
+    "id": "recWae6mpqK0LUl4V",
+    "createdTime": "2020-05-23T13:45:04.000Z",
+    "fields": {
+      "Botanical Name": [
+        "recVD6JobpR6Pmqe2"
+      ],
+      "Safety": "No safety issues specific to this oil. Oxidized oil containing linalol may be irritating and sensitizing. Old or oxidized oil should be avoided.",
+      "Botanical Family": [
+        "recgTSgv5gwHVEhqM"
+      ],
+      "Common Name": "Xanthoxylum",
+      "Chemical Family": [
+        "recTmSyJ4dybL7kfp",
+        "rec1nOJtroMEW0nvl",
+        "rect9p0btPwA8PbBi"
+      ]
+    }
+  },
+  {
+    "id": "recWhP4cU314py2KN",
+    "createdTime": "2017-07-15T06:19:17.000Z",
+    "fields": {
+      "Botanical Name": [
+        "rec7dzK3ESXhIdEFE"
+      ],
+      "Recipes": [
+        "recKU2xSiJv2c19oN"
+      ],
+      "Botanical Family": [
+        "recRF8YlMJXAWvzsV"
+      ],
+      "Common Name": "Black Pepper",
+      "Chemical Family": [
+        "recTmSyJ4dybL7kfp",
+        "recSIgQxjD6hYIOR2"
+      ],
+      "Botanical Name (text)": "Piper nigrum",
+      "Inventory": [
+        "rec5CVTR958Tq2IJj"
+      ]
+    }
+  },
+  {
+    "id": "recWs6R63uv79FPWk",
+    "createdTime": "2017-07-22T01:52:03.000Z",
+    "fields": {
+      "Botanical Name": [
+        "rec9zMkXaR9b6Uycy"
+      ],
+      "Recipes": [
+        "rect2xo7y9eO3Rksi"
+      ],
+      "Safety": "Aldehyde­-rich oils are sensitive to oxidation, and best stored in a refrigerator to achieve the longest possible shelf life.\n\nIt's best to use aldehyde-­rich oils well­ diluted and in low doses, as they may irritate skin and mucous membranes. Avoid using with sensitive or damaged skin. Tisserand recommends maximum dermal level of 0.8%. \n\nAlthough citral has the potential to cause irritation and sensitization, it has also been suggested that it could be used for the treatment of allergic and inflammatory diseases. It is possible that the presence of d-limonene and α-pinene reduces its capacity to cause adverse skin reactions (Tisserand and Young 2014). Mitoshi et al. (2014) reported that citral-containing oils have good in vitro anti-allergic and anti-inflammatory activities, and could be used to treat allergy and inflammation.\n\nTisserand and Young suggest avoiding internal use of any oils high in citral with people who have glaucoma, as citral can cause a rise in ocular tension.\n\nOils containing citral should be avoided with antidepressants (specifically Bupropion) that inhibit CYP2B6 enzyme. Robert Tisserand states that this risk is considered \"theoretical\" based on the research.\n\nOils containing citral (Lemongrass, May Chang, Honey Myrtle, Lemon Myrtle) should not be used orally with antidiabetic medication.",
+      "Common Name": "May Chang\t",
+      "AGP Notes": "May Chang essential oil is dominated by citral with varying amounts of other components such as d-limonene, β-myrcene, l-linalol, nerol, geraniol, and sabinene.\n\nMay Chang can contribute long-lasting lemon notes to a blend.\n\nI like to combine May Chang with Palmarosa, which is made up primarily of geraniol. Geranial is derived from geraniol, and they have an effective synergy together. Considering that May Chang can be tough on the skin, Palmarosa is a good blending choice. It both quenches the irritating effects of May Chang, and enhances its therapeutic action against infection.\n\nFor a fungal infection, blend with Lemongrass and Tea Tree, along with oth",
+      "Chemical Family": [
+        "recTmSyJ4dybL7kfp",
+        "recCGgxQaxeMxhKcm"
+      ],
+      "Botanical Name (text)": "Litsea cubeba ",
+      "Inventory": [
+        "recVIENuTp6JuumRO"
+      ]
+    }
+  },
+  {
+    "id": "recX77G3DGChuvwBq",
+    "createdTime": "2017-07-21T23:26:13.000Z",
+    "fields": {
+      "Botanical Name": [
+        "rectIfxtHonMB1iq1"
+      ],
+      "Botanical Family": [
+        "recrswfsvmr1fanaS"
+      ],
+      "Common Name": "Cedarwood, Atlas",
+      "Chemical Family": [
+        "recTmSyJ4dybL7kfp",
+        "recSIgQxjD6hYIOR2"
+      ],
+      "Botanical Name (text)": "Cedrus atlantica ",
+      "Inventory": [
+        "recbO7SwNKRX7X4Pl"
+      ]
+    }
+  },
+  {
+    "id": "recX8R2xnDfZDA0Zp",
+    "createdTime": "2017-07-21T07:50:03.000Z",
+    "fields": {
+      "Botanical Name": [
+        "rectZlhncE7HwZvxU"
+      ],
+      "Recipes": [
+        "recK8rqHgHRQ5Tg1e"
+      ],
+      "Common Name": "Neroli",
+      "Chemical Family": [
+        "recTmSyJ4dybL7kfp",
+        "rec1nOJtroMEW0nvl"
+      ],
+      "Botanical Name (text)": "Citrus aurantium var. amara"
+    }
+  },
+  {
+    "id": "recXYZclIXdXZqy14",
+    "createdTime": "2020-05-23T14:04:28.000Z",
+    "fields": {
+      "Recipes": [
+        "recWAwlpajAu9nlzQ",
+        "recO3LOV1YwXDbZ1W"
+      ],
+      "Common Name": "Solubol ",
+      "AGP Notes": "As you know, essential oils and water do not mix. When essential oils are added into a water or hydrosol spray, the tiny droplets of essential oil stay separate from the water/hydrosol. When sprayed on the body we get tiny droplets of neat essential oil on our skin. To evenly disperse essential oil into the water/hydrosol we use \"Solubol.” It works great to protect the skin from neat essential oil, and has a very mild aroma that doesn't seem to influence the aroma of the blend. We most often use Solubol in sprays we make for damaged or sensitive skin.\n\nThere is some debate about how much Solubol one needs to fully disperse essential oil into the water. The range seems to go from 1:1 ratio (1 drop Solubol to 1 drop essential oil), to 1:8 (8 drops Solubol to 1 drop essential oil). We use it at a 1:4 ratio (1 drop essential oil to 4 drops Solubol).\n\nSoluble is an all-natural product, here are the ingredients:\n\nSucrose Stearate – An emulsifier made from sugar and vegetable oil\nHelianthus annus – Annual sunflower oil\nCera alba – Beeswax\nSterculia urens – A medium-sized, deciduous tree that exudes a gum called karaya used in food as an emulsifier, stabilizer, and thickener\nThe gum of the acacia tree\nPropolis Wax from bees\n\nShelf life: 4 years (keep cool)",
+      "Inventory": [
+        "recIPCv8XZZ0k1t3D"
+      ]
+    }
+  },
+  {
+    "id": "recXa46ZnRi4lDUiZ",
+    "createdTime": "2017-07-22T00:46:39.000Z",
+    "fields": {
+      "Botanical Name": [
+        "recIOsYTy58RZZJbk"
+      ],
+      "Chemical Component": [
+        "recKoApvJM6R3mWr0"
+      ],
+      "Common Name": "Ho Wood ",
+      "Botanical Name (text)": "Cinnamomum camphora ct. linalol"
+    }
+  },
+  {
+    "id": "recXaLRudWJwzp85F",
+    "createdTime": "2017-07-22T01:40:44.000Z",
+    "fields": {
+      "Botanical Name": [
+        "reclyL7QArlDfBMcH"
+      ],
+      "Botanical Family": [
+        "recgTSgv5gwHVEhqM"
+      ],
+      "Common Name": "Mandarin (Green)",
+      "Botanical Name (text)": "Citrus reticulata ",
+      "Inventory": [
+        "recmWlj3I9O5tdjqE"
+      ]
+    }
+  },
+  {
+    "id": "recXjm2KpAW9HgkMR",
+    "createdTime": "2017-07-22T02:41:08.000Z",
+    "fields": {
+      "Botanical Name": [
+        "recjj5fw8cEMojIn8"
+      ],
+      "Recipes": [
+        "recmQ1NVSJIQalLpp",
+        "recNrKvqzoXLolPk4"
+      ],
+      "Common Name": "Plai (Central)",
+      "Botanical Name (text)": "Zingiber cassumunar\t",
+      "Inventory": [
+        "recs9ZOInZIW9KBCC"
+      ]
+    }
+  },
+  {
+    "id": "recXurUfug7XijPJT",
+    "createdTime": "2017-10-13T01:02:15.000Z",
+    "fields": {
+      "Botanical Name": [
+        "reczGNdCrty5KSeSI"
+      ],
+      "Botanical Family": [
+        "recGdL52WimecnE94"
+      ],
+      "Common Name": "Frankincense",
+      "Chemical Family": [
+        "rect9p0btPwA8PbBi"
+      ],
+      "Botanical Name (text)": "Boswellia papyrifera"
+    }
+  },
+  {
+    "id": "recY5q0mp1WrD0G6K",
+    "createdTime": "2017-07-21T23:44:06.000Z",
+    "fields": {
+      "Botanical Name": [
+        "recMVN328GG4xOJvf"
+      ],
+      "Common Name": "Cinnamon Leaf",
+      "Botanical Name (text)": "Cinnamomum zeylanicum",
+      "Inventory": [
+        "recDKDQncDB2rjR92"
+      ]
+    }
+  },
+  {
+    "id": "recYP9mMGMWiDHiBY",
+    "createdTime": "2017-10-13T00:17:38.000Z",
+    "fields": {
+      "Botanical Name": [
+        "rec0XAyI9bZ2H1p8Z"
+      ],
+      "Common Name": "Thyme ct geraniol",
+      "Chemical Family": [
+        "rec1nOJtroMEW0nvl"
+      ],
+      "Botanical Name (text)": "Thymus vulgaris ct geraniol"
+    }
+  },
+  {
+    "id": "recYTmvH5HHi4vgQM",
+    "createdTime": "2017-07-22T00:39:40.000Z",
+    "fields": {
+      "Botanical Name": [
+        "recPGfzAOgK7OvNsn"
+      ],
+      "Common Name": "Helichrysum gymnocephalum",
+      "Botanical Name (text)": "Helichrysum gymnocephalum"
+    }
+  },
+  {
+    "id": "recaLg6l1car1GCYQ",
+    "createdTime": "2017-07-22T00:22:24.000Z",
+    "fields": {
+      "Botanical Name": [
+        "rec4OgEXWE4GTHs0K"
+      ],
+      "Botanical Family": [
+        "recGdL52WimecnE94"
+      ],
+      "Common Name": "Frankincense (Sacra)",
+      "Chemical Family": [
+        "recTmSyJ4dybL7kfp"
+      ],
+      "Botanical Name (text)": "Boswellia sacra"
+    }
+  },
+  {
+    "id": "recaOzMoJGyZrQAcQ",
+    "createdTime": "2017-07-21T23:18:53.000Z",
+    "fields": {
+      "Botanical Name": [
+        "recXS06CjzlvVwfO9"
+      ],
+      "Botanical Family": [
+        "recKufw1pXN8yZoJX",
+        "recW673888slkgdNC"
+      ],
+      "Common Name": "Blue Tansy",
+      "Chemical Family": [
+        "recSIgQxjD6hYIOR2"
+      ],
+      "Botanical Name (text)": "Tanacetum annuum",
+      "Inventory": [
+        "recsKAJLepAGGqFmd",
+        "recvQ0tHXlIQQtPpS"
+      ]
+    }
+  },
+  {
+    "id": "recaP1nQun8mX4i9a",
+    "createdTime": "2017-07-21T08:08:56.000Z",
+    "fields": {
+      "Botanical Name": [
+        "recl52oarUGADGZdx"
+      ],
+      "Recipes": [
+        "recmQ1NVSJIQalLpp",
+        "recqBruyVuPtYG8Ga",
+        "recQK7VzuFRHGQ5Iv",
+        "recqeLmU0p9t6yFe9",
+        "recT4VDoINvY76GSp",
+        "recKU2xSiJv2c19oN",
+        "recmuP8u7UMh3LBvd"
+      ],
+      "Botanical Family": [
+        "recXdmsZasocxKKc1"
+      ],
+      "Common Name": "Basil",
+      "Chemical Family": [
+        "rec1nOJtroMEW0nvl"
+      ],
+      "Botanical Name (text)": "Ocimum basilicum ",
+      "Inventory": [
+        "recNFhONd49Nb4aRO"
+      ]
+    }
+  },
+  {
+    "id": "recaZke3XUoNwvuie",
+    "createdTime": "2017-07-22T02:56:08.000Z",
+    "fields": {
+      "Botanical Name": [
+        "rec2RdGitU2MXKiMz"
+      ],
+      "Botanical Family": [
+        "reciRa24CRUj2Odrb"
+      ],
+      "Common Name": "Rose Otto\t",
+      "Chemical Family": [
+        "rec1nOJtroMEW0nvl"
+      ],
+      "Botanical Name (text)": "Rose x damascena",
+      "Inventory": [
+        "recGUcO5tsYuPKpmK"
+      ]
+    }
+  },
+  {
+    "id": "recbaDvOqS0nM1MXX",
+    "createdTime": "2017-12-02T21:42:36.000Z",
+    "fields": {
+      "Common Name": "3 oz. distilled water (90 mL)"
+    }
+  },
+  {
+    "id": "reccqMjSvTtr4XIvw",
+    "createdTime": "2017-07-21T23:15:51.000Z",
+    "fields": {
+      "Botanical Name": [
+        "recA0yFFzKB3PAwKE"
+      ],
+      "Recipes": [
+        "recrM4WY42FGQEfvm",
+        "recve2F0W1FLS6prm"
+      ],
+      "Botanical Family": [
+        "recrswfsvmr1fanaS"
+      ],
+      "Common Name": "Black Spruce",
+      "Chemical Family": [
+        "recTmSyJ4dybL7kfp",
+        "rect9p0btPwA8PbBi"
+      ],
+      "Botanical Name (text)": "Picea mariana "
+    }
+  },
+  {
+    "id": "recdJY7iEFsMlyoOh",
+    "createdTime": "2017-07-22T02:49:49.000Z",
+    "fields": {
+      "Botanical Name": [
+        "rect1tNNPx9JQsauX"
+      ],
+      "Botanical Family": [
+        "rechN9eZWIMKuswYN"
+      ],
+      "Common Name": "Rhododendron",
+      "Chemical Family": [
+        "recTmSyJ4dybL7kfp",
+        "recSIgQxjD6hYIOR2"
+      ],
+      "Botanical Name (text)": "Rhododendron anthopogon ",
+      "Inventory": [
+        "recS036OxVEaHoAUr"
+      ]
+    }
+  },
+  {
+    "id": "recdax0itBBUo21v5",
+    "createdTime": "2017-07-21T23:09:19.000Z",
+    "fields": {
+      "Botanical Name": [
+        "recDeYObSSm8Mkp9J"
+      ],
+      "Botanical Family": [
+        "recrswfsvmr1fanaS"
+      ],
+      "Common Name": "Balsam Fir",
+      "Botanical Name (text)": "Abies balsamea ",
+      "Inventory": [
+        "recNrN1E2Vye1wqYP"
+      ]
+    }
+  },
+  {
+    "id": "receATmUvp1aSVzoZ",
+    "createdTime": "2017-10-12T23:24:19.000Z",
+    "fields": {
+      "Botanical Name": [
+        "recwOFrog06joLPLR"
+      ],
+      "Common Name": "Valerian",
+      "Chemical Family": [
+        "recTmSyJ4dybL7kfp",
+        "recpi86pImkunoC7E"
+      ],
+      "Botanical Name (text)": "Valeriana officinalis",
+      "Inventory": [
+        "recTtmzQUwSOiBFOv"
+      ]
+    }
+  },
+  {
+    "id": "receEH3AZJGGqB8MT",
+    "createdTime": "2020-06-18T23:01:13.000Z",
+    "fields": {
+      "Recipes": [
+        "recQdgAQONm5Z2qMK",
+        "rec5O5Mo7cRgogyKw"
+      ],
+      "Common Name": "Palm Kernel"
+    }
+  },
+  {
+    "id": "receIcrjaccwZH1as",
+    "createdTime": "2017-07-22T03:34:26.000Z",
+    "fields": {
+      "Botanical Name": [
+        "recsdSRCefjPSytPq"
+      ],
+      "Botanical Family": [
+        "recrswfsvmr1fanaS"
+      ],
+      "Chemical Component": [
+        "recN8Jq5awb5vltMZ"
+      ],
+      "Common Name": "Sitka Spruce",
+      "Chemical Family": [
+        "recFAR6Q1oXXKNx8q",
+        "rect9p0btPwA8PbBi"
+      ],
+      "Botanical Name (text)": "Picea sitchensis ",
+      "Inventory": [
+        "recy7CBbRFkceXDuP"
+      ]
+    }
+  },
+  {
+    "id": "receUUoLc4LGhexZI",
+    "createdTime": "2017-07-22T01:10:32.000Z",
+    "fields": {
+      "Botanical Name": [
+        "recDawvJDLYXRZcbb"
+      ],
+      "Common Name": "Larch Tamarack",
+      "Botanical Name (text)": "Larix Laricina"
+    }
+  },
+  {
+    "id": "recesiOsbObFIpcNf",
+    "createdTime": "2017-07-22T03:42:55.000Z",
+    "fields": {
+      "Botanical Name": [
+        "recC2VSztnPJSr0Cp"
+      ],
+      "Botanical Family": [
+        "recgTSgv5gwHVEhqM"
+      ],
+      "Chemical Component": [
+        "rec3lVN8aJYSmvBaH"
+      ],
+      "Common Name": "Tangerine",
+      "Botanical Name (text)": "Citrus tangerina "
+    }
+  },
+  {
+    "id": "recfI27Fs5Mq7N9HV",
+    "createdTime": "2017-07-22T00:53:17.000Z",
+    "fields": {
+      "Botanical Name": [
+        "recROFxkdJcn2OFm5"
+      ],
+      "Common Name": "Hyssop ct 1,8 cineole ",
+      "Botanical Name (text)": "Hyssopus officinalis var decumbens "
+    }
+  },
+  {
+    "id": "recfqMqAj6SoLPKoF",
+    "createdTime": "2017-07-21T08:16:43.000Z",
+    "fields": {
+      "Botanical Name": [
+        "rechtDDoClC580y0w"
+      ],
+      "Recipes": [
+        "rec49M5G6iCe2M30q",
+        "recyI4j5LSQ6XZLbq",
+        "recSw9ERdHTAqwQHa"
+      ],
+      "Common Name": "Sandalwood",
+      "Chemical Family": [
+        "recpi86pImkunoC7E"
+      ],
+      "Botanical Name (text)": "Santalum album",
+      "Inventory": [
+        "recajfzheiEfmq9fi"
+      ]
+    }
+  },
+  {
+    "id": "rechAalOyCO612Bua",
+    "createdTime": "2017-07-22T01:44:16.000Z",
+    "fields": {
+      "Botanical Name": [
+        "recpIVJrXzekJfBwM"
+      ],
+      "Common Name": "Manuka\t",
+      "Botanical Name (text)": "Leptospermum scoparium ct east cape "
+    }
+  },
+  {
+    "id": "rechqtS0n6UlJjgdR",
+    "createdTime": "2020-05-23T13:21:43.000Z",
+    "fields": {
+      "Chemical Component": [
+        "recvbQCdE1TUtl1XF"
+      ],
+      "Common Name": "Canadian Fir"
+    }
+  },
+  {
+    "id": "rechzKKobdYJ4vBCt",
+    "createdTime": "2017-07-21T07:50:42.000Z",
+    "fields": {
+      "Botanical Name": [
+        "reccO2J6pAl7BL4V2"
+      ],
+      "Recipes": [
+        "recNrKvqzoXLolPk4"
+      ],
+      "Botanical Family": [
+        "recWrOhBrkDiLjx07"
+      ],
+      "Common Name": "Nutmeg",
+      "Chemical Family": [
+        "recTmSyJ4dybL7kfp"
+      ],
+      "Botanical Name (text)": "Myristica fragrans",
+      "Inventory": [
+        "recBvJaCqSjG8CyVz"
+      ]
+    }
+  },
+  {
+    "id": "recjDCDn2tlzbdRB4",
+    "createdTime": "2017-07-22T02:33:03.000Z",
+    "fields": {
+      "Botanical Name": [
+        "recExtqPcE4jtG6n8"
+      ],
+      "Common Name": "Petitgrain (Bigarade)",
+      "Chemical Family": [
+        "rec1nOJtroMEW0nvl",
+        "rect9p0btPwA8PbBi"
+      ],
+      "Botanical Name (text)": "Citrus aurantium var. amara or Bigaradia",
+      "Inventory": [
+        "recGZ9EabUZ5P6DqP"
+      ]
+    }
+  },
+  {
+    "id": "recjEUqXfPjQYtfwC",
+    "createdTime": "2017-07-22T00:10:02.000Z",
+    "fields": {
+      "Botanical Name": [
+        "recr5wWu2ZGjjS2X6"
+      ],
+      "Recipes": [
+        "recSvRq9wJ5MueKFS",
+        "recN7IUYntDqLDOfQ",
+        "rec9zCyd7CQaCBrXW"
+      ],
+      "Botanical Family": [
+        "recGrOXNXOchmhAMF"
+      ],
+      "Common Name": "Eucalyptus Dives",
+      "Chemical Family": [
+        "recTmSyJ4dybL7kfp",
+        "recFAR6Q1oXXKNx8q"
+      ],
+      "Botanical Name (text)": "Eucalyptus dives",
+      "Inventory": [
+        "recIab1B5MSCXRt21"
+      ]
+    }
+  },
+  {
+    "id": "recjrXiWkfGggpu6O",
+    "createdTime": "2020-05-23T13:33:17.000Z",
+    "fields": {
+      "Chemical Component": [
+        "recN8Jq5awb5vltMZ"
+      ],
+      "Common Name": "Cape May"
+    }
+  },
+  {
+    "id": "recl7u1msKzzd1idL",
+    "createdTime": "2017-07-22T00:00:50.000Z",
+    "fields": {
+      "Botanical Name": [
+        "recK3IUOcQwZo9oXN"
+      ],
+      "Common Name": "Davana ",
+      "Botanical Name (text)": "Artemisia pallens "
+    }
+  },
+  {
+    "id": "reclKZaiaZympdLik",
+    "createdTime": "2017-07-22T02:54:54.000Z",
+    "fields": {
+      "Botanical Name": [
+        "recKXJ57qWUrPDkC1"
+      ],
+      "Botanical Family": [
+        "reciRa24CRUj2Odrb"
+      ],
+      "Common Name": "Rose Absolute",
+      "Botanical Name (text)": "Rosa x damascena"
+    }
+  },
+  {
+    "id": "reclVYPwrhETaGw2r",
+    "createdTime": "2017-10-13T00:09:01.000Z",
+    "fields": {
+      "Botanical Name": [
+        "recGcESM6DZ6jHwZE"
+      ],
+      "Common Name": "Geranium rose",
+      "Chemical Family": [
+        "rec1nOJtroMEW0nvl"
+      ],
+      "Botanical Name (text)": "Pelargonium roseum "
+    }
+  },
+  {
+    "id": "reclaMnveI8xGfnKe",
+    "createdTime": "2017-07-15T06:20:40.000Z",
+    "fields": {
+      "Botanical Name": [
+        "reczX5VedSARTZ4Zv"
+      ],
+      "Botanical Family": [
+        "recGdL52WimecnE94"
+      ],
+      "Common Name": "Myrrh",
+      "Chemical Family": [
+        "recSIgQxjD6hYIOR2"
+      ],
+      "Botanical Name (text)": "Commiphora myrrha",
+      "Inventory": [
+        "rec5en1Xxnd4fNIL6"
+      ]
+    }
+  },
+  {
+    "id": "reclly4D4imkTvoqO",
+    "createdTime": "2017-07-21T07:43:46.000Z",
+    "fields": {
+      "Botanical Name": [
+        "recToXIy0vbOicgKj"
+      ],
+      "Recipes": [
+        "rec1m9VHe8Z4ObU0R",
+        "rec54DivyLcVdRVoe",
+        "rectUIradKQqAqc3n"
+      ],
+      "Chemical Component": [
+        "rec7WlxHiT65Mx9bn"
+      ],
+      "Common Name": "Cypress",
+      "Chemical Family": [
+        "recTmSyJ4dybL7kfp"
+      ],
+      "Botanical Name (text)": "Cupressus sempervirens"
+    }
+  },
+  {
+    "id": "recm8rX1B5iXhpSlR",
+    "createdTime": "2020-05-22T01:14:26.000Z",
+    "fields": {
+      "Common Name": "Cedrene oxide"
+    }
+  },
+  {
+    "id": "recmER00MAigGA6JO",
+    "createdTime": "2017-07-22T00:07:32.000Z",
+    "fields": {
+      "Botanical Name": [
+        "recn4H0sw83KgKig1"
+      ],
+      "Recipes": [
+        "rec2UuTs45vBg2LdK",
+        "rec49M5G6iCe2M30q"
+      ],
+      "Botanical Family": [
+        "recGrOXNXOchmhAMF"
+      ],
+      "Common Name": "Eucalyptus Citriodora",
+      "Chemical Family": [
+        "recCGgxQaxeMxhKcm"
+      ],
+      "Botanical Name (text)": "Eucalyptus citriodora"
+    }
+  },
+  {
+    "id": "recmMn4fhWqD2AvPa",
+    "createdTime": "2017-07-21T07:42:58.000Z",
+    "fields": {
+      "Botanical Name": [
+        "recnsmX5R1sCfWFGC"
+      ],
+      "Recipes": [
+        "reckgN7ErofqbHysA"
+      ],
+      "Botanical Family": [
+        "recgTSgv5gwHVEhqM"
+      ],
+      "Common Name": "Bergamot",
+      "Chemical Family": [
+        "recTmSyJ4dybL7kfp",
+        "recSIgQxjD6hYIOR2",
+        "rect9p0btPwA8PbBi",
+        "rec1nOJtroMEW0nvl"
+      ],
+      "Botanical Name (text)": "Citrus bergamia"
+    }
+  },
+  {
+    "id": "recmavJE9iNz3MeQL",
+    "createdTime": "2017-07-22T03:59:17.000Z",
+    "fields": {
+      "Botanical Name": [
+        "rec4t1rQNmwiFJyWL"
+      ],
+      "Common Name": "Xanthoxylum",
+      "Chemical Family": [
+        "recTmSyJ4dybL7kfp",
+        "rec1nOJtroMEW0nvl"
+      ],
+      "Botanical Name (text)": "Zanthoxylum armatum",
+      "Inventory": [
+        "recLr0fYCV1fJESVD"
+      ]
+    }
+  },
+  {
+    "id": "recmn0l9TzIE1960d",
+    "createdTime": "2020-05-23T13:21:28.000Z",
+    "fields": {
+      "Chemical Component": [
+        "recvbQCdE1TUtl1XF"
+      ],
+      "Common Name": "Galbanum"
+    }
+  },
+  {
+    "id": "recnpxQCE6cNIoPzu",
+    "createdTime": "2017-07-21T07:45:07.000Z",
+    "fields": {
+      "Botanical Name": [
+        "recQbrHmo3U8tMvXW"
+      ],
+      "Recipes": [
+        "recyI4j5LSQ6XZLbq"
+      ],
+      "Botanical Family": [
+        "recgTSgv5gwHVEhqM"
+      ],
+      "Chemical Component": [
+        "rec3lVN8aJYSmvBaH"
+      ],
+      "Common Name": "Grapefruit (Rose)",
+      "Chemical Family": [
+        "recTmSyJ4dybL7kfp"
+      ],
+      "Botanical Name (text)": "Citrus paradisi"
+    }
+  },
+  {
+    "id": "reco3uiqQSrX7Kqrf",
+    "createdTime": "2017-07-22T00:43:04.000Z",
+    "fields": {
+      "Botanical Name": [
+        "recYK4yD2tL0GVhgs"
+      ],
+      "Common Name": "Helichrysum splendidum ",
+      "Botanical Name (text)": "Helichrysum splendidum "
+    }
+  },
+  {
+    "id": "reco82jXfcj7j1UCc",
+    "createdTime": "2017-07-21T08:00:15.000Z",
+    "fields": {
+      "Botanical Name": [
+        "recBMPo2B5NXkcMVL"
+      ],
+      "Recipes": [
+        "rec6oq4XWFs3tC5zj"
+      ],
+      "Botanical Family": [
+        "recrswfsvmr1fanaS"
+      ],
+      "Common Name": "Siberian Fir",
+      "Chemical Family": [
+        "recTmSyJ4dybL7kfp",
+        "rect9p0btPwA8PbBi"
+      ],
+      "Botanical Name (text)": "Abies sibirica ",
+      "Inventory": [
+        "reczzuvdFiN1t2foW",
+        "recPCLaOqdSMTYPvU"
+      ]
+    }
+  },
+  {
+    "id": "reco8a5MfM94BJIqC",
+    "createdTime": "2017-07-15T06:21:04.000Z",
+    "fields": {
+      "Botanical Name": [
+        "recLJjcEHTfg91Da7"
+      ],
+      "Common Name": "Opopanax",
+      "Chemical Family": [
+        "recTmSyJ4dybL7kfp",
+        "recSIgQxjD6hYIOR2"
+      ],
+      "Botanical Name (text)": "Commiphora guidotti",
+      "Inventory": [
+        "recBmxVntn1CVNbRP"
+      ]
+    }
+  },
+  {
+    "id": "recq6pvlM8H9MGala",
+    "createdTime": "2017-07-15T06:21:22.000Z",
+    "fields": {
+      "Botanical Name": [
+        "recWEV8R0BqMqcTM5"
+      ],
+      "Common Name": "Spikenard",
+      "Chemical Family": [
+        "recSIgQxjD6hYIOR2"
+      ],
+      "Botanical Name (text)": "Nardostachys jatamansi",
+      "Inventory": [
+        "recI1rSzhXhrQqR8e"
+      ]
+    }
+  },
+  {
+    "id": "recqA7pBlXRGul2Wx",
+    "createdTime": "2017-07-21T23:25:10.000Z",
+    "fields": {
+      "Botanical Name": [
+        "recBRYtcj2Yf5Xl8y"
+      ],
+      "Recipes": [
+        "recM9tbgG1WEDkjdY",
+        "rece15MB7C1wC2ZOW"
+      ],
+      "Botanical Family": [
+        "recW673888slkgdNC"
+      ],
+      "Common Name": "Carrot Seed",
+      "Chemical Family": [
+        "recpi86pImkunoC7E",
+        "recSIgQxjD6hYIOR2"
+      ],
+      "Botanical Name (text)": "Daucus carota ",
+      "Inventory": [
+        "recgPEYHoR4bUGZhD"
+      ]
+    }
+  },
+  {
+    "id": "recqGAvcIvUvVyExg",
+    "createdTime": "2017-07-21T08:14:14.000Z",
+    "fields": {
+      "Botanical Name": [
+        "recMl2GnUL30TscmZ"
+      ],
+      "Recipes": [
+        "rec6oq4XWFs3tC5zj"
+      ],
+      "Common Name": "Spike Lavender",
+      "Chemical Family": [
+        "rec1nOJtroMEW0nvl",
+        "recFAR6Q1oXXKNx8q",
+        "recJ9xSHFPxqyf7VU"
+      ],
+      "Botanical Name (text)": "Lavendula latifolia",
+      "Inventory": [
+        "recKZExGkR2zQTbw0",
+        "rec8EUM7eLOMZAWsm"
+      ]
+    }
+  },
+  {
+    "id": "recqb8k0wkbEWMXx5",
+    "createdTime": "2020-05-21T17:19:44.000Z",
+    "fields": {
+      "Botanical Name": [
+        "recxmPxGFBzinNcdJ",
+        "recaXCuHXVYwQz8n7"
+      ],
+      "Safety": "Non-toxic, non-irritating.",
+      "Botanical Family": [
+        "reccFSfqS9c9cic6L"
+      ],
+      "Chemical Component": [
+        "reczg7XH5YjPfhYEH",
+        "recqpveWIcHAtcK3A",
+        "recynxS00mxarlko0"
+      ],
+      "Common Name": "Geranium",
+      "Chemical Family": [
+        "rect9p0btPwA8PbBi",
+        "rec1nOJtroMEW0nvl"
+      ],
+      "Botanical Name (text)": "Pelargonium graveolens var. roseum",
+      "Inventory": [
+        "recrIYNSndwNBpDM3"
+      ]
+    }
+  },
+  {
+    "id": "recrJvIdmMdmMIckr",
+    "createdTime": "2017-07-22T02:18:10.000Z",
+    "fields": {
+      "Botanical Name": [
+        "recOrCh6KF5gfxBe4"
+      ],
+      "Common Name": "Oregano",
+      "Botanical Name (text)": "Origanum vulgare"
+    }
+  },
+  {
+    "id": "recs3fU9B3fSU4nS0",
+    "createdTime": "2017-07-22T03:56:57.000Z",
+    "fields": {
+      "Botanical Name": [
+        "recN0d8zf84FGCK23"
+      ],
+      "Botanical Family": [
+        "recrswfsvmr1fanaS"
+      ],
+      "Chemical Component": [
+        "recvbQCdE1TUtl1XF"
+      ],
+      "Common Name": "White Spruce",
+      "Botanical Name (text)": "Picea glauca "
+    }
+  },
+  {
+    "id": "recsw19HcO5Jc5Toi",
+    "createdTime": "2020-05-23T13:54:15.000Z",
+    "fields": {
+      "Botanical Name": [
+        "rec921xb5EQSfMoIV"
+      ],
+      "Recipes": [
+        "recM9tbgG1WEDkjdY",
+        "recDSvgkpPSi8fQVd",
+        "recW8FeMxeOHZgYKS",
+        "recQdgAQONm5Z2qMK",
+        "recxfaELyR0ZLd9ol"
+      ],
+      "Common Name": "Cocoa Butter",
+      "AGP Notes": "Cocoa Butter is a solid fat.  It is expressed from the fermented, washed, dried and roasted seed of the cocoa tree. Cocoa Butter is highly protective of our skin and acts as a water repellent. It contains about 5 IU of vitamin E per ounce. It is known to soften and lubricate the skin, reduces cutaneous dryness, and to improve skin flexibility.\n\n \n\nCocoa Butter is particularly praised for its antioxidant properties and is used to treat wrinkles around the eyes and corners of the mouth. In a blend, it brings a smooth thick consistency and the aroma of chocolate!\n\nShelf life: 1–2 years from production, depending on storage (keep cool)",
+      "Inventory": [
+        "recuuemlrDC045eoX"
+      ]
+    }
+  },
+  {
+    "id": "rectEdbt0rJBSbDqj",
+    "createdTime": "2017-07-21T08:09:43.000Z",
+    "fields": {
+      "Botanical Name": [
+        "recbipsB8LXjVDf1N"
+      ],
+      "Recipes": [
+        "rechrdphI79JYvdOq"
+      ],
+      "Common Name": "Clary Sage",
+      "Chemical Family": [
+        "rec1nOJtroMEW0nvl",
+        "rect9p0btPwA8PbBi",
+        "recSIgQxjD6hYIOR2",
+        "recpi86pImkunoC7E"
+      ],
+      "Botanical Name (text)": "Salvia scalarea",
+      "Inventory": [
+        "recXsHZke0cbzgh8f"
+      ]
+    }
+  },
+  {
+    "id": "rectWzoWg5nsxz5kO",
+    "createdTime": "2020-05-23T14:04:14.000Z",
+    "fields": {
+      "Common Name": "Pink Himalayan Salts ",
+      "AGP Notes": "Himalayan pink salt is an incredibly pure, hand-mined salt found in Northern Pakistan in the Himalayan Mountains. It has 84 trace minerals including iron. It has a beautiful pink color!\n \n\nWe use it as a carrier for salt scrubs blends and bath salt formulations. We also use it in the kitchen!\n\nShelf life: does not go rancid!"
+    }
+  },
+  {
+    "id": "recteAhYB3yrGzSFG",
+    "createdTime": "2017-07-22T00:44:20.000Z",
+    "fields": {
+      "Botanical Name": [
+        "rec3bM4DEM72F0clK"
+      ],
+      "Common Name": "Hemlock",
+      "Chemical Family": [
+        "recTmSyJ4dybL7kfp",
+        "rect9p0btPwA8PbBi"
+      ],
+      "Botanical Name (text)": "Tsuga canadensis",
+      "Inventory": [
+        "recNDLOGUKgPyJo97"
+      ]
+    }
+  },
+  {
+    "id": "rectmE7cILIOvG6he",
+    "createdTime": "2017-10-12T23:56:15.000Z",
+    "fields": {
+      "Botanical Name": [
+        "recCEZR804gSIb0Y9"
+      ],
+      "Common Name": "Copaiba ",
+      "Chemical Family": [
+        "recSIgQxjD6hYIOR2"
+      ],
+      "Botanical Name (text)": "Copaifera L. genus"
+    }
+  },
+  {
+    "id": "recttZngOjTZGaM1P",
+    "createdTime": "2017-07-21T08:10:29.000Z",
+    "fields": {
+      "Botanical Name": [
+        "rec6vZ2UTpzhbVV7F"
+      ],
+      "Recipes": [
+        "recmQ1NVSJIQalLpp",
+        "recqBruyVuPtYG8Ga",
+        "recQK7VzuFRHGQ5Iv",
+        "recNrKvqzoXLolPk4",
+        "reclRL86pb11FS5A9",
+        "recHW4GTBZwYyxaib",
+        "recZvJQvyOy7J900x",
+        "recjyc08p3wfrnKmh",
+        "recyI4j5LSQ6XZLbq",
+        "recfYhexxOE07bkAq",
+        "recK8rqHgHRQ5Tg1e",
+        "reckN3Ygc46xsiGfH",
+        "recDSvgkpPSi8fQVd",
+        "rec5O5Mo7cRgogyKw"
+      ],
+      "Chemical Component": [
+        "recKoApvJM6R3mWr0"
+      ],
+      "Common Name": "Lavender",
+      "Chemical Family": [
+        "rec1nOJtroMEW0nvl",
+        "rect9p0btPwA8PbBi"
+      ],
+      "Botanical Name (text)": "Lavendula angustifolia",
+      "Inventory": [
+        "recxQy9SKY5tekmFJ",
+        "recC2gAjbWdCjbaUr"
+      ]
+    }
+  },
+  {
+    "id": "recuHnU7Fzghd8r3l",
+    "createdTime": "2017-07-21T07:44:14.000Z",
+    "fields": {
+      "Botanical Name": [
+        "recsr4CxisopwlYFH"
+      ],
+      "Recipes": [
+        "recmQ1NVSJIQalLpp",
+        "recQK7VzuFRHGQ5Iv",
+        "recqeLmU0p9t6yFe9",
+        "recNrKvqzoXLolPk4",
+        "rec6oq4XWFs3tC5zj",
+        "recve2F0W1FLS6prm",
+        "recfYhexxOE07bkAq"
+      ],
+      "Botanical Family": [
+        "recGdL52WimecnE94"
+      ],
+      "Chemical Component": [
+        "rec7WlxHiT65Mx9bn"
+      ],
+      "Common Name": "Frankincense",
+      "Chemical Family": [
+        "recTmSyJ4dybL7kfp"
+      ],
+      "Botanical Name (text)": "Boswella carterii",
+      "Inventory": [
+        "recuPyZHvEzDhnyuK"
+      ]
+    }
+  },
+  {
+    "id": "recuPhy6UbiZ3uC9F",
+    "createdTime": "2017-07-21T23:23:43.000Z",
+    "fields": {
+      "Botanical Name": [
+        "recJcL5PGkAnINvxT"
+      ],
+      "Botanical Family": [
+        "recrqJWcsQfbac8Tp"
+      ],
+      "Common Name": "California Juniper",
+      "Botanical Name (text)": "Juniperus californica "
+    }
+  },
+  {
+    "id": "recucXuiLwoCgzn7b",
+    "createdTime": "2017-07-21T23:30:12.000Z",
+    "fields": {
+      "Botanical Name": [
+        "recJGNZExJ6aSh536"
+      ],
+      "Botanical Family": [
+        "recrswfsvmr1fanaS"
+      ],
+      "Common Name": "Cedarwood, Indian",
+      "Botanical Name (text)": "Cedrus deodara "
+    }
+  },
+  {
+    "id": "recv10d0frAO2hRpe",
+    "createdTime": "2017-07-22T03:46:16.000Z",
+    "fields": {
+      "Botanical Name": [
+        "recoZadBjxdG347tZ"
+      ],
+      "Common Name": "Tulsi (Holy Basil)",
+      "Botanical Name (text)": "Ocimum sanctum ct eugenol"
+    }
+  },
+  {
+    "id": "recv8yzPdEiRAziDU",
+    "createdTime": "2017-07-22T03:32:27.000Z",
+    "fields": {
+      "Botanical Name": [
+        "recWq6bpx7tmBuJRC"
+      ],
+      "Recipes": [
+        "recrM4WY42FGQEfvm"
+      ],
+      "Botanical Family": [
+        "recrswfsvmr1fanaS"
+      ],
+      "Chemical Component": [
+        "recvbQCdE1TUtl1XF"
+      ],
+      "Common Name": "Scotch Pine",
+      "Botanical Name (text)": "Pinus sylvestris "
+    }
+  },
+  {
+    "id": "recvAWdR5IX4mowyg",
+    "createdTime": "2017-07-22T03:53:38.000Z",
+    "fields": {
+      "Botanical Name": [
+        "recSkPxnkwZXAGRm7"
+      ],
+      "Common Name": "Vanilla Oleoresin ",
+      "Botanical Name (text)": "Vanilla planifolia"
+    }
+  },
+  {
+    "id": "recvC0r7t2432VonQ",
+    "createdTime": "2017-07-22T00:18:51.000Z",
+    "fields": {
+      "Botanical Name": [
+        "recaqNaJK8vtZqewT"
+      ],
+      "Common Name": "Fingerroot",
+      "Botanical Name (text)": "Boesenbergia pandurata"
+    }
+  },
+  {
+    "id": "recvI40WLz5s26nI6",
+    "createdTime": "2017-07-22T03:44:40.000Z",
+    "fields": {
+      "Botanical Name": [
+        "recRtCbpOPoH2XWio"
+      ],
+      "Common Name": "Thyme (Benchmark)",
+      "Botanical Name (text)": "Thymus zygis Loefl L.",
+      "Inventory": [
+        "recf3a2rEuKXokQLl"
+      ]
+    }
+  },
+  {
+    "id": "recvi5ebNHqDRdQ22",
+    "createdTime": "2017-07-21T07:45:25.000Z",
+    "fields": {
+      "Botanical Name": [
+        "recakHhI8ayvm6Nrx"
+      ],
+      "Recipes": [
+        "recNrKvqzoXLolPk4",
+        "recN7IUYntDqLDOfQ",
+        "rec49M5G6iCe2M30q",
+        "recZvJQvyOy7J900x",
+        "rec54DivyLcVdRVoe",
+        "reckN3Ygc46xsiGfH"
+      ],
+      "Chemical Component": [
+        "rec7WlxHiT65Mx9bn",
+        "recN8Jq5awb5vltMZ"
+      ],
+      "Common Name": "Juniper Berry",
+      "Chemical Family": [
+        "recTmSyJ4dybL7kfp"
+      ],
+      "Botanical Name (text)": "Juniperus communis",
+      "Inventory": [
+        "rec7az0yyaLyu0R5w"
+      ]
+    }
+  },
+  {
+    "id": "recwNRvG9P87RWhck",
+    "createdTime": "2020-05-21T20:54:34.000Z",
+    "fields": {
+      "Recipes": [
+        "recSvRq9wJ5MueKFS",
+        "recN7IUYntDqLDOfQ",
+        "rec54DivyLcVdRVoe",
+        "recfYhexxOE07bkAq"
+      ],
+      "Safety": "Recommend patch test for sensitivity",
+      "Common Name": "Trauma Oil",
+      "AGP Notes": "his is an herbally-infused oil blend that combines Arnica oils, St. John’s Wort oil and Calendula oil. Arnica oil offers analgesic, anti-inflammatory, and tissue healing actions. The St. John’s Wort oil is used for all kinds of nerve pain and trauma to the body. Calendula oil is skin healing and nourishing. \n\nThis is an excellent carrier for all blends being made for injury, trauma, and healing. This blend has a slight olive oil aroma. Do not apply to broken skin. \n\nShelf life: 2 years from production (keep cool). Ok",
+      "Botanical Name (text)": "Arnica montana, Hypericum perforatum, and Calendula officinalis",
+      "Inventory": [
+        "rec9yomOoDaM5K97b"
+      ]
+    }
+  },
+  {
+    "id": "recwiOaEM1IombOFL",
+    "createdTime": "2017-07-22T00:20:07.000Z",
+    "fields": {
+      "Botanical Name": [
+        "rec3NxKiKSowTV6lu"
+      ],
+      "Common Name": "Fragonia ",
+      "Botanical Name (text)": "Agonis fragrans"
+    }
+  },
+  {
+    "id": "recx1Iv0MnmACnhtB",
+    "createdTime": "2017-07-22T00:12:53.000Z",
+    "fields": {
+      "Botanical Name": [
+        "rec9qoP85TBKPbehi"
+      ],
+      "Recipes": [
+        "recvhcObZybKB0o6g"
+      ],
+      "Botanical Family": [
+        "recGrOXNXOchmhAMF"
+      ],
+      "Common Name": "Eucalyptus Radiata",
+      "Botanical Name (text)": "Eucalyptus radiata",
+      "Inventory": [
+        "recskQgMyP1LcrQul"
+      ]
+    }
+  },
+  {
+    "id": "recxiw7FWFwOX6OF0",
+    "createdTime": "2017-10-13T01:01:38.000Z",
+    "fields": {
+      "Botanical Name": [
+        "recfH7glkaEGY7ee5"
+      ],
+      "Botanical Family": [
+        "recrswfsvmr1fanaS"
+      ],
+      "Common Name": "Fir, silver",
+      "Chemical Family": [
+        "rect9p0btPwA8PbBi"
+      ],
+      "Botanical Name (text)": "Abies alba"
+    }
+  },
+  {
+    "id": "recxjOmjEq61X7Bwc",
+    "createdTime": "2017-07-22T03:41:13.000Z",
+    "fields": {
+      "Botanical Name": [
+        "recw5g2h7H2LpdWBK"
+      ],
+      "Common Name": "Sugandha Kokila",
+      "Chemical Family": [
+        "recTmSyJ4dybL7kfp",
+        "rect9p0btPwA8PbBi",
+        "recJ9xSHFPxqyf7VU"
+      ],
+      "Botanical Name (text)": "Cinnamomum glaucescens ",
+      "Inventory": [
+        "recJo6a8XHqMcTpc9"
+      ]
+    }
+  },
+  {
+    "id": "recy7ZS1Lg4UQWmHD",
+    "createdTime": "2020-05-23T16:20:50.000Z",
+    "fields": {
+      "Recipes": [
+        "rect2xo7y9eO3Rksi"
+      ],
+      "Common Name": "Baking Soda"
+    }
+  },
+  {
+    "id": "recyJ3X7yDB0YzXoD",
+    "createdTime": "2017-07-21T08:01:41.000Z",
+    "fields": {
+      "Botanical Name": [
+        "recUtpLUTLcUnJsh8"
+      ],
+      "Recipes": [
+        "rect2xo7y9eO3Rksi",
+        "reclRL86pb11FS5A9",
+        "rec2UuTs45vBg2LdK",
+        "recDSvgkpPSi8fQVd"
+      ],
+      "Botanical Family": [
+        "recGrOXNXOchmhAMF"
+      ],
+      "Common Name": "Tea Tree",
+      "Chemical Family": [
+        "recTmSyJ4dybL7kfp",
+        "rec1nOJtroMEW0nvl"
+      ],
+      "Botanical Name (text)": "Melaleuca alternifolla",
+      "Inventory": [
+        "recuC7OFXbszSvTC3"
+      ]
+    }
+  },
+  {
+    "id": "recyMbwaF0rC12Cvb",
+    "createdTime": "2020-05-23T16:42:46.000Z",
+    "fields": {
+      "Botanical Name": [
+        "rectZlhncE7HwZvxU"
+      ],
+      "Botanical Family": [
+        "recgTSgv5gwHVEhqM"
+      ],
+      "Common Name": "Neroli/Petitgrain",
+      "AGP Notes": "Neroli/Petitgrain co-distill has a great mix of chemical components from Neroli and Petitgrain—the monoterpenols l-linalol, nerol (also known as cis-geraniol; it is isomeric with both geraniol and linalol), and α-terpineol, and the esters linalyl acetate, neryl acetate, and geranyl acetate.\n\nFor heart palpitations, try combining Neroli/Petitgrain with Ylang Ylang. \n\nNeroli/Petitgrain is such a versatile oil. It blends well with other oils that have a significant linalol and linalyl acetate content, and with other oils rich in monoterpenols and esters.  \n\nTry Neroli/Petitgrain for cooling and calming blends. It's emotionally uplifting, and at the same time soothes the nervous system. It's great for reducing anxiety, stress, fear, and panic. \n\nFor stress relief, it works very well with Linaloe Berry, Bergamot Mint, and Petitgrain, as they share the monoterpenol and ester profile. Including Bergamot would add the immune supportive and anxiety reducing effects of d-limonene. \n\nFor helping with insomnia, consider blending with Lavender and Neroli. \n\nIn blends for pain relief, consider blending Neroli/Petitgrain with other oils especially noted for either their antinociceptive and anti-inflammatory actions, such as Black Pepper (β-caryophyllene, d-limonene, α-pinene), Coriander Seed (linalol, α-pinene, γ-terpinene), and Sitka Spruce (β-myrcene and bornyl acetate).\n\nPersonal Notes\n\nNeroli/Petitgrain is made from distilling both the flower and the leaf of the tree. The aroma is nicely balanced between Neroli and Petitgrain.",
+      "Chemical Family": [
+        "rect9p0btPwA8PbBi",
+        "recTmSyJ4dybL7kfp",
+        "rec1nOJtroMEW0nvl"
+      ],
+      "Inventory": [
+        "recukt4hv17imLVkq"
+      ]
+    }
+  },
+  {
+    "id": "recyyeL7rxlB9LKol",
+    "createdTime": "2017-07-22T02:44:21.000Z",
+    "fields": {
+      "Botanical Name": [
+        "recvXzgkYfERiq3gP"
+      ],
+      "Botanical Family": [
+        "recrswfsvmr1fanaS"
+      ],
+      "Chemical Component": [
+        "recvbQCdE1TUtl1XF"
+      ],
+      "Common Name": "Ponderosa Pine",
+      "Botanical Name (text)": "pinus ponderosa\t"
+    }
+  },
+  {
+    "id": "recyzgVxuF7MgbPhu",
+    "createdTime": "2017-07-21T08:12:02.000Z",
+    "fields": {
+      "Botanical Name": [
+        "recjb2yE7K99Hswjs"
+      ],
+      "Recipes": [
+        "recqBruyVuPtYG8Ga",
+        "recQK7VzuFRHGQ5Iv",
+        "recqeLmU0p9t6yFe9",
+        "recZvJQvyOy7J900x",
+        "recfYhexxOE07bkAq",
+        "recDSvgkpPSi8fQVd"
+      ],
+      "Safety": "Should not be used internally, or on or near the face of infants and young children because it can cause bronchospasm, tongue spasms, and respiratory arrest. Peppermint may decrease esophageal sphincter pressure; use with caution in people with gastroesophageal reflux or with a hiatal hernia. Peppermint may cause heartburn in sensitive individuals. Enteric-coated peppermint leaf EO capsules may cause anal burning, especially in clients with diarrhea. The standard internal dose of peppermint is 180-350mg in enteric coated capsules, three times a day. High doses of peppermint oil can cause burning, redness, or irritation in the throat",
+      "Common Name": "Peppermint",
+      "Chemical Family": [
+        "rec1nOJtroMEW0nvl",
+        "recFAR6Q1oXXKNx8q"
+      ],
+      "Botanical Name (text)": "Mentha x piperita ",
+      "Inventory": [
+        "recnKice8Pkc4LZkb",
+        "recSdHvYbCK11CSRT"
+      ]
+    }
+  },
+  {
+    "id": "reczRa0VhObQtsFXt",
+    "createdTime": "2017-07-15T06:19:58.000Z",
+    "fields": {
+      "Botanical Name": [
+        "rec1o5Xk85tt59u8s"
+      ],
+      "Recipes": [
+        "recqeLmU0p9t6yFe9",
+        "recNrKvqzoXLolPk4",
+        "reckN3Ygc46xsiGfH",
+        "rece15MB7C1wC2ZOW"
+      ],
+      "Botanical Family": [
+        "recJg7VGNZPztRJJI"
+      ],
+      "Common Name": "Ginger",
+      "Chemical Family": [
+        "recSIgQxjD6hYIOR2"
+      ],
+      "Botanical Name (text)": "Zingiber officinale",
+      "Inventory": [
+        "receSPxX2B6h8Ej9X",
+        "recYYJwjoTvk4tA71"
+      ]
+    }
+  },
+  {
+    "id": "reczVkmqatcntcCno",
+    "createdTime": "2017-12-02T21:42:36.000Z",
+    "fields": {
+      "Common Name": "2 drops lemongrass"
+    }
+  },
+  {
+    "id": "reczWHLZ8Z2Hhw06K",
+    "createdTime": "2020-06-18T23:28:12.000Z",
+    "fields": {
+      "Recipes": [
+        "recxfaELyR0ZLd9ol"
+      ],
+      "Common Name": "Pomegranate Seed Oil"
+    }
+  },
+  {
+    "id": "reczwc5FwyAbllqPB",
+    "createdTime": "2020-05-23T13:25:43.000Z",
+    "fields": {
+      "Chemical Component": [
+        "rec3lVN8aJYSmvBaH"
+      ],
+      "Common Name": "Satsuma"
+    }
+  }
+]

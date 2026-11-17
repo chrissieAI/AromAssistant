@@ -1,0 +1,2636 @@
+[
+  {
+    "id": "rec07YKeAscaMWaq8",
+    "createdTime": "2017-10-12T23:26:58.000Z",
+    "fields": {
+      "Therapeutic Property": "Powerful antispasmodic effect",
+      "Chemical Families": [
+        "recqgMku9VeqHl7RZ"
+      ]
+    }
+  },
+  {
+    "id": "rec0UQiRLHnxPcQXq",
+    "createdTime": "2017-07-15T05:42:02.000Z",
+    "fields": {
+      "Therapeutic Property": "Antihistaminic ",
+      "Inventory": [
+        "recz0ZW5WPsDQa08O",
+        "recjfK0B2gemQUtWO",
+        "rectDwSJl588a8QSM",
+        "rec5HGNFUFOjLyTwQ",
+        "rec3qew8AlVI34KH8"
+      ],
+      "Chemical Component": [
+        "rec9BJVKgW0k5kecw",
+        "rec1K8C9Csf758CQx"
+      ]
+    }
+  },
+  {
+    "id": "rec0gjoBne1bswMWv",
+    "createdTime": "2017-10-12T22:36:39.000Z",
+    "fields": {
+      "Description": "Tending to induce a feeling of happiness, well-being",
+      "Therapeutic Property": "Euphoric"
+    }
+  },
+  {
+    "id": "rec0iFy9FJczDqopV",
+    "createdTime": "2017-10-12T23:26:58.000Z",
+    "fields": {
+      "Therapeutic Property": "stimulating to body systems",
+      "Chemical Families": [
+        "recXfFAsTYyZWgCvQ"
+      ]
+    }
+  },
+  {
+    "id": "rec0oq7VZkgteF3W9",
+    "createdTime": "2017-10-12T23:26:58.000Z",
+    "fields": {
+      "Therapeutic Property": "supports terrain",
+      "Chemical Families": [
+        "rec0nH5pFQGegrC1r"
+      ]
+    }
+  },
+  {
+    "id": "rec0zqh5shMnBFNqG",
+    "createdTime": "2017-07-15T04:30:04.000Z",
+    "fields": {
+      "Description": "Inhibits growth of viruses ",
+      "Therapeutic Property": "Antiviral ",
+      "Chemical Families": [
+        "recdLPwQ71AwqkK69"
+      ],
+      "Inventory": [
+        "rec3P9ILbTWqztFg0",
+        "recYPRbe5jGWXOZeY",
+        "reczlYXZ0P3abLb0p",
+        "recX1Ui3FDaPmgjkr",
+        "recLoOyhbM0Zft995",
+        "recnvQe0ptmPwQPnP",
+        "recoKQNNayvx47aLB",
+        "rec5HGNFUFOjLyTwQ",
+        "rectiguY866LUFSLG",
+        "rec3qew8AlVI34KH8",
+        "recw0P11no1dAUWZX",
+        "rec3x7HaCPoPPorKO",
+        "recEYSnGY4gWKMFyj",
+        "rec12g7ni604YRqzI"
+      ],
+      "Chemical Component": [
+        "recI1UwHfnsPFA95a",
+        "recren46PORcoiJ9b",
+        "recsnrxsHe13JYi88",
+        "rec2S8TS0gbzxUw7Z",
+        "recNjCKrZEkWK1eEL",
+        "recO1nLRQ4zgFBZQd",
+        "rec6Cf0zb9Ve9zv1q",
+        "reclt9ovGgsBWpWlN",
+        "rec9BJVKgW0k5kecw",
+        "recrqbULfeGV3rQ3e",
+        "recMdKizUR30a5w1y",
+        "rec1K8C9Csf758CQx",
+        "recNG5ze2GiZuCah2",
+        "receEQnCjgZweXvLG",
+        "reczrwZXUCovlW8sm"
+      ]
+    }
+  },
+  {
+    "id": "rec15Xu3uJUJPNu52",
+    "createdTime": "2017-10-12T23:26:58.000Z",
+    "fields": {
+      "Therapeutic Property": "grounding",
+      "Chemical Families": [
+        "rec0nH5pFQGegrC1r",
+        "rectNPPxg7s1RLOLP"
+      ]
+    }
+  },
+  {
+    "id": "rec1W1jKJkSvPzwES",
+    "createdTime": "2017-07-15T04:29:29.000Z",
+    "fields": {
+      "Description": "Prevents and/or relieves rheumatic pain and swelling",
+      "Therapeutic Property": "Antirheumatic ",
+      "Inventory": [
+        "recowm0EZpUYUzqSC",
+        "recpIKb3VAVXuTPSh",
+        "rec8V78SHsrd7nmzw",
+        "recd7Pzj8qzmceaOe",
+        "recIf8ZyvE7in3RZj",
+        "recl4dwGhlojJWbqN",
+        "recJJtL7bfawSDWm9",
+        "reccAi9CnmFq1FyPm"
+      ]
+    }
+  },
+  {
+    "id": "rec1zDsidpq7s49Hz",
+    "createdTime": "2017-07-15T05:05:43.000Z",
+    "fields": {
+      "Therapeutic Property": "Antitumoral ",
+      "Inventory": [
+        "recRUdXHllqVNJZbq",
+        "recGHuSR6zuDj5ID6",
+        "recwNdMuQTstnxmLB",
+        "recxp3XDnLcB6l5BL"
+      ],
+      "Chemical Component": [
+        "recEquM87dkCfyB4u",
+        "reciUR9FdwOQYoy3i",
+        "recNjCKrZEkWK1eEL",
+        "recDn2P9EKivft2yS",
+        "recO1nLRQ4zgFBZQd",
+        "recJy0Ifx9UZfQXoU",
+        "reclt9ovGgsBWpWlN",
+        "recXnzYeO69N6XkKa",
+        "recrqbULfeGV3rQ3e",
+        "recW93hI05FbT4q7k",
+        "recwJPKsbLTDfpyEW",
+        "recvRPzsGTJiecI1a",
+        "recNYKtOYO2DTAlIR",
+        "recqodAmfuKvqvvqb",
+        "recHrBUSLgCECtpVH",
+        "reco4pkDTjyqb7PAF",
+        "recMdKizUR30a5w1y",
+        "rec4lCrtA4tq3gkdT",
+        "recL9wHIuQTpQEmyE",
+        "rec1K8C9Csf758CQx",
+        "recNG5ze2GiZuCah2",
+        "recRSutEhh1nhHyv6",
+        "recD254BfcEDbUHpf"
+      ]
+    }
+  },
+  {
+    "id": "rec2Z6ZUo4rNd5ckI",
+    "createdTime": "2017-10-12T23:26:58.000Z",
+    "fields": {
+      "Therapeutic Property": "regulating to nervous system",
+      "Chemical Families": [
+        "rec4eYZbqjSk1Sbv5"
+      ]
+    }
+  },
+  {
+    "id": "rec2t9ZwFmwGWEXKR",
+    "createdTime": "2020-05-23T12:56:08.000Z",
+    "fields": {
+      "Description": "Provide pain relief in a very specific manner – they block the sensation of pain by acting directly on sensory neurons.",
+      "Therapeutic Property": "Antinociceptive",
+      "Inventory": [
+        "reckVh5ujzfOVMD1W",
+        "recbIMdQTyQQ9RrjG",
+        "recZ9QFHU6n8ZTg2E",
+        "rech4IDa8olPI9DkC",
+        "rec5p23hsvt2fOVed",
+        "recwNdMuQTstnxmLB",
+        "recjfK0B2gemQUtWO",
+        "recEg0I8Z1vFEnBzS",
+        "recktF98UbMw5Wp6W",
+        "rec7xM6l7pnjbwsc7",
+        "rec32uf3v21xCjb48",
+        "recnvQe0ptmPwQPnP",
+        "recmwzeYzpnZCHSPq",
+        "recxp3XDnLcB6l5BL",
+        "rec9cbAbO9GW70DoC",
+        "recSBbcncw7wDOWAE"
+      ],
+      "Chemical Component": [
+        "rec6gpBdBvfEmo1Rs",
+        "recI1UwHfnsPFA95a",
+        "recEquM87dkCfyB4u"
+      ]
+    }
+  },
+  {
+    "id": "rec3BRnhZuqgytGKC",
+    "createdTime": "2017-10-12T23:26:58.000Z",
+    "fields": {
+      "Therapeutic Property": "mentally stimulating",
+      "Chemical Families": [
+        "recke6RHCjTari7PH"
+      ]
+    }
+  },
+  {
+    "id": "rec3fZ3KyRKjStizU",
+    "createdTime": "2017-07-15T05:39:19.000Z",
+    "fields": {
+      "Therapeutic Property": "Neuroleptic",
+      "Chemical Component": [
+        "recqodAmfuKvqvvqb"
+      ]
+    }
+  },
+  {
+    "id": "rec4Ha0XyS1AQvWut",
+    "createdTime": "2017-10-12T22:34:06.000Z",
+    "fields": {
+      "Description": "Destroys or removes bacteria and other micro organisms",
+      "Therapeutic Property": "Disinfectant"
+    }
+  },
+  {
+    "id": "rec4LGTiLY5mPsjUd",
+    "createdTime": "2017-07-23T05:27:21.000Z",
+    "fields": {
+      "Description": "Reduces or removes unpleasant body odor",
+      "Therapeutic Property": "Deodorant",
+      "Inventory": [
+        "recaE3udCM9Lm5fiJ",
+        "rec8V78SHsrd7nmzw",
+        "recd7Pzj8qzmceaOe",
+        "recqHk9OnHewM1PpH"
+      ]
+    }
+  },
+  {
+    "id": "rec4o9jKx0LLUp7Rx",
+    "createdTime": "2020-06-12T23:17:39.000Z",
+    "fields": {
+      "Therapeutic Property": "Nerve Tonic",
+      "Inventory": [
+        "recw0P11no1dAUWZX"
+      ]
+    }
+  },
+  {
+    "id": "rec4tEwtJQ7sQNR6s",
+    "createdTime": "2017-07-15T05:35:57.000Z",
+    "fields": {
+      "Therapeutic Property": "Antiparasitic",
+      "Chemical Component": [
+        "recW93hI05FbT4q7k"
+      ]
+    }
+  },
+  {
+    "id": "rec5OmD4jiZoZJLLF",
+    "createdTime": "2017-07-15T05:22:29.000Z",
+    "fields": {
+      "Description": "Helps relieve coughs",
+      "Therapeutic Property": "Antitussive",
+      "Inventory": [
+        "recLoOyhbM0Zft995"
+      ],
+      "Chemical Component": [
+        "recXnzYeO69N6XkKa",
+        "recUMFaT5CtOZtePj"
+      ]
+    }
+  },
+  {
+    "id": "rec6dPV5QseQutHoj",
+    "createdTime": "2017-08-09T19:10:25.000Z",
+    "fields": {
+      "Therapeutic Property": "Warming",
+      "Chemical Families": [
+        "rectNPPxg7s1RLOLP",
+        "rec0nH5pFQGegrC1r"
+      ],
+      "Inventory": [
+        "recPXowXZ5s11Hj3K",
+        "recz3ivjlnR4XwA1O",
+        "recz0ZW5WPsDQa08O",
+        "recIf8ZyvE7in3RZj",
+        "recGjW0XuRzO8QIFT",
+        "rec12g7ni604YRqzI",
+        "reccAi9CnmFq1FyPm"
+      ]
+    }
+  },
+  {
+    "id": "rec6v5HyYZDJfk3EK",
+    "createdTime": "2017-10-12T22:21:48.000Z",
+    "fields": {
+      "Description": "Soothes the lungs",
+      "Therapeutic Property": "Balsamic"
+    }
+  },
+  {
+    "id": "rec7T9R90wJpwyAOi",
+    "createdTime": "2017-08-09T19:42:29.000Z",
+    "fields": {
+      "Description": "Relieves depression",
+      "Therapeutic Property": "Antidepressant",
+      "Inventory": [
+        "recwLHE8aahgEjPsg",
+        "rec2NxMSkHSxusDGQ",
+        "recPKiF4YZj3ePNRa",
+        "recl4dwGhlojJWbqN",
+        "reckVh5ujzfOVMD1W",
+        "rec5p23hsvt2fOVed",
+        "recwNdMuQTstnxmLB",
+        "reczhPMLivB4Ti9ek",
+        "recJJtL7bfawSDWm9",
+        "recrztHRWT60RZhhI",
+        "reckOrlX3GQVLS10q",
+        "rec3x7HaCPoPPorKO",
+        "recEYSnGY4gWKMFyj",
+        "rec12g7ni604YRqzI",
+        "reccAi9CnmFq1FyPm",
+        "recyxgYkbuyVsjh22"
+      ]
+    }
+  },
+  {
+    "id": "rec7siqwioMV2CxgK",
+    "createdTime": "2017-07-15T05:19:30.000Z",
+    "fields": {
+      "Therapeutic Property": "antianxiety ",
+      "Chemical Families": [
+        "recdLPwQ71AwqkK69"
+      ],
+      "Inventory": [
+        "recUx3q2WIlWUI2z5",
+        "recnGC6a0KwMhW8e3",
+        "recbIMdQTyQQ9RrjG",
+        "rechzzgJsMemxIhPB",
+        "recZ9QFHU6n8ZTg2E",
+        "rech4IDa8olPI9DkC",
+        "rechv22O1mHxnpCKZ",
+        "rec5p23hsvt2fOVed",
+        "recEg0I8Z1vFEnBzS",
+        "rec7xM6l7pnjbwsc7",
+        "rect5C5Oup0UArAOe",
+        "recnvQe0ptmPwQPnP",
+        "recmwzeYzpnZCHSPq",
+        "recxp3XDnLcB6l5BL",
+        "reczhPMLivB4Ti9ek"
+      ],
+      "Chemical Component": [
+        "recalGWH2sFz8kYyu",
+        "reclt9ovGgsBWpWlN"
+      ]
+    }
+  },
+  {
+    "id": "rec8EJpbFnSdyc7yz",
+    "createdTime": "2017-10-12T22:31:23.000Z",
+    "fields": {
+      "Description": "Causes an increase in sweating",
+      "Therapeutic Property": "Diaphoretic",
+      "Inventory": [
+        "recPXowXZ5s11Hj3K",
+        "recz3ivjlnR4XwA1O"
+      ]
+    }
+  },
+  {
+    "id": "rec8uOmK1sbpXxrBV",
+    "createdTime": "2017-10-12T22:25:25.000Z",
+    "fields": {
+      "Description": "Produces an immediate effect of irritation on the skin; the reaction, represented on the skin as blotches or redness can be painful to some individuals",
+      "Therapeutic Property": "Dermal Irritant "
+    }
+  },
+  {
+    "id": "rec8wcUWTh53SwNGR",
+    "createdTime": "2017-10-12T23:26:58.000Z",
+    "fields": {
+      "Therapeutic Property": "emotional balance",
+      "Chemical Families": [
+        "recCsnItoS8oP3np8"
+      ]
+    }
+  },
+  {
+    "id": "recA3qVE2auyZiwL7",
+    "createdTime": "2017-07-15T04:23:44.000Z",
+    "fields": {
+      "Description": "Destructive to bacteria",
+      "Therapeutic Property": "Antibacterial",
+      "Chemical Families": [
+        "recdLPwQ71AwqkK69",
+        "rectNPPxg7s1RLOLP",
+        "recCsnItoS8oP3np8",
+        "rec0nH5pFQGegrC1r"
+      ],
+      "Inventory": [
+        "rec3P9ILbTWqztFg0",
+        "recuP0nmg1Wj4YTCc",
+        "recpIKb3VAVXuTPSh",
+        "recYPRbe5jGWXOZeY",
+        "reczlYXZ0P3abLb0p",
+        "rec8V78SHsrd7nmzw",
+        "recUx3q2WIlWUI2z5",
+        "recd7Pzj8qzmceaOe",
+        "recz0ZW5WPsDQa08O",
+        "rec2NxMSkHSxusDGQ",
+        "recAzx2ft9NjyCE9p",
+        "rec3eyNIkt4G2NBwp",
+        "recPKiF4YZj3ePNRa",
+        "recl4dwGhlojJWbqN",
+        "recnGC6a0KwMhW8e3",
+        "recGHuSR6zuDj5ID6",
+        "reckVh5ujzfOVMD1W",
+        "recbIMdQTyQQ9RrjG",
+        "recZ9QFHU6n8ZTg2E",
+        "rech4IDa8olPI9DkC",
+        "rechv22O1mHxnpCKZ",
+        "rec5p23hsvt2fOVed",
+        "recwNdMuQTstnxmLB",
+        "recdtGUPOFCRB0dlq",
+        "recjfK0B2gemQUtWO",
+        "recktF98UbMw5Wp6W",
+        "rec7xM6l7pnjbwsc7",
+        "rec32uf3v21xCjb48",
+        "rect5C5Oup0UArAOe",
+        "recmwzeYzpnZCHSPq",
+        "recxp3XDnLcB6l5BL",
+        "recSBbcncw7wDOWAE",
+        "rectDwSJl588a8QSM",
+        "recoKQNNayvx47aLB",
+        "rec5HGNFUFOjLyTwQ",
+        "recJJtL7bfawSDWm9",
+        "rectiguY866LUFSLG",
+        "recrztHRWT60RZhhI",
+        "recw0P11no1dAUWZX",
+        "rec3x7HaCPoPPorKO",
+        "recEYSnGY4gWKMFyj",
+        "rec12g7ni604YRqzI",
+        "reccAi9CnmFq1FyPm",
+        "recyxgYkbuyVsjh22"
+      ],
+      "Chemical Component": [
+        "recI1UwHfnsPFA95a",
+        "recren46PORcoiJ9b",
+        "recEquM87dkCfyB4u",
+        "recMSkM3RV4KHoTcN",
+        "recsnrxsHe13JYi88",
+        "rec2S8TS0gbzxUw7Z",
+        "rec6Cf0zb9Ve9zv1q",
+        "recJy0Ifx9UZfQXoU",
+        "reclt9ovGgsBWpWlN",
+        "recXnzYeO69N6XkKa",
+        "rec9BJVKgW0k5kecw",
+        "recrqbULfeGV3rQ3e",
+        "recwJPKsbLTDfpyEW",
+        "recNYKtOYO2DTAlIR",
+        "recqodAmfuKvqvvqb",
+        "recRVIe17oe6pMZCn",
+        "reco4pkDTjyqb7PAF",
+        "rec8x3FEVLpdNBSIg",
+        "recMdKizUR30a5w1y",
+        "rec4lCrtA4tq3gkdT",
+        "recL9wHIuQTpQEmyE",
+        "rec1K8C9Csf758CQx",
+        "recNG5ze2GiZuCah2",
+        "recRSutEhh1nhHyv6",
+        "recRI6SGkqHEbCU9k",
+        "receEQnCjgZweXvLG",
+        "recabKsApIXBGWAfq"
+      ]
+    }
+  },
+  {
+    "id": "recANFq70vFvih7q7",
+    "createdTime": "2017-07-15T05:18:31.000Z",
+    "fields": {
+      "Therapeutic Property": "Kills dust mites",
+      "Chemical Component": [
+        "recalGWH2sFz8kYyu",
+        "recHrBUSLgCECtpVH"
+      ]
+    }
+  },
+  {
+    "id": "recAOB3rFJ9GggQvc",
+    "createdTime": "2017-07-15T04:36:51.000Z",
+    "fields": {
+      "Description": "Stops the flow of blood. An astringent that stops internal bleeding or hemorrhaging",
+      "Therapeutic Property": "Haemostatic"
+    }
+  },
+  {
+    "id": "recAXkVkB0OoydZdO",
+    "createdTime": "2017-07-15T04:40:09.000Z",
+    "fields": {
+      "Description": "Relaxes the nervous system; can reduce nervous disorders",
+      "Therapeutic Property": "Nervine"
+    }
+  },
+  {
+    "id": "recAnNwON9zT6hsBa",
+    "createdTime": "2017-08-09T21:07:47.000Z",
+    "fields": {
+      "Therapeutic Property": "CNS Sedative",
+      "Inventory": [
+        "recuP0nmg1Wj4YTCc",
+        "recYPRbe5jGWXOZeY",
+        "rec8V78SHsrd7nmzw",
+        "recd7Pzj8qzmceaOe",
+        "recz0ZW5WPsDQa08O",
+        "recPKiF4YZj3ePNRa",
+        "recLoOyhbM0Zft995",
+        "recsn31vWle40MPyL",
+        "rec3qew8AlVI34KH8",
+        "reckOrlX3GQVLS10q",
+        "recelBd9ivWbI3pHM",
+        "recLsqhbp9IU7rjzF",
+        "recyxgYkbuyVsjh22"
+      ]
+    }
+  },
+  {
+    "id": "recAxZbxVJVOPTdnN",
+    "createdTime": "2020-06-03T21:42:08.000Z",
+    "fields": {
+      "Description": "Methanolic Carrot seed extract has the potential to protect against liver injury (in vitro and in vivo) (Bishayee et al. 1995; Singh et al. 2012).",
+      "Therapeutic Property": "Hepatoprotective",
+      "Inventory": [
+        "recRUdXHllqVNJZbq"
+      ]
+    }
+  },
+  {
+    "id": "recB9Hu4KMI8dNQO2",
+    "createdTime": "2017-10-12T23:26:58.000Z",
+    "fields": {
+      "Therapeutic Property": "strong Immune stimulants",
+      "Chemical Families": [
+        "recXfFAsTYyZWgCvQ"
+      ]
+    }
+  },
+  {
+    "id": "recBRIBZpKNwb6k8w",
+    "createdTime": "2017-07-15T05:32:28.000Z",
+    "fields": {
+      "Therapeutic Property": "Dopaminergic",
+      "Chemical Component": [
+        "recXnzYeO69N6XkKa",
+        "receEQnCjgZweXvLG"
+      ]
+    }
+  },
+  {
+    "id": "recBSaQ07Q65D7wId",
+    "createdTime": "2017-08-09T21:27:40.000Z",
+    "fields": {
+      "Therapeutic Property": "Skin Healing",
+      "Chemical Families": [
+        "rec0nH5pFQGegrC1r"
+      ],
+      "Inventory": [
+        "rec8V78SHsrd7nmzw",
+        "recwLHE8aahgEjPsg",
+        "recUx3q2WIlWUI2z5",
+        "rec5U7YHs8Vnaqyox",
+        "recd7Pzj8qzmceaOe",
+        "rec2NxMSkHSxusDGQ",
+        "recGjW0XuRzO8QIFT",
+        "recPKiF4YZj3ePNRa",
+        "recLoOyhbM0Zft995",
+        "reccr6UnqRnmOQbLC",
+        "recsn31vWle40MPyL",
+        "recrztHRWT60RZhhI",
+        "rec3qew8AlVI34KH8",
+        "reckOrlX3GQVLS10q",
+        "recelBd9ivWbI3pHM",
+        "recLsqhbp9IU7rjzF"
+      ]
+    }
+  },
+  {
+    "id": "recCgElCwg33yoTWu",
+    "createdTime": "2017-07-15T04:35:13.000Z",
+    "fields": {
+      "Description": "Helps promote and regulate menstration",
+      "Therapeutic Property": "Emmenagogue",
+      "Inventory": [
+        "recAzx2ft9NjyCE9p",
+        "recyxgYkbuyVsjh22"
+      ]
+    }
+  },
+  {
+    "id": "recCzCrs6NgR0WKYf",
+    "createdTime": "2017-10-12T23:26:58.000Z",
+    "fields": {
+      "Therapeutic Property": "some are healing for the skin",
+      "Chemical Families": [
+        "rec4eYZbqjSk1Sbv5"
+      ]
+    }
+  },
+  {
+    "id": "recDiY09KEvxRfNNC",
+    "createdTime": "2017-07-15T05:34:24.000Z",
+    "fields": {
+      "Therapeutic Property": "Treats scabies",
+      "Chemical Component": [
+        "rec9BJVKgW0k5kecw",
+        "recHrBUSLgCECtpVH"
+      ]
+    }
+  },
+  {
+    "id": "recEVA8kB0sgXLM9U",
+    "createdTime": "2020-06-12T21:00:02.000Z",
+    "fields": {
+      "Therapeutic Property": "antispasmodic-digestive",
+      "Inventory": [
+        "reczhPMLivB4Ti9ek"
+      ]
+    }
+  },
+  {
+    "id": "recEWWeoekSq0xxxE",
+    "createdTime": "2020-05-22T00:03:47.000Z",
+    "fields": {
+      "Therapeutic Property": "Antidiarrhea",
+      "Inventory": [
+        "reccr6UnqRnmOQbLC"
+      ]
+    }
+  },
+  {
+    "id": "recEY3gnO9TjkkCx9",
+    "createdTime": "2017-08-09T21:08:54.000Z",
+    "fields": {
+      "Therapeutic Property": "Wound healing",
+      "Inventory": [
+        "recuP0nmg1Wj4YTCc",
+        "rec8V78SHsrd7nmzw",
+        "recd7Pzj8qzmceaOe",
+        "recLoOyhbM0Zft995",
+        "recZ9QFHU6n8ZTg2E",
+        "recrztHRWT60RZhhI",
+        "rec3qew8AlVI34KH8"
+      ]
+    }
+  },
+  {
+    "id": "recEocCXmUojCcydB",
+    "createdTime": "2017-07-15T04:27:23.000Z",
+    "fields": {
+      "Description": "Destroys or prevents growth of microbes. Assists in fighting germs/infections",
+      "Therapeutic Property": "Antiseptic \t",
+      "Chemical Families": [
+        "rectNPPxg7s1RLOLP"
+      ]
+    }
+  },
+  {
+    "id": "recF9ujuKuHaIy0rq",
+    "createdTime": "2017-10-12T23:26:58.000Z",
+    "fields": {
+      "Therapeutic Property": "Immune stimulants over the long term",
+      "Chemical Families": [
+        "recCsnItoS8oP3np8"
+      ]
+    }
+  },
+  {
+    "id": "recFBNFGR38lfjmVX",
+    "createdTime": "2017-07-15T04:33:51.000Z",
+    "fields": {
+      "Description": "Reduces or relieves nasal congestion. Causes perspiration and increased elimination through the skin",
+      "Therapeutic Property": "Decongestant",
+      "Chemical Families": [
+        "rec0nH5pFQGegrC1r"
+      ],
+      "Inventory": [
+        "recaE3udCM9Lm5fiJ",
+        "recowm0EZpUYUzqSC",
+        "recuP0nmg1Wj4YTCc",
+        "recpIKb3VAVXuTPSh",
+        "recRLFdXENBRaGMoN",
+        "recYPRbe5jGWXOZeY",
+        "recIf8ZyvE7in3RZj",
+        "recLoOyhbM0Zft995",
+        "reccr6UnqRnmOQbLC",
+        "recMTGRwKedH004J8",
+        "recoIkNGReCzrMo3U",
+        "rechzzgJsMemxIhPB",
+        "recdtGUPOFCRB0dlq",
+        "rec5HGNFUFOjLyTwQ",
+        "recJJtL7bfawSDWm9",
+        "rectiguY866LUFSLG",
+        "recqHk9OnHewM1PpH",
+        "recw0P11no1dAUWZX"
+      ]
+    }
+  },
+  {
+    "id": "recFKQ5VDRu1fQI7K",
+    "createdTime": "2017-10-12T22:48:08.000Z",
+    "fields": {
+      "Description": "Relaxes the muscles",
+      "Therapeutic Property": "Muscle relaxant ",
+      "Inventory": [
+        "reckVh5ujzfOVMD1W"
+      ]
+    }
+  },
+  {
+    "id": "recFR5020NbNHOtz9",
+    "createdTime": "2020-06-11T23:00:54.000Z",
+    "fields": {
+      "Therapeutic Property": "Dermatophyte and superficial Candida infections",
+      "Inventory": [
+        "rechzzgJsMemxIhPB"
+      ]
+    }
+  },
+  {
+    "id": "recFkkAxCxlz3J2XO",
+    "createdTime": "2017-07-15T04:32:44.000Z",
+    "fields": {
+      "Description": "Cell-regenerative for skin, healing for scars",
+      "Therapeutic Property": "Cicatrisant",
+      "Chemical Families": [
+        "rectNPPxg7s1RLOLP"
+      ],
+      "Inventory": [
+        "rec8V78SHsrd7nmzw",
+        "recwLHE8aahgEjPsg",
+        "rec5U7YHs8Vnaqyox",
+        "recd7Pzj8qzmceaOe",
+        "rec2NxMSkHSxusDGQ",
+        "recGjW0XuRzO8QIFT",
+        "recPKiF4YZj3ePNRa",
+        "reccr6UnqRnmOQbLC",
+        "recrztHRWT60RZhhI",
+        "rec3qew8AlVI34KH8"
+      ],
+      "Chemical Component": [
+        "rec6Cf0zb9Ve9zv1q",
+        "recrqbULfeGV3rQ3e",
+        "recW93hI05FbT4q7k"
+      ]
+    }
+  },
+  {
+    "id": "recGM0oakc59SKoLw",
+    "createdTime": "2017-10-12T22:08:14.000Z",
+    "fields": {
+      "Description": "Causes loss of feeling or sensation",
+      "Therapeutic Property": "Anesthetic"
+    }
+  },
+  {
+    "id": "recHNCWsMAF47Gz6E",
+    "createdTime": "2017-07-15T05:07:43.000Z",
+    "fields": {
+      "Therapeutic Property": "Activates white blood cells",
+      "Chemical Component": [
+        "recEquM87dkCfyB4u",
+        "rec9BJVKgW0k5kecw",
+        "recRSutEhh1nhHyv6"
+      ]
+    }
+  },
+  {
+    "id": "recHTQ2H9VUC2NE3Y",
+    "createdTime": "2017-07-15T05:18:53.000Z",
+    "fields": {
+      "Therapeutic Property": "airborn antimicrobial",
+      "Inventory": [
+        "recaE3udCM9Lm5fiJ",
+        "recUx3q2WIlWUI2z5",
+        "rec32uf3v21xCjb48",
+        "recSBbcncw7wDOWAE",
+        "rec5HGNFUFOjLyTwQ",
+        "recqHk9OnHewM1PpH",
+        "recw0P11no1dAUWZX"
+      ],
+      "Chemical Component": [
+        "recJy0Ifx9UZfQXoU",
+        "reclt9ovGgsBWpWlN",
+        "recrqbULfeGV3rQ3e",
+        "recMdKizUR30a5w1y",
+        "rec4lCrtA4tq3gkdT",
+        "recL9wHIuQTpQEmyE",
+        "receEQnCjgZweXvLG"
+      ]
+    }
+  },
+  {
+    "id": "recICjdisPFmJkEAq",
+    "createdTime": "2017-07-15T04:39:40.000Z",
+    "fields": {
+      "Description": "Breaks down mucus (pulmonary). Used to treat chest conditions involving excessive or thickened mucus secretions",
+      "Therapeutic Property": "Mucolytic",
+      "Inventory": [
+        "recuP0nmg1Wj4YTCc",
+        "reczlYXZ0P3abLb0p",
+        "recl4dwGhlojJWbqN",
+        "recktF98UbMw5Wp6W",
+        "rec32uf3v21xCjb48",
+        "rec9cbAbO9GW70DoC",
+        "recSBbcncw7wDOWAE",
+        "recJJtL7bfawSDWm9"
+      ],
+      "Chemical Component": [
+        "recbDIHW78LhsW5Is",
+        "recz1PmXu22nzPvdZ",
+        "recUMFaT5CtOZtePj",
+        "receEQnCjgZweXvLG"
+      ]
+    }
+  },
+  {
+    "id": "recIclZGrHDu6lfB9",
+    "createdTime": "2017-10-12T23:26:58.000Z",
+    "fields": {
+      "Therapeutic Property": "healing for the skin",
+      "Chemical Families": [
+        "recCsnItoS8oP3np8"
+      ]
+    }
+  },
+  {
+    "id": "recJZwLdf0VCEcYnV",
+    "createdTime": "2017-07-15T05:26:17.000Z",
+    "fields": {
+      "Therapeutic Property": "liver protective",
+      "Inventory": [
+        "recpIKb3VAVXuTPSh",
+        "recYPRbe5jGWXOZeY",
+        "rectiguY866LUFSLG",
+        "recEYSnGY4gWKMFyj"
+      ],
+      "Chemical Component": [
+        "recvRPzsGTJiecI1a",
+        "recL9wHIuQTpQEmyE",
+        "rec1K8C9Csf758CQx",
+        "recNG5ze2GiZuCah2",
+        "recRSutEhh1nhHyv6",
+        "recabKsApIXBGWAfq"
+      ]
+    }
+  },
+  {
+    "id": "recJlqBIdPEuHtysq",
+    "createdTime": "2020-06-03T22:07:50.000Z",
+    "fields": {
+      "Description": "he main component β-caryophyllene has neuroprotective activity, and Subedee et al. (2015) demonstrated that extracts of Black Pepper were effective for the prevention of induced Alzheimer’s Disease in rats.",
+      "Therapeutic Property": "Prevents neurodegeneration",
+      "Inventory": [
+        "recGHuSR6zuDj5ID6"
+      ]
+    }
+  },
+  {
+    "id": "recJsEaX7OSsOl0zo",
+    "createdTime": "2017-07-15T05:17:35.000Z",
+    "fields": {
+      "Description": "Prevents or reduces siezures",
+      "Therapeutic Property": "Anticonvulsant",
+      "Chemical Component": [
+        "recalGWH2sFz8kYyu",
+        "reclt9ovGgsBWpWlN",
+        "rec9BJVKgW0k5kecw",
+        "recMdKizUR30a5w1y",
+        "rec1K8C9Csf758CQx",
+        "recRSutEhh1nhHyv6"
+      ]
+    }
+  },
+  {
+    "id": "recKOObrHFfWVlQ5t",
+    "createdTime": "2017-10-12T22:40:05.000Z",
+    "fields": {
+      "Description": "Raises blood pressure",
+      "Therapeutic Property": "Hypertensive"
+    }
+  },
+  {
+    "id": "recKxzMWYm4Jn4lt1",
+    "createdTime": "2017-07-15T05:22:08.000Z",
+    "fields": {
+      "Therapeutic Property": "Antipruritic",
+      "Chemical Component": [
+        "recXnzYeO69N6XkKa"
+      ]
+    }
+  },
+  {
+    "id": "recL3ffz1HUZBMi0w",
+    "createdTime": "2017-08-09T21:09:06.000Z",
+    "fields": {
+      "Description": "Kills or wards off insects and other threats",
+      "Therapeutic Property": "Insecticide",
+      "Inventory": [
+        "recuP0nmg1Wj4YTCc"
+      ]
+    }
+  },
+  {
+    "id": "recLArBlPksjcmYRS",
+    "createdTime": "2017-10-12T22:18:41.000Z",
+    "fields": {
+      "Description": "Stimulates appetite",
+      "Therapeutic Property": "Aperitive "
+    }
+  },
+  {
+    "id": "recLE5IWsF3nIaZ67",
+    "createdTime": "2017-08-09T19:24:11.000Z",
+    "fields": {
+      "Therapeutic Property": "y-eudesmol"
+    }
+  },
+  {
+    "id": "recLzAzNrW5pXid7I",
+    "createdTime": "2017-07-15T05:42:15.000Z",
+    "fields": {
+      "Therapeutic Property": "Antithrombotic",
+      "Chemical Component": [
+        "rec1K8C9Csf758CQx",
+        "reczrwZXUCovlW8sm"
+      ]
+    }
+  },
+  {
+    "id": "recMvEikrqoxbxzLw",
+    "createdTime": "2020-06-12T18:52:38.000Z",
+    "fields": {
+      "Description": "Not strictly a therapeutic property, however it is worth knowing that research has indicated that the essential oil significantly inhibited growth and aflatoxin production by a toxigenic strain of Aspergillus flavus (Prakash et al. 2013). Aflatoxin is a mycotoxin (a toxin produced by fungi) which causes severe liver damage if contaminated food is consumed.",
+      "Therapeutic Property": "Anti-aflatoxin",
+      "Inventory": [
+        "recktF98UbMw5Wp6W"
+      ]
+    }
+  },
+  {
+    "id": "recNKrnM2no370Q8y",
+    "createdTime": "2017-07-15T04:15:31.000Z",
+    "fields": {
+      "Description": "Numbs pain",
+      "Therapeutic Property": "Analgesic",
+      "Chemical Families": [
+        "recke6RHCjTari7PH",
+        "rec4eYZbqjSk1Sbv5",
+        "rectNPPxg7s1RLOLP"
+      ],
+      "Inventory": [
+        "recaE3udCM9Lm5fiJ",
+        "recowm0EZpUYUzqSC",
+        "rec3P9ILbTWqztFg0",
+        "recpIKb3VAVXuTPSh",
+        "recRLFdXENBRaGMoN",
+        "recYPRbe5jGWXOZeY",
+        "reczlYXZ0P3abLb0p",
+        "rec8V78SHsrd7nmzw",
+        "recwLHE8aahgEjPsg",
+        "recPXowXZ5s11Hj3K",
+        "recUx3q2WIlWUI2z5",
+        "recz3ivjlnR4XwA1O",
+        "rec5U7YHs8Vnaqyox",
+        "recd7Pzj8qzmceaOe",
+        "recz0ZW5WPsDQa08O",
+        "rec2NxMSkHSxusDGQ",
+        "recIf8ZyvE7in3RZj",
+        "rec3eyNIkt4G2NBwp",
+        "recGjW0XuRzO8QIFT",
+        "recPKiF4YZj3ePNRa",
+        "recLoOyhbM0Zft995",
+        "reccr6UnqRnmOQbLC",
+        "recl4dwGhlojJWbqN",
+        "recMTGRwKedH004J8",
+        "recnGC6a0KwMhW8e3",
+        "recGHuSR6zuDj5ID6",
+        "reckVh5ujzfOVMD1W",
+        "recbIMdQTyQQ9RrjG",
+        "rechzzgJsMemxIhPB",
+        "recZ9QFHU6n8ZTg2E",
+        "rech4IDa8olPI9DkC",
+        "rechv22O1mHxnpCKZ",
+        "rec5p23hsvt2fOVed",
+        "recwNdMuQTstnxmLB",
+        "recdtGUPOFCRB0dlq",
+        "recjfK0B2gemQUtWO",
+        "recEg0I8Z1vFEnBzS",
+        "recktF98UbMw5Wp6W",
+        "rec7xM6l7pnjbwsc7",
+        "rec32uf3v21xCjb48",
+        "rect5C5Oup0UArAOe",
+        "recnvQe0ptmPwQPnP",
+        "recmwzeYzpnZCHSPq",
+        "recxp3XDnLcB6l5BL",
+        "rec9cbAbO9GW70DoC",
+        "recSBbcncw7wDOWAE",
+        "recoKQNNayvx47aLB",
+        "rec5HGNFUFOjLyTwQ",
+        "recJJtL7bfawSDWm9",
+        "rectiguY866LUFSLG",
+        "recqHk9OnHewM1PpH",
+        "recrztHRWT60RZhhI",
+        "rec3qew8AlVI34KH8",
+        "recw0P11no1dAUWZX",
+        "reckOrlX3GQVLS10q",
+        "recLsqhbp9IU7rjzF",
+        "rec3x7HaCPoPPorKO",
+        "recEYSnGY4gWKMFyj",
+        "rec12g7ni604YRqzI",
+        "reccAi9CnmFq1FyPm",
+        "recyxgYkbuyVsjh22"
+      ],
+      "Chemical Component": [
+        "recren46PORcoiJ9b",
+        "recEquM87dkCfyB4u",
+        "recodip570xPootGM",
+        "recNjCKrZEkWK1eEL",
+        "reclt9ovGgsBWpWlN",
+        "recXnzYeO69N6XkKa",
+        "recrqbULfeGV3rQ3e",
+        "recqodAmfuKvqvvqb",
+        "rectEOWbJoel0OPJP",
+        "reco4pkDTjyqb7PAF",
+        "recMdKizUR30a5w1y",
+        "rec4lCrtA4tq3gkdT",
+        "recL9wHIuQTpQEmyE",
+        "rec1K8C9Csf758CQx",
+        "recNG5ze2GiZuCah2",
+        "recUMFaT5CtOZtePj",
+        "recRSutEhh1nhHyv6",
+        "recRI6SGkqHEbCU9k",
+        "receEQnCjgZweXvLG",
+        "reczrwZXUCovlW8sm"
+      ]
+    }
+  },
+  {
+    "id": "recNTn8r88M9lYf3O",
+    "createdTime": "2020-06-11T23:46:43.000Z",
+    "fields": {
+      "Therapeutic Property": "insomnia"
+    }
+  },
+  {
+    "id": "recNZcZPBkh96T8Kj",
+    "createdTime": "2017-10-12T22:36:39.000Z",
+    "fields": {}
+  },
+  {
+    "id": "recNgnh01BRJ7HIgv",
+    "createdTime": "2020-06-12T20:59:51.000Z",
+    "fields": {
+      "Therapeutic Property": "anti-arthritic",
+      "Inventory": [
+        "reczhPMLivB4Ti9ek"
+      ]
+    }
+  },
+  {
+    "id": "recOI93vtHoGPu8Cm",
+    "createdTime": "2017-10-12T23:26:58.000Z",
+    "fields": {
+      "Therapeutic Property": "rubifacient (some)",
+      "Chemical Families": [
+        "recurrxJ1HUVEak9c"
+      ]
+    }
+  },
+  {
+    "id": "recOuwbynIo1pEgKV",
+    "createdTime": "2017-07-15T04:35:43.000Z",
+    "fields": {
+      "Description": "Smoothies, softens and protects skin",
+      "Therapeutic Property": "Emollient"
+    }
+  },
+  {
+    "id": "recPTRf1uibIS7L8d",
+    "createdTime": "2020-06-12T20:17:56.000Z",
+    "fields": {
+      "Therapeutic Property": "Broncolytic",
+      "Inventory": [
+        "recnvQe0ptmPwQPnP"
+      ]
+    }
+  },
+  {
+    "id": "recQiNI2dnhUgPxma",
+    "createdTime": "2017-07-15T04:34:31.000Z",
+    "fields": {
+      "Description": "Increases the flow of urine. Promotes activity of kidney and bladder and increases urination",
+      "Therapeutic Property": "Diuretic ",
+      "Inventory": [
+        "recGetQ0nvjBCtuB5",
+        "recuP0nmg1Wj4YTCc",
+        "recpIKb3VAVXuTPSh",
+        "recRLFdXENBRaGMoN",
+        "recAzx2ft9NjyCE9p",
+        "recIf8ZyvE7in3RZj",
+        "rec3x7HaCPoPPorKO",
+        "recEYSnGY4gWKMFyj"
+      ]
+    }
+  },
+  {
+    "id": "recQolDTQ5YhnCJwY",
+    "createdTime": "2017-07-21T06:26:01.000Z",
+    "fields": {
+      "Description": "Destroys or resists pathogenic micro organisms",
+      "Therapeutic Property": "Antimicrobial",
+      "Chemical Families": [
+        "recurrxJ1HUVEak9c",
+        "rectNPPxg7s1RLOLP",
+        "rec0nH5pFQGegrC1r"
+      ],
+      "Inventory": [
+        "reczlYXZ0P3abLb0p",
+        "recX1Ui3FDaPmgjkr",
+        "recQ8J1rBY6HhnQF8",
+        "recEg0I8Z1vFEnBzS",
+        "rec7xM6l7pnjbwsc7"
+      ],
+      "Chemical Component": [
+        "recW93hI05FbT4q7k",
+        "recqodAmfuKvqvvqb",
+        "recCUUJTBx2AWzEHi"
+      ]
+    }
+  },
+  {
+    "id": "recQqvEbn6pjDbC8o",
+    "createdTime": "2017-07-15T04:44:23.000Z",
+    "fields": {
+      "Description": "Increases sweating",
+      "Therapeutic Property": "Sudorific "
+    }
+  },
+  {
+    "id": "recR2RWJA1pkSymLg",
+    "createdTime": "2017-10-12T23:26:58.000Z",
+    "fields": {
+      "Therapeutic Property": "pain relieving (thanks to camphor)",
+      "Chemical Families": [
+        "recgFq5QYSjHDQx2d"
+      ]
+    }
+  },
+  {
+    "id": "recR9TXOWzf2Vaj5X",
+    "createdTime": "2017-07-15T05:16:42.000Z",
+    "fields": {
+      "Therapeutic Property": "inhibits acetylcholinesterase ",
+      "Chemical Component": [
+        "recz1PmXu22nzPvdZ",
+        "rec6Cf0zb9Ve9zv1q",
+        "recL9wHIuQTpQEmyE",
+        "reczrwZXUCovlW8sm"
+      ]
+    }
+  },
+  {
+    "id": "recRQtCUzb2QMIGR7",
+    "createdTime": "2017-07-15T05:08:00.000Z",
+    "fields": {
+      "Therapeutic Property": "Antiulcerogenic",
+      "Chemical Component": [
+        "recEquM87dkCfyB4u",
+        "recDn2P9EKivft2yS",
+        "rectX2Jj8E0yjnHkO",
+        "rec9BJVKgW0k5kecw",
+        "recW93hI05FbT4q7k",
+        "recNYKtOYO2DTAlIR",
+        "reco4pkDTjyqb7PAF",
+        "rec1K8C9Csf758CQx",
+        "reczrwZXUCovlW8sm"
+      ]
+    }
+  },
+  {
+    "id": "recSLp5tisSVR8P5P",
+    "createdTime": "2017-10-12T22:35:31.000Z",
+    "fields": {
+      "Description": "A part or organ of the body, as a the skin or a kidney, that functions in carrying off waste products",
+      "Therapeutic Property": "Emmunctory"
+    }
+  },
+  {
+    "id": "recSbwp6xNPMeCB2Q",
+    "createdTime": "2017-07-21T05:54:08.000Z",
+    "fields": {
+      "Therapeutic Property": "CNS depressant"
+    }
+  },
+  {
+    "id": "recSfv22iSnmbCPot",
+    "createdTime": "2017-07-15T05:44:17.000Z",
+    "fields": {
+      "Therapeutic Property": "Increases cerebral blood flow",
+      "Inventory": [
+        "recw0P11no1dAUWZX"
+      ],
+      "Chemical Component": [
+        "receEQnCjgZweXvLG"
+      ]
+    }
+  },
+  {
+    "id": "recTOUrh0916zlnh2",
+    "createdTime": "2017-07-15T04:43:54.000Z",
+    "fields": {
+      "Description": "Stimulates the stomach, digestive aid and tonic, improves appetite ",
+      "Therapeutic Property": "Stomachic"
+    }
+  },
+  {
+    "id": "recTRpHd4t1P1NdfJ",
+    "createdTime": "2020-06-12T22:10:55.000Z",
+    "fields": {
+      "Therapeutic Property": "Circulatory Stimulant",
+      "Inventory": [
+        "rectiguY866LUFSLG",
+        "reccAi9CnmFq1FyPm"
+      ]
+    }
+  },
+  {
+    "id": "recTrBMFHTm8UPXew",
+    "createdTime": "2017-10-12T22:22:08.000Z",
+    "fields": {
+      "Description": "The process whereby toxic substances are removed or toxic effects are neutralized ",
+      "Therapeutic Property": "Detoxicant "
+    }
+  },
+  {
+    "id": "recTyKnU4O9Sbd3tQ",
+    "createdTime": "2017-10-12T22:37:48.000Z",
+    "fields": {
+      "Description": "May act similar to estrogen",
+      "Therapeutic Property": "Estrogenic ",
+      "Chemical Component": [
+        "recBbzlBLPjokKcMZ"
+      ]
+    }
+  },
+  {
+    "id": "recUEUTaZTkJ8lGEO",
+    "createdTime": "2017-10-12T23:26:58.000Z",
+    "fields": {
+      "Therapeutic Property": "circulation",
+      "Chemical Families": [
+        "recgFq5QYSjHDQx2d"
+      ],
+      "Inventory": [
+        "recpIKb3VAVXuTPSh",
+        "recYPRbe5jGWXOZeY",
+        "recIf8ZyvE7in3RZj"
+      ]
+    }
+  },
+  {
+    "id": "recUQ8BaI2PbbTupC",
+    "createdTime": "2020-06-12T17:24:22.000Z",
+    "fields": {
+      "Therapeutic Property": "lipid lowering",
+      "Inventory": [
+        "recdtGUPOFCRB0dlq"
+      ]
+    }
+  },
+  {
+    "id": "recUQVI9mD55f5Rey",
+    "createdTime": "2020-06-12T18:44:19.000Z",
+    "fields": {
+      "Therapeutic Property": "insect repellent",
+      "Inventory": [
+        "recEg0I8Z1vFEnBzS"
+      ]
+    }
+  },
+  {
+    "id": "recURIRhUYTqtYOWM",
+    "createdTime": "2017-10-12T22:26:48.000Z",
+    "fields": {
+      "Description": "To inhibit this reaction, the substance (EO) must enter the skin, bind with lymphatic tissues, and then cause the T-lymphocytes to become sensitized. Upon further exposure to the same or a chemically related substance, the immune system will react to the substance by perceiving it as an invader, causing a similar reaction to occur as dermal irritation",
+      "Therapeutic Property": "Dermal Sensitizer "
+    }
+  },
+  {
+    "id": "recUiG3vZfmw9anio",
+    "createdTime": "2017-07-15T05:14:13.000Z",
+    "fields": {
+      "Therapeutic Property": "Prevents bone loss",
+      "Chemical Component": [
+        "recI1UwHfnsPFA95a",
+        "rec6gpBdBvfEmo1Rs",
+        "recz1PmXu22nzPvdZ",
+        "rec6Cf0zb9Ve9zv1q",
+        "rectEOWbJoel0OPJP",
+        "recUMFaT5CtOZtePj"
+      ]
+    }
+  },
+  {
+    "id": "recUkNvRZhFh6ugEV",
+    "createdTime": "2017-07-15T05:22:50.000Z",
+    "fields": {
+      "Therapeutic Property": "Choleretic",
+      "Chemical Component": [
+        "recXnzYeO69N6XkKa",
+        "recRVIe17oe6pMZCn"
+      ]
+    }
+  },
+  {
+    "id": "recV8AxhEhawZ9G9b",
+    "createdTime": "2017-07-15T04:24:12.000Z",
+    "fields": {
+      "Description": "Inhibits growth of fungus",
+      "Therapeutic Property": "Antifungal",
+      "Chemical Families": [
+        "recdLPwQ71AwqkK69",
+        "rec0nH5pFQGegrC1r",
+        "rectNPPxg7s1RLOLP",
+        "recCsnItoS8oP3np8"
+      ],
+      "Inventory": [
+        "rec3P9ILbTWqztFg0",
+        "recpIKb3VAVXuTPSh",
+        "recYPRbe5jGWXOZeY",
+        "recwLHE8aahgEjPsg",
+        "recUx3q2WIlWUI2z5",
+        "recd7Pzj8qzmceaOe",
+        "recz0ZW5WPsDQa08O",
+        "rec2NxMSkHSxusDGQ",
+        "recAzx2ft9NjyCE9p",
+        "recIf8ZyvE7in3RZj",
+        "rec3eyNIkt4G2NBwp",
+        "recGjW0XuRzO8QIFT",
+        "recPKiF4YZj3ePNRa",
+        "recLoOyhbM0Zft995",
+        "recsn31vWle40MPyL",
+        "recl4dwGhlojJWbqN",
+        "recRUdXHllqVNJZbq",
+        "reckVh5ujzfOVMD1W",
+        "recbIMdQTyQQ9RrjG",
+        "rechzzgJsMemxIhPB",
+        "recZ9QFHU6n8ZTg2E",
+        "rech4IDa8olPI9DkC",
+        "rechv22O1mHxnpCKZ",
+        "rec5p23hsvt2fOVed",
+        "recwNdMuQTstnxmLB",
+        "recktF98UbMw5Wp6W",
+        "rec32uf3v21xCjb48",
+        "recnvQe0ptmPwQPnP",
+        "recmwzeYzpnZCHSPq",
+        "reczhPMLivB4Ti9ek",
+        "recSBbcncw7wDOWAE",
+        "recoKQNNayvx47aLB",
+        "rec5HGNFUFOjLyTwQ",
+        "recJJtL7bfawSDWm9",
+        "rectiguY866LUFSLG",
+        "rec3qew8AlVI34KH8",
+        "recw0P11no1dAUWZX",
+        "recelBd9ivWbI3pHM",
+        "rec12g7ni604YRqzI",
+        "reccAi9CnmFq1FyPm"
+      ],
+      "Chemical Component": [
+        "rec6Cf0zb9Ve9zv1q",
+        "recalGWH2sFz8kYyu",
+        "recJy0Ifx9UZfQXoU",
+        "rec9BJVKgW0k5kecw",
+        "recrqbULfeGV3rQ3e",
+        "recW93hI05FbT4q7k",
+        "recwJPKsbLTDfpyEW",
+        "recvRPzsGTJiecI1a",
+        "recNYKtOYO2DTAlIR",
+        "rec8x3FEVLpdNBSIg",
+        "recMdKizUR30a5w1y",
+        "recL9wHIuQTpQEmyE",
+        "recNG5ze2GiZuCah2",
+        "recRSutEhh1nhHyv6",
+        "recD254BfcEDbUHpf",
+        "reczrwZXUCovlW8sm"
+      ]
+    }
+  },
+  {
+    "id": "recVLs5YSPujrtFhT",
+    "createdTime": "2017-08-09T19:55:05.000Z",
+    "fields": {
+      "Description": "Reduces or prevents fever, cools body temperature ",
+      "Therapeutic Property": "Febrifuge",
+      "Inventory": [
+        "recRLFdXENBRaGMoN",
+        "recYPRbe5jGWXOZeY",
+        "recUx3q2WIlWUI2z5",
+        "rectiguY866LUFSLG"
+      ]
+    }
+  },
+  {
+    "id": "recVwCygrsdgLs3Z8",
+    "createdTime": "2017-07-15T05:03:11.000Z",
+    "fields": {
+      "Description": "Prevent cell damage from the destructive elements of free radicals ",
+      "Therapeutic Property": "Antioxidant",
+      "Chemical Families": [
+        "recurrxJ1HUVEak9c"
+      ],
+      "Inventory": [
+        "rec3P9ILbTWqztFg0",
+        "recpIKb3VAVXuTPSh",
+        "recYPRbe5jGWXOZeY",
+        "reczlYXZ0P3abLb0p",
+        "recPXowXZ5s11Hj3K",
+        "recz3ivjlnR4XwA1O",
+        "rec5U7YHs8Vnaqyox",
+        "recAzx2ft9NjyCE9p",
+        "recIf8ZyvE7in3RZj",
+        "recGjW0XuRzO8QIFT",
+        "recnGC6a0KwMhW8e3",
+        "recGHuSR6zuDj5ID6",
+        "recbIMdQTyQQ9RrjG",
+        "recwNdMuQTstnxmLB",
+        "recktF98UbMw5Wp6W",
+        "rec32uf3v21xCjb48",
+        "recnvQe0ptmPwQPnP",
+        "recmwzeYzpnZCHSPq",
+        "reczhPMLivB4Ti9ek",
+        "recSBbcncw7wDOWAE",
+        "recoKQNNayvx47aLB",
+        "rectiguY866LUFSLG",
+        "rec3x7HaCPoPPorKO",
+        "recEYSnGY4gWKMFyj",
+        "rec12g7ni604YRqzI"
+      ],
+      "Chemical Component": [
+        "recbDIHW78LhsW5Is",
+        "rec6gpBdBvfEmo1Rs",
+        "recEquM87dkCfyB4u",
+        "recsnrxsHe13JYi88",
+        "rec2S8TS0gbzxUw7Z",
+        "rec6Cf0zb9Ve9zv1q",
+        "recalGWH2sFz8kYyu",
+        "recJy0Ifx9UZfQXoU",
+        "reclt9ovGgsBWpWlN",
+        "recXnzYeO69N6XkKa",
+        "recrqbULfeGV3rQ3e",
+        "recW93hI05FbT4q7k",
+        "rec8x3FEVLpdNBSIg",
+        "rec4lCrtA4tq3gkdT",
+        "recL9wHIuQTpQEmyE",
+        "rec1K8C9Csf758CQx",
+        "recNG5ze2GiZuCah2",
+        "recRI6SGkqHEbCU9k",
+        "receEQnCjgZweXvLG",
+        "recabKsApIXBGWAfq"
+      ]
+    }
+  },
+  {
+    "id": "recWM1J6UY7AcFbwv",
+    "createdTime": "2017-10-12T22:40:23.000Z",
+    "fields": {
+      "Description": "Uncharacteristic or unusual reaction to a commonly used essential oil",
+      "Therapeutic Property": "Idiosyncratic irritation"
+    }
+  },
+  {
+    "id": "recX9EXqMNehkg1S4",
+    "createdTime": "2017-10-12T23:03:33.000Z",
+    "fields": {
+      "Description": "Promotes wound healing, particularly skin wounds ",
+      "Therapeutic Property": "Vulnerary "
+    }
+  },
+  {
+    "id": "recXFgC3xM3ZlWiKd",
+    "createdTime": "2017-07-15T05:24:00.000Z",
+    "fields": {
+      "Therapeutic Property": "Antiobesity ",
+      "Chemical Component": [
+        "recEquM87dkCfyB4u",
+        "recwJPKsbLTDfpyEW"
+      ]
+    }
+  },
+  {
+    "id": "recXix8YKIlsMbxMf",
+    "createdTime": "2017-07-15T05:14:13.000Z",
+    "fields": {
+      "Therapeutic Property": "paf receptor binding antagonist",
+      "Chemical Component": [
+        "recwJPKsbLTDfpyEW"
+      ]
+    }
+  },
+  {
+    "id": "recXzA6weFPC2a9jP",
+    "createdTime": "2017-07-15T04:31:23.000Z",
+    "fields": {
+      "Description": "Clears the mind. Remedy for the head, usually clearing and stimulating",
+      "Therapeutic Property": "Cephalic",
+      "Inventory": [
+        "recz0ZW5WPsDQa08O",
+        "recl4dwGhlojJWbqN",
+        "recoKQNNayvx47aLB",
+        "recJJtL7bfawSDWm9",
+        "recw0P11no1dAUWZX"
+      ]
+    }
+  },
+  {
+    "id": "recZHyv5auEqyilt0",
+    "createdTime": "2017-07-15T04:24:53.000Z",
+    "fields": {
+      "Description": "Helps the body strengthen it's own resistance to infective organisms and rid the body of illness",
+      "Therapeutic Property": "Anti-Infectious",
+      "Chemical Families": [
+        "recCsnItoS8oP3np8",
+        "recqgMku9VeqHl7RZ"
+      ]
+    }
+  },
+  {
+    "id": "recZlknm6o5kkgqT7",
+    "createdTime": "2017-10-12T23:26:58.000Z",
+    "fields": {
+      "Therapeutic Property": "can be decongesting",
+      "Chemical Families": [
+        "recurrxJ1HUVEak9c"
+      ]
+    }
+  },
+  {
+    "id": "recaPDE88VVZIeFBn",
+    "createdTime": "2017-10-12T22:57:40.000Z",
+    "fields": {
+      "Description": "Strengthens and revives the body system",
+      "Therapeutic Property": "Restorative"
+    }
+  },
+  {
+    "id": "recb3YrH2BjnyKps2",
+    "createdTime": "2017-10-12T23:01:47.000Z",
+    "fields": {
+      "Description": "Relaxes the uterus",
+      "Therapeutic Property": "Uterine relaxant"
+    }
+  },
+  {
+    "id": "recbr1HMBFXJGnX2v",
+    "createdTime": "2017-10-12T23:02:16.000Z",
+    "fields": {
+      "Description": "Decreases blood flow by narrowing the blood vessels ",
+      "Therapeutic Property": "Vasoconstricture"
+    }
+  },
+  {
+    "id": "recc8G8eWmFr9DYam",
+    "createdTime": "2017-10-12T22:56:15.000Z",
+    "fields": {
+      "Description": "Will cause burning or skin pigmentation changes, such as tanning, on exposure to sun or similar ultraviolet rays",
+      "Therapeutic Property": "Photosensitizer"
+    }
+  },
+  {
+    "id": "reccPp4U79EhWj2M8",
+    "createdTime": "2017-07-23T05:42:11.000Z",
+    "fields": {
+      "Description": "Prevents vomiting ",
+      "Therapeutic Property": "Antiemetic",
+      "Inventory": [
+        "recPXowXZ5s11Hj3K",
+        "recz3ivjlnR4XwA1O",
+        "recAzx2ft9NjyCE9p",
+        "recoKQNNayvx47aLB",
+        "rectiguY866LUFSLG"
+      ]
+    }
+  },
+  {
+    "id": "reccVEBg7viamMkUX",
+    "createdTime": "2017-07-15T04:34:56.000Z",
+    "fields": {
+      "Description": "Induces vomiting",
+      "Therapeutic Property": "Emetic",
+      "Inventory": [
+        "recYPRbe5jGWXOZeY"
+      ]
+    }
+  },
+  {
+    "id": "reccVQwXZkdhZ5vHY",
+    "createdTime": "2017-07-15T05:08:19.000Z",
+    "fields": {
+      "Therapeutic Property": "Skin penetration enhancer",
+      "Chemical Families": [
+        "recurrxJ1HUVEak9c"
+      ],
+      "Inventory": [
+        "recl4dwGhlojJWbqN",
+        "recoKQNNayvx47aLB",
+        "recJJtL7bfawSDWm9",
+        "recw0P11no1dAUWZX",
+        "rec3x7HaCPoPPorKO",
+        "recEYSnGY4gWKMFyj"
+      ],
+      "Chemical Component": [
+        "recEquM87dkCfyB4u",
+        "recLvupxm2JK1rZPS",
+        "recW93hI05FbT4q7k",
+        "recwJPKsbLTDfpyEW",
+        "receEQnCjgZweXvLG"
+      ]
+    }
+  },
+  {
+    "id": "reccXttjB1O3teeYe",
+    "createdTime": "2017-07-15T04:26:47.000Z",
+    "fields": {
+      "Description": "Dispels heat, fire and fever",
+      "Therapeutic Property": "Atipyretic"
+    }
+  },
+  {
+    "id": "recewSOThlWY0nI0D",
+    "createdTime": "2017-07-15T04:31:23.000Z",
+    "fields": {
+      "Description": "Relieves intestinal gas pain and distinction/ promotes peristalsis ",
+      "Therapeutic Property": "Carminative",
+      "Chemical Families": [
+        "recqgMku9VeqHl7RZ"
+      ],
+      "Inventory": [
+        "recGetQ0nvjBCtuB5",
+        "recpIKb3VAVXuTPSh",
+        "recYPRbe5jGWXOZeY",
+        "recX1Ui3FDaPmgjkr",
+        "recPXowXZ5s11Hj3K",
+        "recz3ivjlnR4XwA1O",
+        "recAzx2ft9NjyCE9p",
+        "recoKQNNayvx47aLB",
+        "rectiguY866LUFSLG",
+        "rec12g7ni604YRqzI",
+        "reccAi9CnmFq1FyPm"
+      ]
+    }
+  },
+  {
+    "id": "recfbFC3wnOCYB9N8",
+    "createdTime": "2017-07-15T05:39:06.000Z",
+    "fields": {
+      "Therapeutic Property": "Improves mood",
+      "Chemical Component": [
+        "recqodAmfuKvqvvqb"
+      ]
+    }
+  },
+  {
+    "id": "recfqQU3xQAOfDSKi",
+    "createdTime": "2017-10-12T23:26:58.000Z",
+    "fields": {
+      "Therapeutic Property": "Airborn deodorizers",
+      "Chemical Families": [
+        "recurrxJ1HUVEak9c"
+      ]
+    }
+  },
+  {
+    "id": "recfuoxkPcfMKcCi3",
+    "createdTime": "2017-10-12T22:49:31.000Z",
+    "fields": {
+      "Description": "Helps ease the delivery in childbirth",
+      "Therapeutic Property": "Parturient"
+    }
+  },
+  {
+    "id": "recgNJ7VotnBt0asl",
+    "createdTime": "2020-06-03T21:41:44.000Z",
+    "fields": {
+      "Description": "An ethanolic extract displayed antisecretory, gastroprotective, and in vitro antacid potential (Chandra et al. 2015).\n\n",
+      "Therapeutic Property": "Gastroprotective",
+      "Inventory": [
+        "recRUdXHllqVNJZbq",
+        "recZ9QFHU6n8ZTg2E"
+      ]
+    }
+  },
+  {
+    "id": "recgqEiAY6GExqCnL",
+    "createdTime": "2020-06-03T21:42:49.000Z",
+    "fields": {
+      "Description": "Ethanolic Carrot Seed extract showed a significant nephroprotective effect in vivo (Sodimbaku et al. 2016).",
+      "Therapeutic Property": "Nephroprotective",
+      "Inventory": [
+        "recRUdXHllqVNJZbq"
+      ]
+    }
+  },
+  {
+    "id": "rechI9T5XCpbKMKQB",
+    "createdTime": "2017-10-12T23:26:58.000Z",
+    "fields": {
+      "Therapeutic Property": "8 cineole); strong respiratory oil (decongestant)",
+      "Chemical Families": [
+        "recke6RHCjTari7PH"
+      ]
+    }
+  },
+  {
+    "id": "rechbR3O9q25IPkBy",
+    "createdTime": "2017-10-12T23:26:58.000Z",
+    "fields": {
+      "Therapeutic Property": "some are anti-infectious",
+      "Chemical Families": [
+        "rec4eYZbqjSk1Sbv5"
+      ]
+    }
+  },
+  {
+    "id": "rechedjo4CIoRqG8O",
+    "createdTime": "2017-07-15T04:44:50.000Z",
+    "fields": {
+      "Description": "Strengthens and restores vitality, improves bodily performance",
+      "Therapeutic Property": "Tonic",
+      "Inventory": [
+        "recGetQ0nvjBCtuB5",
+        "recuP0nmg1Wj4YTCc",
+        "rec8V78SHsrd7nmzw",
+        "recwLHE8aahgEjPsg",
+        "rec5U7YHs8Vnaqyox",
+        "recd7Pzj8qzmceaOe",
+        "rec2NxMSkHSxusDGQ",
+        "recAzx2ft9NjyCE9p",
+        "recrztHRWT60RZhhI",
+        "rec3qew8AlVI34KH8",
+        "reckOrlX3GQVLS10q",
+        "recEYSnGY4gWKMFyj"
+      ]
+    }
+  },
+  {
+    "id": "rechkk48AYDzzePNd",
+    "createdTime": "2020-05-22T02:14:15.000Z",
+    "fields": {
+      "Therapeutic Property": "Spastic Cough",
+      "Inventory": [
+        "recoIkNGReCzrMo3U"
+      ]
+    }
+  },
+  {
+    "id": "rechqTfhtM8n5VbhJ",
+    "createdTime": "2017-08-09T21:26:32.000Z",
+    "fields": {
+      "Description": "Reduces symptoms of allergies",
+      "Therapeutic Property": "Anti-allergenic",
+      "Chemical Families": [
+        "rectNPPxg7s1RLOLP"
+      ],
+      "Inventory": [
+        "rec8V78SHsrd7nmzw",
+        "recd7Pzj8qzmceaOe",
+        "recrztHRWT60RZhhI",
+        "rec3qew8AlVI34KH8"
+      ]
+    }
+  },
+  {
+    "id": "recjEj0GYgk1iy1gJ",
+    "createdTime": "2017-07-15T04:39:19.000Z",
+    "fields": {
+      "Description": "Promotes bowel movements",
+      "Therapeutic Property": "Laxitive"
+    }
+  },
+  {
+    "id": "recjgISLVYxoWYVna",
+    "createdTime": "2017-10-12T22:11:35.000Z",
+    "fields": {
+      "Description": "Reduces the amount of water your body eliminates",
+      "Therapeutic Property": "Antidiuretic"
+    }
+  },
+  {
+    "id": "reckOEheUwnIMKJSk",
+    "createdTime": "2017-07-15T04:41:56.000Z",
+    "fields": {
+      "Description": "Calms and tranquilizes by lowering the functional activity of the organ or body part. Has a calming effect, relieves anxiety and tension",
+      "Therapeutic Property": "Sedative",
+      "Chemical Families": [
+        "recdLPwQ71AwqkK69",
+        "rectNPPxg7s1RLOLP",
+        "rec0nH5pFQGegrC1r"
+      ],
+      "Inventory": [
+        "reckVh5ujzfOVMD1W",
+        "recbIMdQTyQQ9RrjG",
+        "recZ9QFHU6n8ZTg2E",
+        "rech4IDa8olPI9DkC",
+        "rec5p23hsvt2fOVed",
+        "recEg0I8Z1vFEnBzS",
+        "recktF98UbMw5Wp6W",
+        "recmwzeYzpnZCHSPq",
+        "rec9cbAbO9GW70DoC",
+        "reczhPMLivB4Ti9ek",
+        "recEYSnGY4gWKMFyj",
+        "reccAi9CnmFq1FyPm"
+      ],
+      "Chemical Component": [
+        "recodip570xPootGM",
+        "recsnrxsHe13JYi88",
+        "rec2S8TS0gbzxUw7Z",
+        "rec6Cf0zb9Ve9zv1q",
+        "reclt9ovGgsBWpWlN",
+        "recrqbULfeGV3rQ3e",
+        "recwJPKsbLTDfpyEW",
+        "recbqbnASP9HKdtsD",
+        "recqodAmfuKvqvvqb",
+        "rectEOWbJoel0OPJP",
+        "reco4pkDTjyqb7PAF",
+        "recMdKizUR30a5w1y",
+        "rec4lCrtA4tq3gkdT",
+        "recRSutEhh1nhHyv6",
+        "reczrwZXUCovlW8sm"
+      ]
+    }
+  },
+  {
+    "id": "reckc77I9BFUp8LGo",
+    "createdTime": "2017-10-13T01:21:05.000Z",
+    "fields": {
+      "Therapeutic Property": "Sedative",
+      "Chemical Families": [
+        "recdLPwQ71AwqkK69"
+      ]
+    }
+  },
+  {
+    "id": "reclSj0Jdvsa3BBl6",
+    "createdTime": "2017-07-15T04:10:06.000Z",
+    "fields": {
+      "Description": "Cleans and purifies the blood, restores normal health, alters existing nutritive and excretory processes, gradually restoring normal body function\n",
+      "Therapeutic Property": "Alerative"
+    }
+  },
+  {
+    "id": "recm6yQYE6EObg9JN",
+    "createdTime": "2017-07-15T04:28:53.000Z",
+    "fields": {
+      "Description": "Preventing the initiation, promotion and progression of cancer cells",
+      "Therapeutic Property": "Anti-numeral "
+    }
+  },
+  {
+    "id": "recnYk6FVhOJuIRqG",
+    "createdTime": "2017-07-15T05:16:14.000Z",
+    "fields": {
+      "Therapeutic Property": "cns depressant",
+      "Chemical Families": [
+        "rectNPPxg7s1RLOLP",
+        "rec0nH5pFQGegrC1r",
+        "rec4eYZbqjSk1Sbv5"
+      ],
+      "Chemical Component": [
+        "rec6Cf0zb9Ve9zv1q",
+        "recalGWH2sFz8kYyu",
+        "rec9BJVKgW0k5kecw",
+        "recvRPzsGTJiecI1a",
+        "rectEOWbJoel0OPJP",
+        "rec4lCrtA4tq3gkdT",
+        "recRSutEhh1nhHyv6"
+      ]
+    }
+  },
+  {
+    "id": "recnn6Zh2C7c7GDwh",
+    "createdTime": "2017-07-15T04:26:23.000Z",
+    "fields": {
+      "Description": "Alleviates inflamation",
+      "Therapeutic Property": "Anti-Inflammatory",
+      "Chemical Families": [
+        "rectNPPxg7s1RLOLP",
+        "rec0nH5pFQGegrC1r",
+        "recdLPwQ71AwqkK69",
+        "rec4eYZbqjSk1Sbv5"
+      ],
+      "Inventory": [
+        "recaE3udCM9Lm5fiJ",
+        "recuP0nmg1Wj4YTCc",
+        "recpIKb3VAVXuTPSh",
+        "recRLFdXENBRaGMoN",
+        "recYPRbe5jGWXOZeY",
+        "rec8V78SHsrd7nmzw",
+        "recwLHE8aahgEjPsg",
+        "recPXowXZ5s11Hj3K",
+        "recUx3q2WIlWUI2z5",
+        "recz3ivjlnR4XwA1O",
+        "rec5U7YHs8Vnaqyox",
+        "recd7Pzj8qzmceaOe",
+        "recz0ZW5WPsDQa08O",
+        "rec2NxMSkHSxusDGQ",
+        "recAzx2ft9NjyCE9p",
+        "recIf8ZyvE7in3RZj",
+        "rec3eyNIkt4G2NBwp",
+        "recGjW0XuRzO8QIFT",
+        "recPKiF4YZj3ePNRa",
+        "recLoOyhbM0Zft995",
+        "reccr6UnqRnmOQbLC",
+        "recsn31vWle40MPyL",
+        "recl4dwGhlojJWbqN",
+        "recMTGRwKedH004J8",
+        "recQ8J1rBY6HhnQF8",
+        "recRUdXHllqVNJZbq",
+        "recnGC6a0KwMhW8e3",
+        "recGHuSR6zuDj5ID6",
+        "reckVh5ujzfOVMD1W",
+        "recbIMdQTyQQ9RrjG",
+        "rechzzgJsMemxIhPB",
+        "recZ9QFHU6n8ZTg2E",
+        "rech4IDa8olPI9DkC",
+        "rechv22O1mHxnpCKZ",
+        "rec5p23hsvt2fOVed",
+        "recwNdMuQTstnxmLB",
+        "recjfK0B2gemQUtWO",
+        "recEg0I8Z1vFEnBzS",
+        "rec7xM6l7pnjbwsc7",
+        "rec32uf3v21xCjb48",
+        "rect5C5Oup0UArAOe",
+        "recnvQe0ptmPwQPnP",
+        "recmwzeYzpnZCHSPq",
+        "recxp3XDnLcB6l5BL",
+        "rec9cbAbO9GW70DoC",
+        "reczhPMLivB4Ti9ek",
+        "recSBbcncw7wDOWAE",
+        "rectDwSJl588a8QSM",
+        "recoKQNNayvx47aLB",
+        "rec5HGNFUFOjLyTwQ",
+        "recJJtL7bfawSDWm9",
+        "rectiguY866LUFSLG",
+        "recqHk9OnHewM1PpH",
+        "recrztHRWT60RZhhI",
+        "rec3qew8AlVI34KH8",
+        "recw0P11no1dAUWZX",
+        "reckOrlX3GQVLS10q",
+        "recelBd9ivWbI3pHM",
+        "recLsqhbp9IU7rjzF",
+        "rec3x7HaCPoPPorKO",
+        "recEYSnGY4gWKMFyj",
+        "rec12g7ni604YRqzI",
+        "reccAi9CnmFq1FyPm",
+        "recyxgYkbuyVsjh22"
+      ],
+      "Chemical Component": [
+        "recI1UwHfnsPFA95a",
+        "rec6gpBdBvfEmo1Rs",
+        "recz1PmXu22nzPvdZ",
+        "recEquM87dkCfyB4u",
+        "recodip570xPootGM",
+        "reciUR9FdwOQYoy3i",
+        "recNjCKrZEkWK1eEL",
+        "recDn2P9EKivft2yS",
+        "rec6Cf0zb9Ve9zv1q",
+        "recalGWH2sFz8kYyu",
+        "recJy0Ifx9UZfQXoU",
+        "reclt9ovGgsBWpWlN",
+        "recXnzYeO69N6XkKa",
+        "rec9BJVKgW0k5kecw",
+        "recrqbULfeGV3rQ3e",
+        "recW93hI05FbT4q7k",
+        "recvRPzsGTJiecI1a",
+        "recNYKtOYO2DTAlIR",
+        "rectEOWbJoel0OPJP",
+        "reco4pkDTjyqb7PAF",
+        "recMdKizUR30a5w1y",
+        "recL9wHIuQTpQEmyE",
+        "rec1K8C9Csf758CQx",
+        "recNG5ze2GiZuCah2",
+        "recRSutEhh1nhHyv6",
+        "recRI6SGkqHEbCU9k",
+        "recD254BfcEDbUHpf",
+        "recCUUJTBx2AWzEHi",
+        "receEQnCjgZweXvLG",
+        "reczrwZXUCovlW8sm",
+        "recabKsApIXBGWAfq",
+        "recBbzlBLPjokKcMZ"
+      ]
+    }
+  },
+  {
+    "id": "recnpHp0aCI4HO6Fu",
+    "createdTime": "2017-07-15T05:14:29.000Z",
+    "fields": {
+      "Therapeutic Property": "Kills head lice",
+      "Chemical Component": [
+        "rec9BJVKgW0k5kecw",
+        "recrqbULfeGV3rQ3e",
+        "recHrBUSLgCECtpVH"
+      ]
+    }
+  },
+  {
+    "id": "recnpcTwEfdS53pVm",
+    "createdTime": "2020-06-12T22:59:43.000Z",
+    "fields": {
+      "Therapeutic Property": "Antihaematomal",
+      "Inventory": [
+        "recrztHRWT60RZhhI"
+      ]
+    }
+  },
+  {
+    "id": "reco3sYmzOo0M1Y8z",
+    "createdTime": "2017-07-15T04:30:44.000Z",
+    "fields": {
+      "Description": "Causes cells to shrink; contracts, tightens, and binds tissue. Firms tissues and organs; reduces discharges and secretions",
+      "Therapeutic Property": "Astringent ",
+      "Chemical Families": [
+        "rec0nH5pFQGegrC1r"
+      ],
+      "Inventory": [
+        "recuP0nmg1Wj4YTCc",
+        "recpIKb3VAVXuTPSh",
+        "recYPRbe5jGWXOZeY",
+        "recIf8ZyvE7in3RZj",
+        "recGjW0XuRzO8QIFT",
+        "recLoOyhbM0Zft995",
+        "rectiguY866LUFSLG",
+        "rec3x7HaCPoPPorKO",
+        "recEYSnGY4gWKMFyj"
+      ]
+    }
+  },
+  {
+    "id": "recoGGzPnbJuMjfWu",
+    "createdTime": "2017-07-15T04:43:09.000Z",
+    "fields": {
+      "Description": "Increases functional activity of specific organ or system",
+      "Therapeutic Property": "Stimulant "
+    }
+  },
+  {
+    "id": "recokUoP8qiGGsIYY",
+    "createdTime": "2017-07-15T05:17:14.000Z",
+    "fields": {
+      "Therapeutic Property": "neuroprotective",
+      "Inventory": [
+        "recUx3q2WIlWUI2z5",
+        "recZ9QFHU6n8ZTg2E"
+      ],
+      "Chemical Component": [
+        "rec6Cf0zb9Ve9zv1q",
+        "rec1K8C9Csf758CQx"
+      ]
+    }
+  },
+  {
+    "id": "recopPFVFTE09hv2T",
+    "createdTime": "2020-06-03T22:04:12.000Z",
+    "fields": {
+      "Description": "Inhalation of Black Pepper caused a 1.7-fold increase in plasma adrenaline concentration (Nikolaevskii et al. 1990), and can cause an increase in sympathetic activity and an increase in plasma adrenaline (Haze, Sakai and Gozu 2002).",
+      "Therapeutic Property": "Activating",
+      "Inventory": [
+        "recGHuSR6zuDj5ID6"
+      ]
+    }
+  },
+  {
+    "id": "recq2nBv0JrnuegvJ",
+    "createdTime": "2017-10-12T22:20:00.000Z",
+    "fields": {
+      "Description": "Increases sexual stimulation and excitement",
+      "Therapeutic Property": "Aphrodisiac"
+    }
+  },
+  {
+    "id": "recq84IZ7EZA2z9Ob",
+    "createdTime": "2017-07-15T05:41:29.000Z",
+    "fields": {
+      "Description": "Prevents blood from clotting",
+      "Therapeutic Property": "Anticoagulant",
+      "Inventory": [
+        "rec12g7ni604YRqzI"
+      ],
+      "Chemical Component": [
+        "rec6Cf0zb9Ve9zv1q",
+        "rec1K8C9Csf758CQx",
+        "recD254BfcEDbUHpf",
+        "reczrwZXUCovlW8sm"
+      ]
+    }
+  },
+  {
+    "id": "recqR7tDxEbzTgwTd",
+    "createdTime": "2017-10-12T22:43:07.000Z",
+    "fields": {
+      "Description": "Produces redness, itching, swelling or blisters on the skin",
+      "Therapeutic Property": "Irritant"
+    }
+  },
+  {
+    "id": "recqThP5r6kUchdWf",
+    "createdTime": "2017-10-12T22:17:32.000Z",
+    "fields": {
+      "Description": "Prevents sweating",
+      "Therapeutic Property": "Antisudorific"
+    }
+  },
+  {
+    "id": "recqXtv6QSl3MrGOT",
+    "createdTime": "2017-07-15T04:36:19.000Z",
+    "fields": {
+      "Description": "Promotes discharge or removal of phlegm and mucus from the lungs and throat",
+      "Therapeutic Property": "Expectorant",
+      "Inventory": [
+        "recaE3udCM9Lm5fiJ",
+        "recuP0nmg1Wj4YTCc",
+        "recpIKb3VAVXuTPSh",
+        "recRLFdXENBRaGMoN",
+        "recYPRbe5jGWXOZeY",
+        "recX1Ui3FDaPmgjkr",
+        "recPXowXZ5s11Hj3K",
+        "recz3ivjlnR4XwA1O",
+        "recAzx2ft9NjyCE9p",
+        "recl4dwGhlojJWbqN",
+        "reckVh5ujzfOVMD1W",
+        "rec32uf3v21xCjb48",
+        "recSBbcncw7wDOWAE",
+        "recoKQNNayvx47aLB",
+        "rec5HGNFUFOjLyTwQ",
+        "recJJtL7bfawSDWm9",
+        "rectiguY866LUFSLG",
+        "recqHk9OnHewM1PpH",
+        "recw0P11no1dAUWZX"
+      ]
+    }
+  },
+  {
+    "id": "recqyc4MLzZ071H3T",
+    "createdTime": "2017-07-15T05:15:18.000Z",
+    "fields": {
+      "Therapeutic Property": "Lowers triglycerides",
+      "Chemical Component": [
+        "recDn2P9EKivft2yS"
+      ]
+    }
+  },
+  {
+    "id": "recrHwfkIDbLQjms5",
+    "createdTime": "2017-07-15T04:40:54.000Z",
+    "fields": {
+      "Description": "Oil increases local blood circulation and can cause minor skin irritation, skin warming, vasodilation, and local analgesic effect",
+      "Therapeutic Property": "Rubefacient",
+      "Inventory": [
+        "recowm0EZpUYUzqSC",
+        "recPXowXZ5s11Hj3K",
+        "recz3ivjlnR4XwA1O",
+        "recIf8ZyvE7in3RZj",
+        "rec12g7ni604YRqzI",
+        "reccAi9CnmFq1FyPm"
+      ]
+    }
+  },
+  {
+    "id": "recrRdRxKhTdqwF6o",
+    "createdTime": "2017-10-12T23:00:51.000Z",
+    "fields": {
+      "Description": "Helps control bleeding",
+      "Therapeutic Property": "Styptic "
+    }
+  },
+  {
+    "id": "recrwxxAf3cR2AKVY",
+    "createdTime": "2020-06-11T22:52:51.000Z",
+    "fields": {
+      "Therapeutic Property": "immune support",
+      "Inventory": [
+        "recbIMdQTyQQ9RrjG",
+        "rech4IDa8olPI9DkC",
+        "rec5p23hsvt2fOVed",
+        "rec7xM6l7pnjbwsc7",
+        "rec3x7HaCPoPPorKO"
+      ]
+    }
+  },
+  {
+    "id": "recsQh7yKDKdeIpRG",
+    "createdTime": "2020-06-12T20:18:10.000Z",
+    "fields": {
+      "Therapeutic Property": "Cognition",
+      "Inventory": [
+        "recnvQe0ptmPwQPnP"
+      ]
+    }
+  },
+  {
+    "id": "recsfzKSy68gXNj8V",
+    "createdTime": "2017-10-12T22:22:41.000Z",
+    "fields": {
+      "Description": "Enhances the removal of toxic substances from the body",
+      "Therapeutic Property": "Detoxifier"
+    }
+  },
+  {
+    "id": "rectD4UC6HaN66I1m",
+    "createdTime": "2020-06-12T21:49:05.000Z",
+    "fields": {
+      "Therapeutic Property": "anti-acne",
+      "Inventory": [
+        "rec5HGNFUFOjLyTwQ"
+      ]
+    }
+  },
+  {
+    "id": "rectGGqrplEcI6pC9",
+    "createdTime": "2017-10-12T22:38:53.000Z",
+    "fields": {
+      "Description": "Stimulates the flow of milk or increases milk flow",
+      "Therapeutic Property": "Galactogogue"
+    }
+  },
+  {
+    "id": "rectYTGDNYljMwWq3",
+    "createdTime": "2017-10-12T23:26:58.000Z",
+    "fields": {
+      "Therapeutic Property": "antiviral",
+      "Chemical Families": [
+        "recke6RHCjTari7PH"
+      ]
+    }
+  },
+  {
+    "id": "recu7oatx7Ga0gVDd",
+    "createdTime": "2020-05-21T22:44:23.000Z",
+    "fields": {
+      "Therapeutic Property": "Calming",
+      "Inventory": [
+        "recGjW0XuRzO8QIFT",
+        "rec7xM6l7pnjbwsc7",
+        "rectDwSJl588a8QSM"
+      ]
+    }
+  },
+  {
+    "id": "recu7psIJZXBeSLZX",
+    "createdTime": "2017-10-12T22:22:08.000Z",
+    "fields": {
+      "Description": "Causes widening of the air passages by relaxing bronchial muscles",
+      "Therapeutic Property": "Bronchodilator",
+      "Inventory": [
+        "recLoOyhbM0Zft995"
+      ]
+    }
+  },
+  {
+    "id": "recuBDxdUXzqBoYcq",
+    "createdTime": "2017-07-15T05:13:07.000Z",
+    "fields": {
+      "Description": "Enhances immunity, either by stimulating the immune system or by destroying microbes",
+      "Therapeutic Property": "Immunostimulant",
+      "Chemical Families": [
+        "rectNPPxg7s1RLOLP",
+        "rec0nH5pFQGegrC1r"
+      ],
+      "Inventory": [
+        "rec3P9ILbTWqztFg0",
+        "recYPRbe5jGWXOZeY",
+        "rec8V78SHsrd7nmzw",
+        "recPXowXZ5s11Hj3K",
+        "recUx3q2WIlWUI2z5",
+        "recz3ivjlnR4XwA1O",
+        "rec5U7YHs8Vnaqyox",
+        "recd7Pzj8qzmceaOe",
+        "recz0ZW5WPsDQa08O",
+        "recPKiF4YZj3ePNRa",
+        "recsn31vWle40MPyL",
+        "recoIkNGReCzrMo3U",
+        "recQ8J1rBY6HhnQF8",
+        "recwNdMuQTstnxmLB",
+        "recEg0I8Z1vFEnBzS",
+        "rec32uf3v21xCjb48",
+        "recmwzeYzpnZCHSPq",
+        "recxp3XDnLcB6l5BL",
+        "recSBbcncw7wDOWAE",
+        "rec5HGNFUFOjLyTwQ",
+        "rectiguY866LUFSLG",
+        "recw0P11no1dAUWZX",
+        "recelBd9ivWbI3pHM",
+        "rec3x7HaCPoPPorKO",
+        "recEYSnGY4gWKMFyj",
+        "rec12g7ni604YRqzI",
+        "recyxgYkbuyVsjh22"
+      ],
+      "Chemical Component": [
+        "recEquM87dkCfyB4u",
+        "recNjCKrZEkWK1eEL",
+        "reclt9ovGgsBWpWlN",
+        "rec9BJVKgW0k5kecw",
+        "reco4pkDTjyqb7PAF",
+        "recRSutEhh1nhHyv6"
+      ]
+    }
+  },
+  {
+    "id": "recuemMsIniXHU3bl",
+    "createdTime": "2017-10-12T22:24:54.000Z",
+    "fields": {
+      "Description": "Purifies the blood ",
+      "Therapeutic Property": "Depurative"
+    }
+  },
+  {
+    "id": "recvj8t1fNCEwU8lI",
+    "createdTime": "2017-10-12T23:26:58.000Z",
+    "fields": {
+      "Therapeutic Property": "Strong mucolytic",
+      "Chemical Families": [
+        "recgFq5QYSjHDQx2d"
+      ]
+    }
+  },
+  {
+    "id": "recwM8oKrrDZnusNE",
+    "createdTime": "2017-10-12T22:46:57.000Z",
+    "fields": {
+      "Description": "Will produce heating or drying effect on the mucous membranes of the mouth, nose, and reproductive organs",
+      "Therapeutic Property": "Mucus membrane irritant"
+    }
+  },
+  {
+    "id": "recwPEdgv5JLeaO4t",
+    "createdTime": "2017-07-15T05:33:22.000Z",
+    "fields": {
+      "Therapeutic Property": "Antifungal (candida)",
+      "Inventory": [
+        "reczlYXZ0P3abLb0p",
+        "rec8V78SHsrd7nmzw",
+        "rechv22O1mHxnpCKZ",
+        "recwNdMuQTstnxmLB",
+        "rect5C5Oup0UArAOe",
+        "recnvQe0ptmPwQPnP",
+        "recSBbcncw7wDOWAE",
+        "recw0P11no1dAUWZX"
+      ],
+      "Chemical Component": [
+        "recI1UwHfnsPFA95a",
+        "recBVpFPnvICbsxsi",
+        "recsnrxsHe13JYi88",
+        "rec2S8TS0gbzxUw7Z",
+        "recalGWH2sFz8kYyu",
+        "recJy0Ifx9UZfQXoU",
+        "reclt9ovGgsBWpWlN",
+        "rec9BJVKgW0k5kecw",
+        "recqodAmfuKvqvvqb",
+        "recHrBUSLgCECtpVH",
+        "recRVIe17oe6pMZCn",
+        "recMdKizUR30a5w1y",
+        "recL9wHIuQTpQEmyE",
+        "rec1K8C9Csf758CQx",
+        "recNG5ze2GiZuCah2"
+      ]
+    }
+  },
+  {
+    "id": "recx6ey9NMuM2985d",
+    "createdTime": "2017-10-12T23:26:58.000Z",
+    "fields": {
+      "Therapeutic Property": "skin penetration enhancers"
+    }
+  },
+  {
+    "id": "recxDb6BWBo51rREP",
+    "createdTime": "2020-06-11T23:46:52.000Z",
+    "fields": {
+      "Therapeutic Property": "heart palpatation"
+    }
+  },
+  {
+    "id": "recxQnPrIWHrd084u",
+    "createdTime": "2017-07-15T04:28:06.000Z",
+    "fields": {
+      "Description": "Relieves spasms of voluntary and involuntary muscles",
+      "Therapeutic Property": "Antispasmodic",
+      "Chemical Families": [
+        "rectNPPxg7s1RLOLP",
+        "rec4eYZbqjSk1Sbv5",
+        "rec0nH5pFQGegrC1r"
+      ],
+      "Inventory": [
+        "recaE3udCM9Lm5fiJ",
+        "recGetQ0nvjBCtuB5",
+        "recowm0EZpUYUzqSC",
+        "rec3P9ILbTWqztFg0",
+        "recpIKb3VAVXuTPSh",
+        "recRLFdXENBRaGMoN",
+        "recYPRbe5jGWXOZeY",
+        "reczlYXZ0P3abLb0p",
+        "recX1Ui3FDaPmgjkr",
+        "rec8V78SHsrd7nmzw",
+        "recwLHE8aahgEjPsg",
+        "recPXowXZ5s11Hj3K",
+        "recUx3q2WIlWUI2z5",
+        "recz3ivjlnR4XwA1O",
+        "recd7Pzj8qzmceaOe",
+        "recz0ZW5WPsDQa08O",
+        "rec2NxMSkHSxusDGQ",
+        "recAzx2ft9NjyCE9p",
+        "recIf8ZyvE7in3RZj",
+        "recPKiF4YZj3ePNRa",
+        "recLoOyhbM0Zft995",
+        "recl4dwGhlojJWbqN",
+        "recoIkNGReCzrMo3U",
+        "recQ8J1rBY6HhnQF8",
+        "recbIMdQTyQQ9RrjG",
+        "recZ9QFHU6n8ZTg2E",
+        "rech4IDa8olPI9DkC",
+        "rec5p23hsvt2fOVed",
+        "recjfK0B2gemQUtWO",
+        "recktF98UbMw5Wp6W",
+        "rec32uf3v21xCjb48",
+        "recnvQe0ptmPwQPnP",
+        "recSBbcncw7wDOWAE",
+        "recoKQNNayvx47aLB",
+        "rec5HGNFUFOjLyTwQ",
+        "recJJtL7bfawSDWm9",
+        "rectiguY866LUFSLG",
+        "recqHk9OnHewM1PpH",
+        "recrztHRWT60RZhhI",
+        "rec3qew8AlVI34KH8",
+        "recw0P11no1dAUWZX",
+        "recLsqhbp9IU7rjzF",
+        "rec3x7HaCPoPPorKO",
+        "recEYSnGY4gWKMFyj",
+        "reccAi9CnmFq1FyPm",
+        "recyxgYkbuyVsjh22"
+      ],
+      "Chemical Component": [
+        "recI1UwHfnsPFA95a",
+        "rec6gpBdBvfEmo1Rs",
+        "recMSkM3RV4KHoTcN",
+        "recsnrxsHe13JYi88",
+        "recNjCKrZEkWK1eEL",
+        "rec6Cf0zb9Ve9zv1q",
+        "reclt9ovGgsBWpWlN",
+        "recXnzYeO69N6XkKa",
+        "rec9BJVKgW0k5kecw",
+        "recW93hI05FbT4q7k",
+        "recNYKtOYO2DTAlIR",
+        "recbqbnASP9HKdtsD",
+        "recHrBUSLgCECtpVH",
+        "recMdKizUR30a5w1y",
+        "recL9wHIuQTpQEmyE",
+        "rec1K8C9Csf758CQx",
+        "recNG5ze2GiZuCah2",
+        "recRSutEhh1nhHyv6",
+        "recCUUJTBx2AWzEHi",
+        "receEQnCjgZweXvLG",
+        "recabKsApIXBGWAfq"
+      ]
+    }
+  },
+  {
+    "id": "recxjWEmFLTWBwHoG",
+    "createdTime": "2017-07-15T04:45:10.000Z",
+    "fields": {
+      "Description": "Helps to dilate blood vessels",
+      "Therapeutic Property": "Vasodilator",
+      "Inventory": [
+        "recz0ZW5WPsDQa08O",
+        "recIf8ZyvE7in3RZj",
+        "rec5HGNFUFOjLyTwQ",
+        "reccAi9CnmFq1FyPm"
+      ],
+      "Chemical Component": [
+        "rec1K8C9Csf758CQx"
+      ]
+    }
+  },
+  {
+    "id": "recxujVKrcbKIrHf4",
+    "createdTime": "2017-10-12T23:26:58.000Z",
+    "fields": {
+      "Therapeutic Property": "Antispasmodic (some)",
+      "Chemical Families": [
+        "rec4eYZbqjSk1Sbv5"
+      ]
+    }
+  },
+  {
+    "id": "recy7QjN2RnMry3aF",
+    "createdTime": "2017-10-12T23:26:58.000Z",
+    "fields": {
+      "Therapeutic Property": "Highly anti-infectious",
+      "Chemical Families": [
+        "recXfFAsTYyZWgCvQ"
+      ]
+    }
+  },
+  {
+    "id": "recyR7uTqCcSLZC6a",
+    "createdTime": "2017-10-12T23:02:57.000Z",
+    "fields": {
+      "Description": "Expels worms from the intestines",
+      "Therapeutic Property": "Vermifuge"
+    }
+  },
+  {
+    "id": "recyeWjEDb2kCFvJZ",
+    "createdTime": "2017-07-15T05:19:11.000Z",
+    "fields": {
+      "Therapeutic Property": "Cooling",
+      "Chemical Families": [
+        "rec0nH5pFQGegrC1r",
+        "recdLPwQ71AwqkK69",
+        "rectNPPxg7s1RLOLP"
+      ],
+      "Inventory": [
+        "recYPRbe5jGWXOZeY",
+        "recUx3q2WIlWUI2z5",
+        "rec3eyNIkt4G2NBwp",
+        "recPKiF4YZj3ePNRa",
+        "recLoOyhbM0Zft995",
+        "recsn31vWle40MPyL",
+        "rectiguY866LUFSLG",
+        "rec3qew8AlVI34KH8",
+        "reckOrlX3GQVLS10q",
+        "recelBd9ivWbI3pHM",
+        "rec3x7HaCPoPPorKO"
+      ],
+      "Chemical Component": [
+        "recJy0Ifx9UZfQXoU",
+        "recXnzYeO69N6XkKa"
+      ]
+    }
+  },
+  {
+    "id": "recyhrkLRxXhpNGum",
+    "createdTime": "2017-07-15T04:38:11.000Z",
+    "fields": {
+      "Description": "Lowers blood pressure",
+      "Therapeutic Property": "Hypotensive",
+      "Chemical Families": [
+        "rec4eYZbqjSk1Sbv5"
+      ],
+      "Inventory": [
+        "recwLHE8aahgEjPsg",
+        "rec2NxMSkHSxusDGQ",
+        "reckOrlX3GQVLS10q"
+      ],
+      "Chemical Component": [
+        "recalGWH2sFz8kYyu",
+        "reclt9ovGgsBWpWlN",
+        "recXnzYeO69N6XkKa",
+        "rec9BJVKgW0k5kecw",
+        "recrqbULfeGV3rQ3e",
+        "recwJPKsbLTDfpyEW",
+        "recvRPzsGTJiecI1a",
+        "recHrBUSLgCECtpVH",
+        "recL9wHIuQTpQEmyE",
+        "rec1K8C9Csf758CQx",
+        "recNG5ze2GiZuCah2",
+        "receEQnCjgZweXvLG"
+      ]
+    }
+  },
+  {
+    "id": "recyk8Z3Gbj86a9X4",
+    "createdTime": "2017-10-12T23:26:58.000Z",
+    "fields": {
+      "Therapeutic Property": "(Specifically 1",
+      "Chemical Families": [
+        "recke6RHCjTari7PH"
+      ]
+    }
+  },
+  {
+    "id": "recyz67I8FdAxoX3P",
+    "createdTime": "2017-07-15T05:37:24.000Z",
+    "fields": {
+      "Description": "Aides digestion, tonic",
+      "Therapeutic Property": "Digestive",
+      "Inventory": [
+        "recGetQ0nvjBCtuB5",
+        "recz0ZW5WPsDQa08O",
+        "recLsqhbp9IU7rjzF",
+        "recEYSnGY4gWKMFyj",
+        "reccAi9CnmFq1FyPm"
+      ],
+      "Chemical Component": [
+        "recvRPzsGTJiecI1a"
+      ]
+    }
+  },
+  {
+    "id": "reczGami8EIuE8DTN",
+    "createdTime": "2017-07-21T05:54:34.000Z",
+    "fields": {
+      "Therapeutic Property": "CNS stimulant",
+      "Inventory": [
+        "recpIKb3VAVXuTPSh",
+        "rectiguY866LUFSLG"
+      ],
+      "Chemical Component": [
+        "recXnzYeO69N6XkKa",
+        "recUMFaT5CtOZtePj",
+        "recRI6SGkqHEbCU9k"
+      ]
+    }
+  }
+]

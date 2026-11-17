@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>AromAssistant</title>
+  <meta name="description" content="Searchable aromatherapy library: oils, recipes, herbs, and a drop calculator.">
+  <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,600;0,700;1,600&family=Source+Sans+3:ital,wght@0,400;0,600;0,700;1,400&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/styles.css">
+</head>
+<body>
+  <a class="skip" href="#main">Skip to content</a>
+  <header class="top">
+    <div class="top-inner">
+      <a class="brand" href="#/" id="home-link">
+        <span class="mark" aria-hidden="true">
+          <svg viewBox="0 0 64 64" width="36" height="36"><rect width="64" height="64" rx="14" fill="#143027"/><path d="M32 10c2 10 12 16 20 18-8 2-16 10-18 22-2-12-12-18-20-20 8-2 16-10 18-20z" fill="#d9e7d4"/><path d="M32 18v30" stroke="#8faf7a" stroke-width="2" fill="none"/></svg>
+        </span>
+        <span class="brand-text">
+          <strong>AromAssistant</strong>
+          <em>Aromatherapy library</em>
+        </span>
+      </a>
+      <div class="base-toggle" role="group" aria-label="Choose data base">
+        <button type="button" id="btn-apothe" data-base="apothechrissy">ApotheChrissy</button>
+        <button type="button" id="btn-arom" data-base="aromassistant">AromAssistant</button>
+      </div>
+    </div>
+    <nav class="tabs" aria-label="Primary">
+      <a id="tab-search" href="#/search">Search</a>
+      <a id="tab-browse" href="#/browse">Browse</a>
+      <a id="tab-calculator" href="#/calculator">Calculator</a>
+    </nav>
+  </header>
+  <main id="main"></main>
+  <footer class="foot">
+    <p>Public snapshot from November 17, 2026. Inventory purchase amounts are on the inventory record only, not in search or browse cards.</p>
+  </footer>
+  <script src="assets/app.js" defer></script>
+</body>
+</html>

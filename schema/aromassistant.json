@@ -1,0 +1,1212 @@
+{
+  "baseId": "apptAxmIxHhT3h0Tr",
+  "baseName": "AromAssistant",
+  "slug": "aromassistant",
+  "tables": [
+    {
+      "id": "tbl1eWQaNFm8aNTKK",
+      "name": "Oils",
+      "slug": "oils",
+      "primaryFieldId": "fldTup7eoykioN5Jz",
+      "fields": [
+        {
+          "id": "fldTup7eoykioN5Jz",
+          "name": "Common Name",
+          "type": "multilineText"
+        },
+        {
+          "id": "fld04iZ9jqDWputnm",
+          "name": "Botanical Name",
+          "type": "multipleRecordLinks",
+          "config": {
+            "linkedTableId": "tblbuFCzI2mbwyslt",
+            "isReversed": true,
+            "prefersSingleRecordLink": false,
+            "inverseLinkFieldId": "fldpjDMZOxzKff0QK"
+          }
+        },
+        {
+          "id": "fldipYzqqiTMj9mlr",
+          "name": "Chemical Family",
+          "type": "multipleRecordLinks",
+          "config": {
+            "linkedTableId": "tblyUB3TSTpVIhhj3",
+            "isReversed": true,
+            "prefersSingleRecordLink": false,
+            "inverseLinkFieldId": "fldGzDWqYb7Xm3LBx"
+          }
+        },
+        {
+          "id": "fldzBB7oCZ43jgAUK",
+          "name": "Inventory",
+          "type": "multipleRecordLinks",
+          "config": {
+            "linkedTableId": "tbl4qqw6hUEFJGrRe",
+            "isReversed": true,
+            "prefersSingleRecordLink": false,
+            "inverseLinkFieldId": "fldFfYN0w6AquFVZN"
+          }
+        },
+        {
+          "id": "fld51I8JjEa0fFXPd",
+          "name": "Safety",
+          "type": "multilineText"
+        },
+        {
+          "id": "fldLpUSxMGsaF4ZZI",
+          "name": "Chemical Component",
+          "type": "multipleRecordLinks",
+          "config": {
+            "linkedTableId": "tblyMzMK6VVFsxkkb",
+            "isReversed": true,
+            "prefersSingleRecordLink": false,
+            "inverseLinkFieldId": "fldPmTppDRoIHP8Ad"
+          }
+        },
+        {
+          "id": "flduFibYJS5xG3643",
+          "name": "Botanical Name (text)",
+          "type": "multilineText"
+        },
+        {
+          "id": "fldDahN3Zztp0upsb",
+          "name": "Botanical Family",
+          "type": "multipleRecordLinks",
+          "config": {
+            "linkedTableId": "tblBJXoLHfBZHHUn5",
+            "isReversed": true,
+            "prefersSingleRecordLink": false,
+            "inverseLinkFieldId": "fldJNfvg7L4h7SWA9"
+          }
+        },
+        {
+          "id": "fld2ibzXyFDlQt3eR",
+          "name": "Recipes",
+          "type": "multipleRecordLinks",
+          "config": {
+            "linkedTableId": "tbldkSGYMrbBfNBSr",
+            "isReversed": true,
+            "prefersSingleRecordLink": false,
+            "inverseLinkFieldId": "fldEiJGi98gBLlrcT"
+          }
+        },
+        {
+          "id": "fldUT0laAjsWZYVc2",
+          "name": "AGP Notes",
+          "type": "multilineText"
+        }
+      ]
+    },
+    {
+      "id": "tbl4qqw6hUEFJGrRe",
+      "name": "Inventory",
+      "slug": "inventory",
+      "primaryFieldId": "fld4Uas6JMJ8OxD4z",
+      "fields": [
+        {
+          "id": "fld4Uas6JMJ8OxD4z",
+          "name": "BatchID",
+          "type": "singleLineText"
+        },
+        {
+          "id": "fldFfYN0w6AquFVZN",
+          "name": "Oil",
+          "type": "multipleRecordLinks",
+          "config": {
+            "linkedTableId": "tbl1eWQaNFm8aNTKK",
+            "isReversed": true,
+            "prefersSingleRecordLink": false,
+            "inverseLinkFieldId": "fldzBB7oCZ43jgAUK"
+          }
+        },
+        {
+          "id": "fld6mKdkXhWpi6VG1",
+          "name": "Vendor",
+          "type": "multipleRecordLinks",
+          "config": {
+            "linkedTableId": "tblO2IkwqHwCadEKG",
+            "isReversed": true,
+            "prefersSingleRecordLink": false,
+            "inverseLinkFieldId": "fldRmxczx4Kbvr3VZ"
+          }
+        },
+        {
+          "id": "fldQsUHvxQdEm74LW",
+          "name": "UOM",
+          "type": "singleLineText"
+        },
+        {
+          "id": "fldrsA6oC5Cw402MM",
+          "name": "Receive Date",
+          "type": "singleLineText"
+        },
+        {
+          "id": "fldb3mfBXO4cWLR6o",
+          "name": "Purchase Price",
+          "type": "currency",
+          "config": {
+            "precision": 2,
+            "symbol": "$"
+          }
+        },
+        {
+          "id": "fldEcbZK39R1TFl6E",
+          "name": "Chemical Family",
+          "type": "multipleRecordLinks",
+          "config": {
+            "linkedTableId": "tblyUB3TSTpVIhhj3",
+            "isReversed": true,
+            "prefersSingleRecordLink": false,
+            "inverseLinkFieldId": "fld85MGJ7MGXXqrlW"
+          }
+        },
+        {
+          "id": "fldyusZu3HQPyuVxU",
+          "name": "Main Components",
+          "type": "multipleRecordLinks",
+          "config": {
+            "linkedTableId": "tblyMzMK6VVFsxkkb",
+            "isReversed": true,
+            "prefersSingleRecordLink": false,
+            "inverseLinkFieldId": "fldf8n0PBFaBcujiC"
+          }
+        },
+        {
+          "id": "fldVLzUNogrWBKnJq",
+          "name": "Therapeutic Property",
+          "type": "multipleRecordLinks",
+          "config": {
+            "linkedTableId": "tblOYUe8ZSU36qF3r",
+            "isReversed": true,
+            "prefersSingleRecordLink": false,
+            "inverseLinkFieldId": "fldLOzSxwUeYyJRyV"
+          }
+        },
+        {
+          "id": "fld5QzqxOjCjuX5s2",
+          "name": "Dilution",
+          "type": "singleLineText"
+        },
+        {
+          "id": "fld2D77099ls7BbAU",
+          "name": "Safety Info",
+          "type": "multilineText"
+        },
+        {
+          "id": "fldeUHHfGSWuqSWfT",
+          "name": "Shelf Life",
+          "type": "multilineText"
+        },
+        {
+          "id": "fldI8I9DQX4dVjnkS",
+          "name": "Distillation Date",
+          "type": "multilineText"
+        },
+        {
+          "id": "fldaDSXhUIsg0OKBY",
+          "name": "Expiration Date",
+          "type": "multilineText"
+        },
+        {
+          "id": "fld1CjmdSwAnlgbtB",
+          "name": "Notes",
+          "type": "multilineText"
+        },
+        {
+          "id": "fldTsFMzFRzlAnB8R",
+          "name": "Botanical Family/Plant Part(s)",
+          "type": "multilineText"
+        },
+        {
+          "id": "fldZ9NpfTrNpkRLvw",
+          "name": "Type",
+          "type": "singleSelect",
+          "config": {
+            "choices": [
+              {
+                "id": "selIGGW1KjYUYV6D1",
+                "name": "Carrier",
+                "color": "cyanLight2"
+              },
+              {
+                "id": "selhEHSLC6A05JEEl",
+                "name": "Container",
+                "color": "redLight2"
+              },
+              {
+                "id": "seloE6lcNdxblIaWd",
+                "name": "Equipment",
+                "color": "greenLight2"
+              },
+              {
+                "id": "selelb5UeH3PAaPDm",
+                "name": "Single Oil",
+                "color": "blueLight2"
+              },
+              {
+                "id": "selarN5GnRYwb94jv",
+                "name": "Supply",
+                "color": "yellowLight2"
+              },
+              {
+                "id": "seluq4FSzZ8ZBiyAs",
+                "name": "Synergy Blend",
+                "color": "purpleLight2"
+              },
+              {
+                "id": "selzqnkmnGAyCSj9y",
+                "name": "Hydrosol",
+                "color": "yellowDark1"
+              }
+            ]
+          }
+        },
+        {
+          "id": "fldqSJCUrvqec7drq",
+          "name": "Clinical Applications if known",
+          "type": "multilineText"
+        }
+      ]
+    },
+    {
+      "id": "tblBJXoLHfBZHHUn5",
+      "name": "Botanical Family",
+      "slug": "botanical-family",
+      "primaryFieldId": "fldxd7te7NaOeqKpE",
+      "fields": [
+        {
+          "id": "fldxd7te7NaOeqKpE",
+          "name": "Botanical Family",
+          "type": "singleLineText"
+        },
+        {
+          "id": "fldJNfvg7L4h7SWA9",
+          "name": "Oils",
+          "type": "multipleRecordLinks",
+          "config": {
+            "linkedTableId": "tbl1eWQaNFm8aNTKK",
+            "isReversed": true,
+            "prefersSingleRecordLink": false,
+            "inverseLinkFieldId": "fldDahN3Zztp0upsb"
+          }
+        },
+        {
+          "id": "fldo7GW7ObbWrPCrV",
+          "name": "Attachments",
+          "type": "multipleAttachments",
+          "config": {
+            "isReversed": true
+          }
+        },
+        {
+          "id": "flddfgq5rofNz07ik",
+          "name": "ACP Notes",
+          "type": "multilineText"
+        }
+      ]
+    },
+    {
+      "id": "tblbuFCzI2mbwyslt",
+      "name": "Botanical Name",
+      "slug": "botanical-name",
+      "primaryFieldId": "fldXGqPoN6YPGYbq4",
+      "fields": [
+        {
+          "id": "fldXGqPoN6YPGYbq4",
+          "name": "Botanical Name",
+          "type": "singleLineText"
+        },
+        {
+          "id": "fldpjDMZOxzKff0QK",
+          "name": "Common Name",
+          "type": "multipleRecordLinks",
+          "config": {
+            "linkedTableId": "tbl1eWQaNFm8aNTKK",
+            "isReversed": true,
+            "prefersSingleRecordLink": false,
+            "inverseLinkFieldId": "fld04iZ9jqDWputnm"
+          }
+        },
+        {
+          "id": "fld9ok5a0B8BUpzqy",
+          "name": "Attachments",
+          "type": "multipleAttachments",
+          "config": {
+            "isReversed": true
+          }
+        }
+      ]
+    },
+    {
+      "id": "tblyUB3TSTpVIhhj3",
+      "name": "Chemical Families",
+      "slug": "chemical-families",
+      "primaryFieldId": "fldytv4FpoHCLfmLu",
+      "fields": [
+        {
+          "id": "fldytv4FpoHCLfmLu",
+          "name": "Family",
+          "type": "singleLineText"
+        },
+        {
+          "id": "fldby1tCkGlqC7AH2",
+          "name": "Main Properties",
+          "type": "multipleRecordLinks",
+          "config": {
+            "linkedTableId": "tblOYUe8ZSU36qF3r",
+            "isReversed": true,
+            "prefersSingleRecordLink": false,
+            "inverseLinkFieldId": "fldGVigCoRr1Aan4f"
+          }
+        },
+        {
+          "id": "fldA09sd2A5ugRsxg",
+          "name": "Chemical Component",
+          "type": "multipleRecordLinks",
+          "config": {
+            "linkedTableId": "tblyMzMK6VVFsxkkb",
+            "isReversed": true,
+            "prefersSingleRecordLink": false,
+            "inverseLinkFieldId": "fld7Cw7E2A4l0MAbZ"
+          }
+        },
+        {
+          "id": "fldZsKr3x4BOjPDdH",
+          "name": "Safety",
+          "type": "multilineText"
+        },
+        {
+          "id": "fldGzDWqYb7Xm3LBx",
+          "name": "Oils",
+          "type": "multipleRecordLinks",
+          "config": {
+            "linkedTableId": "tbl1eWQaNFm8aNTKK",
+            "isReversed": true,
+            "prefersSingleRecordLink": false,
+            "inverseLinkFieldId": "fldipYzqqiTMj9mlr"
+          }
+        },
+        {
+          "id": "fldswFqUnr0BNExcj",
+          "name": "My Inventory",
+          "type": "singleLineText"
+        },
+        {
+          "id": "fld85MGJ7MGXXqrlW",
+          "name": "Inventory",
+          "type": "multipleRecordLinks",
+          "config": {
+            "linkedTableId": "tbl4qqw6hUEFJGrRe",
+            "isReversed": true,
+            "prefersSingleRecordLink": false,
+            "inverseLinkFieldId": "fldEcbZK39R1TFl6E"
+          }
+        },
+        {
+          "id": "fldwKrpbzGgYydmLk",
+          "name": "Molecular Notes",
+          "type": "singleLineText"
+        },
+        {
+          "id": "fldhr6P7iFB9EgzE5",
+          "name": "AGP Notes",
+          "type": "multilineText"
+        },
+        {
+          "id": "fldXyPYrCwmnuhBUG",
+          "name": "Core Therapeutic indications (Jade Shutes",
+          "type": "multilineText"
+        }
+      ]
+    },
+    {
+      "id": "tblyMzMK6VVFsxkkb",
+      "name": "Chemical Component",
+      "slug": "chemical-component",
+      "primaryFieldId": "fldw6vD7XFVJjf48n",
+      "fields": [
+        {
+          "id": "fldw6vD7XFVJjf48n",
+          "name": "Component",
+          "type": "multilineText"
+        },
+        {
+          "id": "fld7Cw7E2A4l0MAbZ",
+          "name": "Family",
+          "type": "multipleRecordLinks",
+          "config": {
+            "linkedTableId": "tblyUB3TSTpVIhhj3",
+            "isReversed": true,
+            "prefersSingleRecordLink": false,
+            "inverseLinkFieldId": "fldA09sd2A5ugRsxg"
+          }
+        },
+        {
+          "id": "fldjficRNiaTVpQhI",
+          "name": "Therapeutic Property",
+          "type": "multipleRecordLinks",
+          "config": {
+            "linkedTableId": "tblOYUe8ZSU36qF3r",
+            "isReversed": true,
+            "prefersSingleRecordLink": false,
+            "inverseLinkFieldId": "fldNN1I5P5KOfv36Q"
+          }
+        },
+        {
+          "id": "fldaOtVOV6LDYEBqU",
+          "name": "Clinical Application",
+          "type": "multilineText"
+        },
+        {
+          "id": "fldQ0Kvb04THxeYBO",
+          "name": "Safety",
+          "type": "multilineText"
+        },
+        {
+          "id": "fldPmTppDRoIHP8Ad",
+          "name": "Oil",
+          "type": "multipleRecordLinks",
+          "config": {
+            "linkedTableId": "tbl1eWQaNFm8aNTKK",
+            "isReversed": true,
+            "prefersSingleRecordLink": false,
+            "inverseLinkFieldId": "fldLpUSxMGsaF4ZZI"
+          }
+        },
+        {
+          "id": "fldf8n0PBFaBcujiC",
+          "name": "Inventory",
+          "type": "multipleRecordLinks",
+          "config": {
+            "linkedTableId": "tbl4qqw6hUEFJGrRe",
+            "isReversed": true,
+            "prefersSingleRecordLink": false,
+            "inverseLinkFieldId": "fldyusZu3HQPyuVxU"
+          }
+        },
+        {
+          "id": "fldSgBQJpbQmiC1cm",
+          "name": "AGP Notes",
+          "type": "multilineText"
+        }
+      ]
+    },
+    {
+      "id": "tblOYUe8ZSU36qF3r",
+      "name": "Therapeutic Properties",
+      "slug": "therapeutic-properties",
+      "primaryFieldId": "fld1HVuZszrUxKs9b",
+      "fields": [
+        {
+          "id": "fld1HVuZszrUxKs9b",
+          "name": "Therapeutic Property",
+          "type": "singleLineText"
+        },
+        {
+          "id": "fldvXgpp7WLMueSJs",
+          "name": "Description",
+          "type": "multilineText"
+        },
+        {
+          "id": "fldpa8Y6nPzhSn27A",
+          "name": "Attachments",
+          "type": "multipleAttachments",
+          "config": {
+            "isReversed": true
+          }
+        },
+        {
+          "id": "fldNN1I5P5KOfv36Q",
+          "name": "Chemical Component",
+          "type": "multipleRecordLinks",
+          "config": {
+            "linkedTableId": "tblyMzMK6VVFsxkkb",
+            "isReversed": true,
+            "prefersSingleRecordLink": false,
+            "inverseLinkFieldId": "fldjficRNiaTVpQhI"
+          }
+        },
+        {
+          "id": "fldLOzSxwUeYyJRyV",
+          "name": "Inventory",
+          "type": "multipleRecordLinks",
+          "config": {
+            "linkedTableId": "tbl4qqw6hUEFJGrRe",
+            "isReversed": true,
+            "prefersSingleRecordLink": false,
+            "inverseLinkFieldId": "fldVLzUNogrWBKnJq"
+          }
+        },
+        {
+          "id": "fldGVigCoRr1Aan4f",
+          "name": "Chemical Families",
+          "type": "multipleRecordLinks",
+          "config": {
+            "linkedTableId": "tblyUB3TSTpVIhhj3",
+            "isReversed": true,
+            "prefersSingleRecordLink": false,
+            "inverseLinkFieldId": "fldby1tCkGlqC7AH2"
+          }
+        }
+      ]
+    },
+    {
+      "id": "tblxdBzpsu0dwSlBD",
+      "name": "Drop Calculator",
+      "slug": "drop-calculator",
+      "primaryFieldId": "fldQx6d9gG1MXwzxO",
+      "fields": [
+        {
+          "id": "fldQx6d9gG1MXwzxO",
+          "name": "Directions",
+          "type": "singleLineText",
+          "description": "The first row in this table calculates the number of drops for a blend given the size of container and % dilution. The remaining rows allow the user to choose an oil in the \"Which oil? column to see the maximum dilution rate for the oil and check for the maximum number of drops."
+        },
+        {
+          "id": "fld9yKSOS9fbewuYx",
+          "name": "Dilution Recommendations",
+          "type": "multilineText"
+        },
+        {
+          "id": "fld60FoDark0zlBVj",
+          "name": "Choose unit: (mL or oz)...",
+          "type": "singleSelect",
+          "config": {
+            "choices": [
+              {
+                "id": "selbC1hKyFB7T1sc6",
+                "name": "mL",
+                "color": "blueLight2"
+              },
+              {
+                "id": "selSEKatLYTk5esNl",
+                "name": "oz",
+                "color": "cyanLight2"
+              }
+            ]
+          }
+        },
+        {
+          "id": "fld9aPBklNYyZDyhO",
+          "name": "How much are you making?",
+          "type": "number",
+          "config": {
+            "precision": 2
+          }
+        },
+        {
+          "id": "fldjaoTU354QB8kob",
+          "name": "What is your dilution %?",
+          "type": "number",
+          "description": "1% - Children 2+, pregnant/nursing, elderly, immunocompromised\n2% - Healthy adult\n3% - Acute use: short-term and small area\nHigher percentages should be used with caution and only under special circumstances.",
+          "config": {
+            "precision": 2
+          }
+        },
+        {
+          "id": "fldOZS9caJxbipsUB",
+          "name": "This is your # of drops:",
+          "type": "formula",
+          "config": {
+            "isValid": true,
+            "formula": "IF({fld60FoDark0zlBVj} = \"mL\", ({fld9aPBklNYyZDyhO} * {fldjaoTU354QB8kob}) * .2,({fld9aPBklNYyZDyhO} * {fldjaoTU354QB8kob}) * 6) + 0",
+            "referencedFieldIds": [
+              "fld60FoDark0zlBVj",
+              "fld9aPBklNYyZDyhO",
+              "fldjaoTU354QB8kob"
+            ],
+            "result": {
+              "type": "number",
+              "options": {
+                "precision": 1
+              }
+            }
+          }
+        }
+      ]
+    },
+    {
+      "id": "tbldkSGYMrbBfNBSr",
+      "name": "Recipes",
+      "slug": "recipes",
+      "primaryFieldId": "fldsXgqyyA5HzxRFN",
+      "fields": [
+        {
+          "id": "fldsXgqyyA5HzxRFN",
+          "name": "Name",
+          "type": "singleLineText"
+        },
+        {
+          "id": "fldtVpvJJt6yGW9wU",
+          "name": "Pics",
+          "type": "multipleAttachments",
+          "config": {
+            "isReversed": true
+          }
+        },
+        {
+          "id": "fldEiJGi98gBLlrcT",
+          "name": "Ingredients",
+          "type": "multipleRecordLinks",
+          "config": {
+            "linkedTableId": "tbl1eWQaNFm8aNTKK",
+            "isReversed": true,
+            "prefersSingleRecordLink": false,
+            "inverseLinkFieldId": "fld2ibzXyFDlQt3eR"
+          }
+        },
+        {
+          "id": "fldl6LA7P8PupLgBl",
+          "name": "Directions",
+          "type": "multilineText"
+        },
+        {
+          "id": "fldTLBdqR033ItfkW",
+          "name": "Containers/Tools",
+          "type": "multilineText"
+        },
+        {
+          "id": "fldZsOsa4fao4o6Wn",
+          "name": "Notes",
+          "type": "multilineText"
+        },
+        {
+          "id": "fld1Vssc329jqn0ZD",
+          "name": "Uses",
+          "type": "multipleRecordLinks",
+          "config": {
+            "linkedTableId": "tblJIGn1n9pP80h2O",
+            "isReversed": true,
+            "prefersSingleRecordLink": false,
+            "inverseLinkFieldId": "fldvF1rn8KcBhEj6r"
+          }
+        },
+        {
+          "id": "fldEAbOjxL3GBCw1H",
+          "name": "Source",
+          "type": "singleLineText"
+        },
+        {
+          "id": "fldcuMzaHlvWT2aCM",
+          "name": "Brand",
+          "type": "multipleRecordLinks",
+          "config": {
+            "linkedTableId": "tblO2IkwqHwCadEKG",
+            "isReversed": true,
+            "prefersSingleRecordLink": false,
+            "inverseLinkFieldId": "fld8kvVEFRARvUEAs"
+          }
+        },
+        {
+          "id": "fldBsFZzubnSpL5cl",
+          "name": "Type",
+          "type": "multipleSelects",
+          "config": {
+            "choices": [
+              {
+                "id": "selwQOtZbQFDZ1lRZ",
+                "name": "Diffuser Blend",
+                "color": "blueLight2"
+              },
+              {
+                "id": "selBHK3P8sx1n8Px2",
+                "name": "Rollerball Blend",
+                "color": "cyanLight2"
+              },
+              {
+                "id": "selVBsFtN2rdtdJpl",
+                "name": "Master Blend",
+                "color": "redLight2"
+              },
+              {
+                "id": "seldJJiEsliL01BlC",
+                "name": "Proprietary Blend",
+                "color": "yellowLight2"
+              },
+              {
+                "id": "selLcY7yd8kFvzRam",
+                "name": "Product Recipes",
+                "color": "greenLight2"
+              },
+              {
+                "id": "selHtP6d9rpSBr5Ze",
+                "name": "Inhaler Blend",
+                "color": "purpleLight2"
+              },
+              {
+                "id": "selHoQuC5sHApQhpM",
+                "name": "Copycat Blend",
+                "color": "grayLight2"
+              },
+              {
+                "id": "selYyRO02edmhKpI2",
+                "name": "Body Butter",
+                "color": "purpleLight2"
+              },
+              {
+                "id": "selDCpzFj3u6003BX",
+                "name": "Household Cleaner",
+                "color": "greenLight2"
+              },
+              {
+                "id": "selM2z6UPXSsZjTe0",
+                "name": "Chest Salve",
+                "color": "grayDark1"
+              },
+              {
+                "id": "selchGP0WxTFfj6Pj",
+                "name": "Oral",
+                "color": "grayDark1"
+              }
+            ]
+          }
+        },
+        {
+          "id": "fldHwHSwhYQUrPKPS",
+          "name": "Emotional Benefit",
+          "type": "multipleSelects",
+          "config": {
+            "choices": [
+              {
+                "id": "seldSa76cY4USraVX",
+                "name": "Balancing",
+                "color": "greenLight2"
+              },
+              {
+                "id": "seluoi5nXAnwbug5t",
+                "name": "Calming",
+                "color": "blueLight2"
+              },
+              {
+                "id": "selUUUvsE1urxP86q",
+                "name": "Depends on oils used",
+                "color": "grayLight2"
+              },
+              {
+                "id": "selw7BoOzqDKIVsKy",
+                "name": "Grounding",
+                "color": "greenLight2"
+              },
+              {
+                "id": "selDGAcusFCGAEL8p",
+                "name": "Relaxing",
+                "color": "blueLight2"
+              },
+              {
+                "id": "sel1UpiTYTtdR7CR2",
+                "name": "Stimulating",
+                "color": "redLight2"
+              },
+              {
+                "id": "selULa13hP0f9OhG5",
+                "name": "Uplifting",
+                "color": "yellowLight2"
+              },
+              {
+                "id": "selQuNEqKBP9PDd89",
+                "name": "Because it smells good!",
+                "color": "blueLight2"
+              },
+              {
+                "id": "selGrONq0j8PA5li4",
+                "name": "Relieving",
+                "color": "purpleDark1"
+              }
+            ]
+          }
+        },
+        {
+          "id": "fldQFkMMFClNptDtR",
+          "name": "Topical Safety",
+          "type": "multipleSelects",
+          "config": {
+            "choices": [
+              {
+                "id": "selLqXRBzPt4BuOth",
+                "name": "Kids Safe (2+)",
+                "color": "greenLight2"
+              },
+              {
+                "id": "selD6Tn5l46QsFtdK",
+                "name": "Kids Safe (5+)",
+                "color": "redLight2"
+              },
+              {
+                "id": "selqFi14CkXwEtZfa",
+                "name": "Kids Safe (10+)",
+                "color": "grayLight2"
+              },
+              {
+                "id": "selVWfQDhaOYCC6RM",
+                "name": "NOT if nursing",
+                "color": "redLight2"
+              },
+              {
+                "id": "selq92KxSXniuTQPx",
+                "name": "NOT if pregnant",
+                "color": "redLight2"
+              },
+              {
+                "id": "selxCfhLZizQRXuA3",
+                "name": "Potentially Phototoxic",
+                "color": "redLight2"
+              },
+              {
+                "id": "selr7YV1ys6Us1RY9",
+                "name": "Pregnancy Safe",
+                "color": "greenLight2"
+              }
+            ]
+          }
+        },
+        {
+          "id": "fld50LqgBP0z07quO",
+          "name": "Diffusion Safety",
+          "type": "multipleSelects",
+          "config": {
+            "choices": [
+              {
+                "id": "selLqXRBzPt4BuOth",
+                "name": "Kids Safe (2+)",
+                "color": "greenLight2"
+              },
+              {
+                "id": "selD6Tn5l46QsFtdK",
+                "name": "Kids Safe (5+)",
+                "color": "redLight2"
+              },
+              {
+                "id": "selqFi14CkXwEtZfa",
+                "name": "Kids Safe (10+)",
+                "color": "grayLight2"
+              },
+              {
+                "id": "selVWfQDhaOYCC6RM",
+                "name": "NOT if nursing",
+                "color": "redLight2"
+              },
+              {
+                "id": "selq92KxSXniuTQPx",
+                "name": "NOT if pregnant",
+                "color": "redLight2"
+              },
+              {
+                "id": "selxCfhLZizQRXuA3",
+                "name": "Potentially Phototoxic",
+                "color": "redLight2"
+              },
+              {
+                "id": "selr7YV1ys6Us1RY9",
+                "name": "Pregnancy Safe",
+                "color": "greenLight2"
+              }
+            ]
+          }
+        },
+        {
+          "id": "fldoK8JuHX3jbSb1P",
+          "name": "Date",
+          "type": "date",
+          "config": {
+            "dateFormat": {
+              "name": "local",
+              "format": "l"
+            }
+          }
+        },
+        {
+          "id": "fldkrXLiyda0HFWCW",
+          "name": "URL",
+          "type": "url"
+        },
+        {
+          "id": "fld0xr15G8ugkJRLn",
+          "name": "Rating",
+          "type": "singleSelect",
+          "config": {
+            "choices": [
+              {
+                "id": "sel0ddtJbktIG1WqN",
+                "name": "1 star",
+                "color": "blueLight2"
+              },
+              {
+                "id": "sel8LRXpjcACwXHpB",
+                "name": "2 stars",
+                "color": "cyanLight2"
+              },
+              {
+                "id": "sel4bFz4HUunc2J5f",
+                "name": "3 stars",
+                "color": "redLight2"
+              },
+              {
+                "id": "sel8DAcWYYRfIYZD9",
+                "name": "4 stars",
+                "color": "yellowLight2"
+              },
+              {
+                "id": "sel9N9ZDASu9deOgb",
+                "name": "5 stars",
+                "color": "greenLight2"
+              }
+            ]
+          }
+        },
+        {
+          "id": "fldsGjU9AMKo3PKKq",
+          "name": "Other",
+          "type": "multilineText"
+        },
+        {
+          "id": "fld9kkZ4gozTKyzeB",
+          "name": "Check",
+          "type": "checkbox",
+          "config": {
+            "icon": "check",
+            "color": "greenBright"
+          }
+        },
+        {
+          "id": "fldZdMCpXdWnqWeDC",
+          "name": "Purpose",
+          "type": "multilineText"
+        }
+      ]
+    },
+    {
+      "id": "tblNIEvVjBTf8B7d2",
+      "name": "Plant Part",
+      "slug": "plant-part",
+      "primaryFieldId": "fldXB3Nmi0RtqeHIt",
+      "fields": [
+        {
+          "id": "fldXB3Nmi0RtqeHIt",
+          "name": "Name",
+          "type": "singleLineText"
+        },
+        {
+          "id": "fldzpoH0ISBeBAc6V",
+          "name": "Notes",
+          "type": "multilineText"
+        },
+        {
+          "id": "fldkCnqGQguF8G7Ob",
+          "name": "Attachments",
+          "type": "multipleAttachments",
+          "config": {
+            "isReversed": true
+          }
+        }
+      ]
+    },
+    {
+      "id": "tblJIGn1n9pP80h2O",
+      "name": "\u2022by Uses",
+      "slug": "by-uses",
+      "primaryFieldId": "fldU3gf8bsZjXDzFU",
+      "fields": [
+        {
+          "id": "fldU3gf8bsZjXDzFU",
+          "name": "Uses",
+          "type": "singleLineText"
+        },
+        {
+          "id": "fldokwHpyEX0G8MUu",
+          "name": "Category",
+          "type": "singleSelect",
+          "config": {
+            "choices": [
+              {
+                "id": "selJzIEH4jTk14GH4",
+                "name": "Product Base",
+                "color": "grayLight2"
+              },
+              {
+                "id": "selbdQ6jcZYhr7pSn",
+                "name": "Circulation",
+                "color": "cyanLight2"
+              },
+              {
+                "id": "selndHQzZQghFpDig",
+                "name": "Emotional Support",
+                "color": "greenLight2"
+              },
+              {
+                "id": "sel2gPwV77t180AFA",
+                "name": "Female Concerns",
+                "color": "blueLight2"
+              },
+              {
+                "id": "selypOkwhnPdU0Ju8",
+                "name": "Gastrointestinal",
+                "color": "cyanLight2"
+              },
+              {
+                "id": "sel07PbbuxAQZPyXU",
+                "name": "Hair",
+                "color": "redLight2"
+              },
+              {
+                "id": "selNmADM8Q13wOmtC",
+                "name": "Home Care",
+                "color": "yellowLight2"
+              },
+              {
+                "id": "selNSgmZVCizfC0xu",
+                "name": "Infection",
+                "color": "purpleLight2"
+              },
+              {
+                "id": "selpCJD7IVcEd0qi9",
+                "name": "Lymph Support",
+                "color": "yellowLight2"
+              },
+              {
+                "id": "seliYWS1uWOkCu6X3",
+                "name": "Nails",
+                "color": "blueLight2"
+              },
+              {
+                "id": "selfe9YO3OnIXQXWX",
+                "name": "Pain",
+                "color": "greenLight2"
+              },
+              {
+                "id": "sel4KulsqeT2K63CM",
+                "name": "Respiratory",
+                "color": "purpleLight2"
+              },
+              {
+                "id": "seluDOyupqUMQV8qc",
+                "name": "Skin",
+                "color": "grayLight2"
+              },
+              {
+                "id": "selbEo7s70IKevwCj",
+                "name": "Sleep",
+                "color": "redLight2"
+              }
+            ]
+          }
+        },
+        {
+          "id": "fldKLk7OFqxRcwTES",
+          "name": "Essential Oils",
+          "type": "singleLineText"
+        },
+        {
+          "id": "fldvF1rn8KcBhEj6r",
+          "name": "Recipes",
+          "type": "multipleRecordLinks",
+          "config": {
+            "linkedTableId": "tbldkSGYMrbBfNBSr",
+            "isReversed": true,
+            "prefersSingleRecordLink": false,
+            "inverseLinkFieldId": "fld1Vssc329jqn0ZD"
+          }
+        }
+      ]
+    },
+    {
+      "id": "tbloLln7045ItmQTU",
+      "name": "Other Resources",
+      "slug": "other-resources",
+      "primaryFieldId": "fldUWxzg74rKZdD1I",
+      "fields": [
+        {
+          "id": "fldUWxzg74rKZdD1I",
+          "name": "Name",
+          "type": "singleLineText"
+        },
+        {
+          "id": "fldeT2cFUub3eYQ66",
+          "name": "Attachments",
+          "type": "multipleAttachments",
+          "config": {
+            "isReversed": true
+          }
+        },
+        {
+          "id": "fld2MbTYrXV3LCYvX",
+          "name": "Notes",
+          "type": "multilineText"
+        },
+        {
+          "id": "flduAJjX6z42PZ1Gy",
+          "name": "Date",
+          "type": "date",
+          "config": {
+            "dateFormat": {
+              "name": "local",
+              "format": "l"
+            }
+          }
+        },
+        {
+          "id": "fld7uvIfi4e6XMMLm",
+          "name": "URL",
+          "type": "url"
+        },
+        {
+          "id": "fldEDgDFIc6PAN6HZ",
+          "name": "Source",
+          "type": "singleLineText"
+        },
+        {
+          "id": "fldhXj9S48RFrnQuy",
+          "name": "Other",
+          "type": "multilineText"
+        }
+      ]
+    },
+    {
+      "id": "tblO2IkwqHwCadEKG",
+      "name": "Vendors",
+      "slug": "vendors",
+      "primaryFieldId": "fldMmbP2SbEWEENlz",
+      "fields": [
+        {
+          "id": "fldMmbP2SbEWEENlz",
+          "name": "Name",
+          "type": "singleLineText"
+        },
+        {
+          "id": "fldRruGWnUVodCKXE",
+          "name": "Notes",
+          "type": "multilineText"
+        },
+        {
+          "id": "fldLpC5tYQ89xEn6e",
+          "name": "Attachments",
+          "type": "multipleAttachments",
+          "config": {
+            "isReversed": true
+          }
+        },
+        {
+          "id": "fldRmxczx4Kbvr3VZ",
+          "name": "Inventory",
+          "type": "multipleRecordLinks",
+          "config": {
+            "linkedTableId": "tbl4qqw6hUEFJGrRe",
+            "isReversed": true,
+            "prefersSingleRecordLink": false,
+            "inverseLinkFieldId": "fld6mKdkXhWpi6VG1"
+          }
+        },
+        {
+          "id": "fld8kvVEFRARvUEAs",
+          "name": "Recipes",
+          "type": "multipleRecordLinks",
+          "config": {
+            "linkedTableId": "tbldkSGYMrbBfNBSr",
+            "isReversed": true,
+            "prefersSingleRecordLink": false,
+            "inverseLinkFieldId": "fldcuMzaHlvWT2aCM"
+          }
+        }
+      ]
+    }
+  ]
+}

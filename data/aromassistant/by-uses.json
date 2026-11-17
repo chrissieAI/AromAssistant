@@ -1,0 +1,1465 @@
+[
+  {
+    "id": "rec0HuOP9nWDrXR6N",
+    "createdTime": "2016-08-21T16:10:55.000Z",
+    "fields": {
+      "Uses": "Stretch marks",
+      "Category": "Skin"
+    }
+  },
+  {
+    "id": "rec0LCBNvAl2AC9fD",
+    "createdTime": "2016-10-02T20:38:35.000Z",
+    "fields": {
+      "Uses": "Immunity",
+      "Category": "Infection"
+    }
+  },
+  {
+    "id": "rec0om7psEb7Wylae",
+    "createdTime": "2016-09-02T17:05:45.000Z",
+    "fields": {
+      "Uses": "Hand soap",
+      "Category": "Skin"
+    }
+  },
+  {
+    "id": "rec19F6pdhEO5lc7O",
+    "createdTime": "2016-08-21T16:10:04.000Z",
+    "fields": {
+      "Uses": "Shingles",
+      "Category": "Skin"
+    }
+  },
+  {
+    "id": "rec1AsHGHynoT48KB",
+    "createdTime": "2016-09-02T18:53:21.000Z",
+    "fields": {
+      "Uses": "Menopause",
+      "Category": "Female Concerns"
+    }
+  },
+  {
+    "id": "rec1MuUB063OalcU4",
+    "createdTime": "2016-09-02T17:00:02.000Z",
+    "fields": {
+      "Uses": "Bath salt",
+      "Category": "Skin"
+    }
+  },
+  {
+    "id": "rec1NJbb2RluKTbl1",
+    "createdTime": "2016-09-02T17:06:32.000Z",
+    "fields": {
+      "Uses": "Facial wash",
+      "Category": "Skin"
+    }
+  },
+  {
+    "id": "rec1W1ze2Zye7B6XX",
+    "createdTime": "2016-09-02T17:17:29.000Z",
+    "fields": {
+      "Uses": "Facial scrub",
+      "Category": "Skin"
+    }
+  },
+  {
+    "id": "rec1pIPLqWYEgJp9z",
+    "createdTime": "2017-12-02T23:16:25.000Z",
+    "fields": {
+      "Uses": "Migraine",
+      "Category": "Pain",
+      "Recipes": [
+        "recQK7VzuFRHGQ5Iv",
+        "recqeLmU0p9t6yFe9"
+      ]
+    }
+  },
+  {
+    "id": "rec20tVb0bYlGwXff",
+    "createdTime": "2016-08-21T16:10:55.000Z",
+    "fields": {
+      "Uses": "Premature aging skin",
+      "Category": "Skin"
+    }
+  },
+  {
+    "id": "rec2HWrydImYejD6d",
+    "createdTime": "2016-10-09T21:21:22.000Z",
+    "fields": {
+      "Uses": "Calming the mind"
+    }
+  },
+  {
+    "id": "rec2N4L6XDhKDizmy",
+    "createdTime": "2016-10-02T20:14:52.000Z",
+    "fields": {
+      "Uses": "Depends upon oils used"
+    }
+  },
+  {
+    "id": "rec3cUF0T3b0Cbm5A",
+    "createdTime": "2016-08-21T16:10:04.000Z",
+    "fields": {
+      "Uses": "Coughs",
+      "Category": "Respiratory",
+      "Recipes": [
+        "rec9zCyd7CQaCBrXW"
+      ]
+    }
+  },
+  {
+    "id": "rec4WNwJ0azdfdJQ4",
+    "createdTime": "2017-07-23T05:33:16.000Z",
+    "fields": {}
+  },
+  {
+    "id": "rec4XUfiEFkqk3FWJ",
+    "createdTime": "2016-09-02T16:08:22.000Z",
+    "fields": {
+      "Uses": "Infection",
+      "Category": "Infection",
+      "Recipes": [
+        "rec49M5G6iCe2M30q",
+        "rec2UuTs45vBg2LdK",
+        "recve2F0W1FLS6prm",
+        "recrM4WY42FGQEfvm",
+        "reclRL86pb11FS5A9",
+        "recvhcObZybKB0o6g"
+      ]
+    }
+  },
+  {
+    "id": "rec4ZpxzWXpfF5IA9",
+    "createdTime": "2016-09-02T16:41:01.000Z",
+    "fields": {
+      "Uses": "Lips",
+      "Category": "Skin"
+    }
+  },
+  {
+    "id": "rec5BIYYA6JBf1YdS",
+    "createdTime": "2016-09-02T17:06:59.000Z",
+    "fields": {
+      "Uses": "Body cream/lotion",
+      "Category": "Skin",
+      "Recipes": [
+        "recDSvgkpPSi8fQVd",
+        "recW8FeMxeOHZgYKS",
+        "rece15MB7C1wC2ZOW",
+        "rec5O5Mo7cRgogyKw",
+        "recxfaELyR0ZLd9ol"
+      ]
+    }
+  },
+  {
+    "id": "rec5GltoOB2K6f9w7",
+    "createdTime": "2016-08-21T16:10:55.000Z",
+    "fields": {
+      "Uses": "Sunblock",
+      "Category": "Skin"
+    }
+  },
+  {
+    "id": "rec5MJaU7ET3utJjo",
+    "createdTime": "2016-08-21T16:10:55.000Z",
+    "fields": {
+      "Uses": "Sun damage",
+      "Category": "Skin"
+    }
+  },
+  {
+    "id": "rec7J3jP59KtehH7z",
+    "createdTime": "2016-08-21T16:10:04.000Z",
+    "fields": {
+      "Uses": "Rashes",
+      "Category": "Skin"
+    }
+  },
+  {
+    "id": "rec7PNQDcBCaNdRLY",
+    "createdTime": "2016-08-21T17:09:50.000Z",
+    "fields": {
+      "Uses": "Muscle aches",
+      "Category": "Respiratory"
+    }
+  },
+  {
+    "id": "rec7bdF64OSZXJE9v",
+    "createdTime": "2016-08-21T16:10:04.000Z",
+    "fields": {
+      "Uses": "Prevention of respiratory issues",
+      "Category": "Respiratory"
+    }
+  },
+  {
+    "id": "rec825FZZm3E8Mr9M",
+    "createdTime": "2016-08-21T16:10:55.000Z",
+    "fields": {
+      "Uses": "Diaper rash",
+      "Category": "Skin"
+    }
+  },
+  {
+    "id": "rec8KR1gHGXAaXedc",
+    "createdTime": "2017-07-23T05:36:50.000Z",
+    "fields": {}
+  },
+  {
+    "id": "rec8mnpgPhFmWNWn3",
+    "createdTime": "2020-05-25T19:19:31.000Z",
+    "fields": {
+      "Uses": "Fibromyalgia",
+      "Recipes": [
+        "recHW4GTBZwYyxaib",
+        "recZvJQvyOy7J900x"
+      ]
+    }
+  },
+  {
+    "id": "recAUahBUOBN9EBy0",
+    "createdTime": "2016-08-21T16:10:55.000Z",
+    "fields": {
+      "Uses": "Heart issues",
+      "Category": "Circulation",
+      "Recipes": [
+        "recK8rqHgHRQ5Tg1e"
+      ]
+    }
+  },
+  {
+    "id": "recAqDwgbxdPQ8wwf",
+    "createdTime": "2016-08-21T16:10:04.000Z",
+    "fields": {
+      "Essential Oils": "ANS-101",
+      "Uses": "Digestion",
+      "Category": "Gastrointestinal"
+    }
+  },
+  {
+    "id": "recAuF2J1UCQVll7W",
+    "createdTime": "2016-08-21T16:10:04.000Z",
+    "fields": {
+      "Uses": "Asthma",
+      "Category": "Respiratory",
+      "Recipes": [
+        "rechrdphI79JYvdOq",
+        "recg14RZa8gNhFZyb"
+      ]
+    }
+  },
+  {
+    "id": "recBzDH4J9kWErYRH",
+    "createdTime": "2016-08-21T16:10:55.000Z",
+    "fields": {
+      "Uses": "Itch",
+      "Category": "Skin"
+    }
+  },
+  {
+    "id": "recCZxpaXxA0wzvYE",
+    "createdTime": "2016-08-21T16:10:55.000Z",
+    "fields": {
+      "Uses": "Skin lesions/sores",
+      "Category": "Skin"
+    }
+  },
+  {
+    "id": "recCscIyz0HFGweQh",
+    "createdTime": "2016-08-21T16:10:55.000Z",
+    "fields": {
+      "Uses": "Solar eratosis",
+      "Category": "Skin"
+    }
+  },
+  {
+    "id": "recEOPVLwNW5yJTkF",
+    "createdTime": "2016-09-02T15:49:38.000Z",
+    "fields": {
+      "Uses": "Circulation",
+      "Category": "Circulation"
+    }
+  },
+  {
+    "id": "recEXHt68b9TJuH8M",
+    "createdTime": "2016-08-21T15:21:51.000Z",
+    "fields": {
+      "Uses": "Regulates menstrual flow",
+      "Category": "Female Concerns"
+    }
+  },
+  {
+    "id": "recEaAr4OvfHIOi5X",
+    "createdTime": "2016-09-02T17:23:45.000Z",
+    "fields": {
+      "Uses": "High blood pressure",
+      "Category": "Circulation"
+    }
+  },
+  {
+    "id": "recFK2ZEj2Mgjlt9a",
+    "createdTime": "2016-09-02T17:04:19.000Z",
+    "fields": {
+      "Uses": "Facial mask",
+      "Category": "Skin"
+    }
+  },
+  {
+    "id": "recFMASkdHyW5OkRK",
+    "createdTime": "2016-09-02T17:29:44.000Z",
+    "fields": {
+      "Uses": "Varicose veins",
+      "Category": "Circulation"
+    }
+  },
+  {
+    "id": "recFNMgr4i5iakWYA",
+    "createdTime": "2017-07-21T19:22:44.000Z",
+    "fields": {}
+  },
+  {
+    "id": "recFbdmgkdwjC96BD",
+    "createdTime": "2016-08-21T16:10:55.000Z",
+    "fields": {
+      "Uses": "Bruises",
+      "Category": "Skin"
+    }
+  },
+  {
+    "id": "recFuCYUKdBltu0nh",
+    "createdTime": "2020-05-25T19:59:54.000Z",
+    "fields": {
+      "Uses": "Brain Fog",
+      "Recipes": [
+        "reckgN7ErofqbHysA",
+        "recmuP8u7UMh3LBvd"
+      ]
+    }
+  },
+  {
+    "id": "recGAAYS4OOcyzxTi",
+    "createdTime": "2016-09-23T02:31:04.000Z",
+    "fields": {
+      "Uses": "Humectant",
+      "Category": "Product Base"
+    }
+  },
+  {
+    "id": "recGE271MaWrYvr4w",
+    "createdTime": "2016-08-21T16:10:55.000Z",
+    "fields": {
+      "Uses": "Dry hair",
+      "Category": "Hair"
+    }
+  },
+  {
+    "id": "recGGQoJNSddstjof",
+    "createdTime": "2016-09-02T16:07:33.000Z",
+    "fields": {
+      "Uses": "Fungal infection",
+      "Category": "Infection"
+    }
+  },
+  {
+    "id": "recGMTQzxf46ROADU",
+    "createdTime": "2016-09-02T17:18:10.000Z",
+    "fields": {
+      "Uses": "Blemish treater",
+      "Category": "Skin"
+    }
+  },
+  {
+    "id": "recGahoVTJl70GnQd",
+    "createdTime": "2016-09-02T18:00:13.000Z",
+    "fields": {
+      "Uses": "Low emotions",
+      "Category": "Emotional Support",
+      "Recipes": [
+        "recjyc08p3wfrnKmh"
+      ]
+    }
+  },
+  {
+    "id": "recH0To1X1PMbJrIx",
+    "createdTime": "2016-08-21T16:10:04.000Z",
+    "fields": {
+      "Uses": "Psoriasis",
+      "Category": "Skin"
+    }
+  },
+  {
+    "id": "recHRFoldiIwN0Ev9",
+    "createdTime": "2016-09-02T15:51:37.000Z",
+    "fields": {
+      "Uses": "Energy",
+      "Category": "Emotional Support",
+      "Recipes": [
+        "recwWYFfJVH4A7qXb",
+        "rectUIradKQqAqc3n",
+        "recyI4j5LSQ6XZLbq"
+      ]
+    }
+  },
+  {
+    "id": "recHorSDh2VhCyrWX",
+    "createdTime": "2016-09-02T18:15:40.000Z",
+    "fields": {
+      "Uses": "Muscle tension",
+      "Category": "Pain"
+    }
+  },
+  {
+    "id": "recHowCO71ipSfNJe",
+    "createdTime": "2016-09-02T17:34:42.000Z",
+    "fields": {
+      "Uses": "Candida",
+      "Category": "Infection"
+    }
+  },
+  {
+    "id": "recHqnH2bJJBQzkhT",
+    "createdTime": "2020-05-25T19:35:55.000Z",
+    "fields": {
+      "Uses": "Obesity",
+      "Recipes": [
+        "recjyc08p3wfrnKmh"
+      ]
+    }
+  },
+  {
+    "id": "recI28LJyHdZlmZWT",
+    "createdTime": "2016-08-21T16:10:55.000Z",
+    "fields": {
+      "Uses": "Hemorrhoids",
+      "Category": "Gastrointestinal"
+    }
+  },
+  {
+    "id": "recI4ZXos0SH8jxbV",
+    "createdTime": "2016-09-02T17:39:47.000Z",
+    "fields": {
+      "Uses": "Mental focus",
+      "Category": "Emotional Support",
+      "Recipes": [
+        "reckgN7ErofqbHysA",
+        "recmuP8u7UMh3LBvd",
+        "rectUIradKQqAqc3n"
+      ]
+    }
+  },
+  {
+    "id": "recIqswEYIaczzLrB",
+    "createdTime": "2016-08-21T16:10:55.000Z",
+    "fields": {
+      "Uses": "Chemical burns",
+      "Category": "Skin"
+    }
+  },
+  {
+    "id": "recJA1OBZ940aFB4U",
+    "createdTime": "2016-09-02T16:11:18.000Z",
+    "fields": {
+      "Uses": "Meditation",
+      "Category": "Emotional Support"
+    }
+  },
+  {
+    "id": "recJBkBwv6zn4VIpj",
+    "createdTime": "2016-09-02T18:19:04.000Z",
+    "fields": {
+      "Uses": "Hormonal balance",
+      "Category": "Female Concerns",
+      "Recipes": [
+        "recjyc08p3wfrnKmh"
+      ]
+    }
+  },
+  {
+    "id": "recJPc9qHIndAFgtr",
+    "createdTime": "2016-09-02T16:22:36.000Z",
+    "fields": {
+      "Uses": "Tendonitis",
+      "Category": "Pain"
+    }
+  },
+  {
+    "id": "recKpC2pMk8UuH5Qo",
+    "createdTime": "2016-08-21T18:56:56.000Z",
+    "fields": {
+      "Uses": "Menstrual cramps",
+      "Category": "Female Concerns",
+      "Recipes": [
+        "recT4VDoINvY76GSp",
+        "recly2DPeYSQOMncs"
+      ]
+    }
+  },
+  {
+    "id": "recKphC5zo0fux0t0",
+    "createdTime": "2016-08-21T16:10:55.000Z",
+    "fields": {
+      "Uses": "Hair growth",
+      "Category": "Hair"
+    }
+  },
+  {
+    "id": "recKvcmIyM3HoSeb2",
+    "createdTime": "2016-09-23T02:31:17.000Z",
+    "fields": {
+      "Uses": "Emulsifier",
+      "Category": "Product Base"
+    }
+  },
+  {
+    "id": "recLB2aCHv25t3I1X",
+    "createdTime": "2016-08-21T16:48:51.000Z",
+    "fields": {
+      "Uses": "Nausea",
+      "Category": "Gastrointestinal"
+    }
+  },
+  {
+    "id": "recLWR0gtDMy6LEb1",
+    "createdTime": "2016-08-21T16:10:04.000Z",
+    "fields": {
+      "Uses": "Hair care",
+      "Category": "Hair"
+    }
+  },
+  {
+    "id": "recLy5VAD5hTaeJoV",
+    "createdTime": "2016-10-02T20:33:16.000Z",
+    "fields": {
+      "Uses": "Sinus infection",
+      "Category": "Infection",
+      "Recipes": [
+        "rec1m9VHe8Z4ObU0R"
+      ]
+    }
+  },
+  {
+    "id": "recMdxmEs7Tw4KOU5",
+    "createdTime": "2016-08-21T16:10:04.000Z",
+    "fields": {
+      "Uses": "Acne",
+      "Category": "Skin"
+    }
+  },
+  {
+    "id": "recMhNXFgdarZgSia",
+    "createdTime": "2016-09-02T17:08:08.000Z",
+    "fields": {
+      "Uses": "Bar soap",
+      "Category": "Skin"
+    }
+  },
+  {
+    "id": "recN0rG0pzqSdZ12w",
+    "createdTime": "2016-09-02T15:57:47.000Z",
+    "fields": {
+      "Uses": "Labor/delivery",
+      "Category": "Female Concerns"
+    }
+  },
+  {
+    "id": "recN21w4EBVjE51Sn",
+    "createdTime": "2016-09-02T17:45:50.000Z",
+    "fields": {
+      "Uses": "Immune system protection",
+      "Category": "Infection",
+      "Recipes": [
+        "recvhcObZybKB0o6g"
+      ]
+    }
+  },
+  {
+    "id": "recNafZVCPlPkfmlV",
+    "createdTime": "2016-08-21T16:10:04.000Z",
+    "fields": {
+      "Uses": "Dandruff",
+      "Category": "Hair"
+    }
+  },
+  {
+    "id": "recON3VmdQ9TAEmrN",
+    "createdTime": "2016-10-01T16:56:26.000Z",
+    "fields": {
+      "Uses": "Skin moisturizing",
+      "Category": "Skin",
+      "Recipes": [
+        "recDSvgkpPSi8fQVd",
+        "recW8FeMxeOHZgYKS",
+        "recQdgAQONm5Z2qMK",
+        "rece15MB7C1wC2ZOW",
+        "rec5O5Mo7cRgogyKw",
+        "recxfaELyR0ZLd9ol"
+      ]
+    }
+  },
+  {
+    "id": "recOqBEk8x8QJj5c4",
+    "createdTime": "2016-09-23T02:25:24.000Z",
+    "fields": {
+      "Uses": "Massage",
+      "Category": "Skin"
+    }
+  },
+  {
+    "id": "recP4WyKH92JVJtjt",
+    "createdTime": "2017-12-02T22:20:54.000Z",
+    "fields": {
+      "Uses": "Neck Pain",
+      "Category": "Pain",
+      "Recipes": [
+        "recqBruyVuPtYG8Ga"
+      ]
+    }
+  },
+  {
+    "id": "recPWI3EHSvWrpVLF",
+    "createdTime": "2016-08-21T16:10:04.000Z",
+    "fields": {
+      "Uses": "Eczema",
+      "Category": "Skin"
+    }
+  },
+  {
+    "id": "recPhBpAt3MjkEMIv",
+    "createdTime": "2016-08-21T16:10:55.000Z",
+    "fields": {
+      "Uses": "Nail strengthener",
+      "Category": "Nails"
+    }
+  },
+  {
+    "id": "recPvjSInQrji6yfT",
+    "createdTime": "2016-08-21T16:10:55.000Z",
+    "fields": {
+      "Uses": "Allergy-prone skin",
+      "Category": "Skin"
+    }
+  },
+  {
+    "id": "recQhEwcw7bjYqqJG",
+    "createdTime": "2016-08-21T16:10:04.000Z",
+    "fields": {
+      "Uses": "Oily skin",
+      "Category": "Skin"
+    }
+  },
+  {
+    "id": "recR1nARuspsAAJcj",
+    "createdTime": "2016-08-21T19:00:40.000Z",
+    "fields": {
+      "Uses": "Restless leg syndrome",
+      "Category": "Pain"
+    }
+  },
+  {
+    "id": "recR4ak7v1we6Dcbv",
+    "createdTime": "2016-08-21T16:10:04.000Z",
+    "fields": {
+      "Uses": "Stress headache",
+      "Category": "Pain",
+      "Recipes": [
+        "recQK7VzuFRHGQ5Iv",
+        "recqeLmU0p9t6yFe9"
+      ]
+    }
+  },
+  {
+    "id": "recR8pE4qNXsU15hq",
+    "createdTime": "2016-09-02T15:48:23.000Z",
+    "fields": {
+      "Uses": "Anxiety/Stress",
+      "Category": "Emotional Support",
+      "Recipes": [
+        "recSVP53BbExoPJRE"
+      ]
+    }
+  },
+  {
+    "id": "recRK0sXqLax4yRQV",
+    "createdTime": "2016-08-21T16:10:04.000Z",
+    "fields": {
+      "Uses": "Allergies",
+      "Category": "Respiratory"
+    }
+  },
+  {
+    "id": "recSCKUHJpqv7lHRM",
+    "createdTime": "2016-08-21T17:08:14.000Z",
+    "fields": {
+      "Uses": "Sleep",
+      "Category": "Sleep",
+      "Recipes": [
+        "recSw9ERdHTAqwQHa"
+      ]
+    }
+  },
+  {
+    "id": "recSFy7Ck8Z1e2doM",
+    "createdTime": "2016-09-02T19:19:34.000Z",
+    "fields": {
+      "Uses": "Fragrance",
+      "Category": "Emotional Support"
+    }
+  },
+  {
+    "id": "recSYoaNuf9ioCTh0",
+    "createdTime": "2016-08-21T16:10:55.000Z",
+    "fields": {
+      "Uses": "Skin elasticity",
+      "Category": "Skin"
+    }
+  },
+  {
+    "id": "recTBpMuCpjBNG0Bc",
+    "createdTime": "2016-08-21T16:10:55.000Z",
+    "fields": {
+      "Uses": "Arthritis",
+      "Category": "Pain",
+      "Recipes": [
+        "recNrKvqzoXLolPk4",
+        "reccvvYJSARjFtU9q"
+      ]
+    }
+  },
+  {
+    "id": "recTjtvAVquywk0io",
+    "createdTime": "2016-08-21T16:10:55.000Z",
+    "fields": {
+      "Uses": "Skin around eyes",
+      "Category": "Skin"
+    }
+  },
+  {
+    "id": "recTqQX5QMYBCJtf2",
+    "createdTime": "2016-08-21T16:10:55.000Z",
+    "fields": {
+      "Uses": "Sunburn",
+      "Category": "Skin"
+    }
+  },
+  {
+    "id": "recU78c9tnCHe47BB",
+    "createdTime": "2016-08-21T16:10:55.000Z",
+    "fields": {
+      "Uses": "Laxative",
+      "Category": "Gastrointestinal"
+    }
+  },
+  {
+    "id": "recU7U6AblN377oiC",
+    "createdTime": "2016-09-02T17:25:48.000Z",
+    "fields": {
+      "Uses": "Warts",
+      "Category": "Skin"
+    }
+  },
+  {
+    "id": "recUH6KR0M8E6OCCp",
+    "createdTime": "2016-09-02T18:17:52.000Z",
+    "fields": {
+      "Uses": "Backache",
+      "Category": "Pain",
+      "Recipes": [
+        "recmQ1NVSJIQalLpp"
+      ]
+    }
+  },
+  {
+    "id": "recVyzczhwhqpuFrB",
+    "createdTime": "2016-09-23T02:31:29.000Z",
+    "fields": {
+      "Uses": "Thickening agent",
+      "Category": "Product Base"
+    }
+  },
+  {
+    "id": "recW606mmh2nXQlx2",
+    "createdTime": "2016-08-21T16:10:04.000Z",
+    "fields": {
+      "Uses": "Insect bites",
+      "Category": "Skin"
+    }
+  },
+  {
+    "id": "recWnnTMW7KXZ4Al3",
+    "createdTime": "2016-08-21T16:10:04.000Z",
+    "fields": {
+      "Uses": "Hair loss",
+      "Category": "Hair"
+    }
+  },
+  {
+    "id": "recWr7F1z3XWFX72X",
+    "createdTime": "2016-08-21T16:10:55.000Z",
+    "fields": {
+      "Uses": "Baby skin",
+      "Category": "Skin"
+    }
+  },
+  {
+    "id": "recXP3cHDwJuujP8N",
+    "createdTime": "2016-09-02T17:09:27.000Z",
+    "fields": {
+      "Uses": "Body scrub",
+      "Category": "Skin"
+    }
+  },
+  {
+    "id": "recY8VI6ot7Y35nMf",
+    "createdTime": "2016-08-21T16:10:55.000Z",
+    "fields": {
+      "Uses": "Cradle cap",
+      "Category": "Hair"
+    }
+  },
+  {
+    "id": "recYBWwX7zCzWifiT",
+    "createdTime": "2016-08-21T16:10:04.000Z",
+    "fields": {
+      "Uses": "Sore throat",
+      "Category": "Pain"
+    }
+  },
+  {
+    "id": "recYfdbmaXHrfcPVi",
+    "createdTime": "2016-08-21T16:10:04.000Z",
+    "fields": {
+      "Uses": "Burns",
+      "Category": "Skin"
+    }
+  },
+  {
+    "id": "recYvWrcIKSX715oh",
+    "createdTime": "2016-09-02T17:51:59.000Z",
+    "fields": {
+      "Uses": "Weight control",
+      "Category": "Emotional Support"
+    }
+  },
+  {
+    "id": "recZ2vQnAwbtfgJZx",
+    "createdTime": "2016-08-21T16:10:55.000Z",
+    "fields": {
+      "Uses": "Sensitive skin",
+      "Category": "Skin"
+    }
+  },
+  {
+    "id": "recZ3hhiWWtZYoprG",
+    "createdTime": "2016-09-01T22:44:46.000Z",
+    "fields": {
+      "Uses": "Emotional Support",
+      "Category": "Emotional Support",
+      "Recipes": [
+        "recjyc08p3wfrnKmh"
+      ]
+    }
+  },
+  {
+    "id": "recZSOMbXeWWJVTH7",
+    "createdTime": "2016-08-21T16:10:04.000Z",
+    "fields": {
+      "Uses": "Digestion+",
+      "Category": "Gastrointestinal"
+    }
+  },
+  {
+    "id": "recZaS6QEKoKQOgBy",
+    "createdTime": "2016-08-21T16:10:04.000Z",
+    "fields": {
+      "Uses": "Abdominal cramps",
+      "Category": "Pain"
+    }
+  },
+  {
+    "id": "recZaucSDKax42Ngd",
+    "createdTime": "2016-08-21T16:10:04.000Z",
+    "fields": {
+      "Uses": "Disinfectant",
+      "Category": "Home Care"
+    }
+  },
+  {
+    "id": "recblxAKzMPkgv9No",
+    "createdTime": "2020-05-25T19:52:45.000Z",
+    "fields": {
+      "Uses": "Rheumatism",
+      "Recipes": [
+        "rec54DivyLcVdRVoe",
+        "reckN3Ygc46xsiGfH"
+      ]
+    }
+  },
+  {
+    "id": "recbrnLLLD5Q2sSqo",
+    "createdTime": "2016-08-21T16:10:04.000Z",
+    "fields": {
+      "Uses": "Irritated/sensitive/itchy skin",
+      "Category": "Skin"
+    }
+  },
+  {
+    "id": "reccy37xOHSjDtKZs",
+    "createdTime": "2016-09-02T17:04:49.000Z",
+    "fields": {
+      "Uses": "Facial toner",
+      "Category": "Skin"
+    }
+  },
+  {
+    "id": "recdJ2naswVVs6n43",
+    "createdTime": "2016-08-21T16:10:04.000Z",
+    "fields": {
+      "Uses": "Congestion",
+      "Category": "Respiratory"
+    }
+  },
+  {
+    "id": "receuibNhj3WLK6Qn",
+    "createdTime": "2016-09-02T19:15:38.000Z",
+    "fields": {
+      "Uses": "Foot care",
+      "Category": "Skin",
+      "Recipes": [
+        "recDSvgkpPSi8fQVd"
+      ]
+    }
+  },
+  {
+    "id": "receynXoQlnitpg64",
+    "createdTime": "2016-08-21T16:10:04.000Z",
+    "fields": {
+      "Uses": "Soft tissues injury",
+      "Category": "Skin"
+    }
+  },
+  {
+    "id": "recg3b2N63341W8YI",
+    "createdTime": "2016-08-21T16:10:55.000Z",
+    "fields": {
+      "Uses": "Damaged hair",
+      "Category": "Hair"
+    }
+  },
+  {
+    "id": "recg5Nx1fRRkPBrbB",
+    "createdTime": "2016-08-21T16:59:08.000Z",
+    "fields": {
+      "Uses": "Colds or flu",
+      "Category": "Respiratory",
+      "Recipes": [
+        "rec2UuTs45vBg2LdK",
+        "recve2F0W1FLS6prm"
+      ]
+    }
+  },
+  {
+    "id": "reci09KKWXgl8f0Ip",
+    "createdTime": "2016-08-21T16:10:55.000Z",
+    "fields": {
+      "Uses": "Brittle nails",
+      "Category": "Nails"
+    }
+  },
+  {
+    "id": "reciK3PY4IGk8Tqit",
+    "createdTime": "2016-09-02T16:07:02.000Z",
+    "fields": {
+      "Uses": "Athlete's foot",
+      "Category": "Infection"
+    }
+  },
+  {
+    "id": "reciWhWP5rK4Zgzux",
+    "createdTime": "2016-08-21T16:10:55.000Z",
+    "fields": {
+      "Uses": "Insect repellent",
+      "Category": "Home Care"
+    }
+  },
+  {
+    "id": "recilllKaY3xucanX",
+    "createdTime": "2016-08-21T16:10:04.000Z",
+    "fields": {
+      "Uses": "Muscle spasm",
+      "Category": "Pain"
+    }
+  },
+  {
+    "id": "reciy8rEbDDebOmPb",
+    "createdTime": "2016-08-21T16:10:55.000Z",
+    "fields": {
+      "Uses": "Hyper pigmentation",
+      "Category": "Skin"
+    }
+  },
+  {
+    "id": "recj1gMu2kRqP7NmZ",
+    "createdTime": "2016-08-21T16:10:04.000Z",
+    "fields": {
+      "Uses": "Cold sores",
+      "Category": "Skin"
+    }
+  },
+  {
+    "id": "recjFvIqKKR7Jcu4R",
+    "createdTime": "2016-08-21T16:10:04.000Z",
+    "fields": {
+      "Uses": "Scarring",
+      "Category": "Skin"
+    }
+  },
+  {
+    "id": "reck4pfi9KibtIbZp",
+    "createdTime": "2016-09-02T17:15:28.000Z",
+    "fields": {
+      "Uses": "Facial steam",
+      "Category": "Skin"
+    }
+  },
+  {
+    "id": "reck7JIqSYWinAyOt",
+    "createdTime": "2016-08-21T16:10:55.000Z",
+    "fields": {
+      "Uses": "Sore muscles",
+      "Category": "Pain"
+    }
+  },
+  {
+    "id": "reclEQdeK74QWh6yX",
+    "createdTime": "2016-08-21T16:10:55.000Z",
+    "fields": {
+      "Uses": "Inflammation",
+      "Category": "Pain",
+      "Recipes": [
+        "rec5O5Mo7cRgogyKw"
+      ]
+    }
+  },
+  {
+    "id": "reclFY8OQFk5jFafJ",
+    "createdTime": "2016-09-23T02:43:40.000Z",
+    "fields": {
+      "Uses": "Suppositories",
+      "Category": "Gastrointestinal"
+    }
+  },
+  {
+    "id": "reclJy4fVgHfFWPC1",
+    "createdTime": "2016-09-01T23:12:15.000Z",
+    "fields": {
+      "Uses": "Home cleaning",
+      "Category": "Home Care"
+    }
+  },
+  {
+    "id": "recmQYLpGdreX3nlW",
+    "createdTime": "2016-09-02T16:40:22.000Z",
+    "fields": {
+      "Uses": "Bath oil",
+      "Category": "Skin"
+    }
+  },
+  {
+    "id": "recmVEbTbvlBwj5ZP",
+    "createdTime": "2016-09-02T16:42:36.000Z",
+    "fields": {
+      "Uses": "Deodorant",
+      "Category": "Skin"
+    }
+  },
+  {
+    "id": "recmWJQu3iGMQ97Wo",
+    "createdTime": "2016-08-21T16:10:55.000Z",
+    "fields": {
+      "Uses": "Skin diseases",
+      "Category": "Skin"
+    }
+  },
+  {
+    "id": "recmaQjwmzozCXBEj",
+    "createdTime": "2016-09-02T16:22:27.000Z",
+    "fields": {
+      "Uses": "Teething",
+      "Category": "Pain"
+    }
+  },
+  {
+    "id": "recmhC57wagkdbPLo",
+    "createdTime": "2016-08-21T16:10:04.000Z",
+    "fields": {
+      "Uses": "Wrinkles",
+      "Category": "Skin"
+    }
+  },
+  {
+    "id": "recn6U4MLa74EwnPX",
+    "createdTime": "2016-08-21T16:10:55.000Z",
+    "fields": {
+      "Uses": "Scalp",
+      "Category": "Hair"
+    }
+  },
+  {
+    "id": "recn9rnstmeGSQLBA",
+    "createdTime": "2016-08-21T16:10:04.000Z",
+    "fields": {
+      "Uses": "Head Lice",
+      "Category": "Hair"
+    }
+  },
+  {
+    "id": "recnCjYTUNegfsLr5",
+    "createdTime": "2016-08-21T16:10:55.000Z",
+    "fields": {
+      "Uses": "Split ends",
+      "Category": "Hair"
+    }
+  },
+  {
+    "id": "recoHROHU8C6t2gPv",
+    "createdTime": "2016-09-06T03:00:55.000Z",
+    "fields": {
+      "Uses": "Facial cleanser",
+      "Category": "Skin"
+    }
+  },
+  {
+    "id": "recoS8eD2dqgkNShM",
+    "createdTime": "2016-08-21T16:10:55.000Z",
+    "fields": {
+      "Uses": "Hair strengthener",
+      "Category": "Hair"
+    }
+  },
+  {
+    "id": "recoXhJ7qvuT6Lrp4",
+    "createdTime": "2016-08-21T16:10:04.000Z",
+    "fields": {
+      "Uses": "Dry/scaly skin",
+      "Category": "Skin"
+    }
+  },
+  {
+    "id": "recosoOZFjGXTVfJg",
+    "createdTime": "2016-08-21T16:10:55.000Z",
+    "fields": {
+      "Uses": "High cholesterol",
+      "Category": "Circulation"
+    }
+  },
+  {
+    "id": "recoyGugxWZcS4tmk",
+    "createdTime": "2016-08-21T16:10:55.000Z",
+    "fields": {
+      "Uses": "Cuts",
+      "Category": "Skin"
+    }
+  },
+  {
+    "id": "recp4z3tBNxObKCGv",
+    "createdTime": "2016-08-21T16:10:55.000Z",
+    "fields": {
+      "Uses": "Sore nipples",
+      "Category": "Skin"
+    }
+  },
+  {
+    "id": "recp6xtokakKv0vbH",
+    "createdTime": "2016-09-02T15:57:19.000Z",
+    "fields": {
+      "Uses": "Hormonal issues",
+      "Category": "Female Concerns"
+    }
+  },
+  {
+    "id": "recpB1Nob7GJnQN3D",
+    "createdTime": "2016-09-02T18:50:05.000Z",
+    "fields": {
+      "Uses": "Bedtime transition",
+      "Category": "Sleep"
+    }
+  },
+  {
+    "id": "recpekTn9uWTyrywQ",
+    "createdTime": "2016-08-21T16:10:55.000Z",
+    "fields": {
+      "Uses": "Spider veins",
+      "Category": "Skin"
+    }
+  },
+  {
+    "id": "recqVIx1EHoLgcPwK",
+    "createdTime": "2016-08-21T16:10:55.000Z",
+    "fields": {
+      "Uses": "Blackheads",
+      "Category": "Skin"
+    }
+  },
+  {
+    "id": "recqXLBA2q8ZQWmW5",
+    "createdTime": "2016-08-21T16:10:04.000Z",
+    "fields": {
+      "Uses": "Bronchial issues",
+      "Category": "Respiratory"
+    }
+  },
+  {
+    "id": "recqXLxvmWIq4BWlR",
+    "createdTime": "2016-08-21T15:21:51.000Z",
+    "fields": {
+      "Uses": "UTI",
+      "Category": "Female Concerns"
+    }
+  },
+  {
+    "id": "recqqNkfFDBHD8W8a",
+    "createdTime": "2016-09-02T17:26:53.000Z",
+    "fields": {
+      "Uses": "Rosacea",
+      "Category": "Skin"
+    }
+  },
+  {
+    "id": "recqztopTFkK32vqu",
+    "createdTime": "2016-08-21T16:10:04.000Z",
+    "fields": {
+      "Uses": "Pain (general)",
+      "Category": "Pain",
+      "Recipes": [
+        "recN7IUYntDqLDOfQ",
+        "recHW4GTBZwYyxaib",
+        "recZvJQvyOy7J900x",
+        "rec54DivyLcVdRVoe",
+        "recW8FeMxeOHZgYKS",
+        "rec5O5Mo7cRgogyKw"
+      ]
+    }
+  },
+  {
+    "id": "recrCOxGGdtcDVK1W",
+    "createdTime": "2016-08-21T16:10:55.000Z",
+    "fields": {
+      "Uses": "Skin autoimmune issues",
+      "Category": "Skin"
+    }
+  },
+  {
+    "id": "recrJPSkMleTN23Nh",
+    "createdTime": "2016-09-02T17:18:50.000Z",
+    "fields": {
+      "Uses": "Room freshener",
+      "Category": "Home Care"
+    }
+  },
+  {
+    "id": "recrfS716gjJXAT4g",
+    "createdTime": "2020-05-25T19:28:35.000Z",
+    "fields": {
+      "Uses": "Memory",
+      "Recipes": [
+        "recKU2xSiJv2c19oN"
+      ]
+    }
+  },
+  {
+    "id": "recrhoZKREwdzCiL7",
+    "createdTime": "2016-08-21T17:28:52.000Z",
+    "fields": {
+      "Uses": "Edema",
+      "Category": "Lymph Support"
+    }
+  },
+  {
+    "id": "recrvWgzM5rvgyi9j",
+    "createdTime": "2016-08-21T16:10:04.000Z",
+    "fields": {
+      "Uses": "Aging skin",
+      "Category": "Skin"
+    }
+  },
+  {
+    "id": "recssGT9YmPtzcbxv",
+    "createdTime": "2016-10-07T01:51:15.000Z",
+    "fields": {
+      "Uses": "Uplifting"
+    }
+  },
+  {
+    "id": "recssUBmAFmHH2pV6",
+    "createdTime": "2016-08-21T16:10:55.000Z",
+    "fields": {
+      "Uses": "Skin (all types)",
+      "Category": "Skin"
+    }
+  },
+  {
+    "id": "rectLZNug0yxbvYiF",
+    "createdTime": "2016-09-02T16:40:41.000Z",
+    "fields": {
+      "Uses": "Body wash",
+      "Category": "Skin"
+    }
+  },
+  {
+    "id": "rectaAt86j3v6WSpZ",
+    "createdTime": "2016-09-02T16:09:55.000Z",
+    "fields": {
+      "Uses": "Respiratory illness",
+      "Category": "Respiratory"
+    }
+  },
+  {
+    "id": "recuDtGicqP0iFVct",
+    "createdTime": "2016-08-21T16:10:55.000Z",
+    "fields": {
+      "Uses": "Damaged skin",
+      "Category": "Skin"
+    }
+  },
+  {
+    "id": "recuKcYD7AVc7Ygj0",
+    "createdTime": "2016-08-21T16:10:04.000Z",
+    "fields": {
+      "Uses": "Sinus headache",
+      "Category": "Pain"
+    }
+  },
+  {
+    "id": "recubZ1X1Uhixzwfk",
+    "createdTime": "2016-08-21T16:55:09.000Z",
+    "fields": {
+      "Uses": "Runny or stuffy nose",
+      "Category": "Respiratory"
+    }
+  },
+  {
+    "id": "recvZYwrlUiI5Obfh",
+    "createdTime": "2016-09-23T02:14:28.000Z",
+    "fields": {
+      "Uses": "Skin cleanser",
+      "Category": "Skin"
+    }
+  },
+  {
+    "id": "recvbGpfCRznhbSd4",
+    "createdTime": "2016-09-01T23:02:51.000Z",
+    "fields": {
+      "Uses": "Sexual energy",
+      "Category": "Emotional Support"
+    }
+  },
+  {
+    "id": "recwIRDinOhsbqd7H",
+    "createdTime": "2020-05-25T19:35:49.000Z",
+    "fields": {
+      "Uses": "Diuretic",
+      "Recipes": [
+        "recjyc08p3wfrnKmh"
+      ]
+    }
+  },
+  {
+    "id": "recwPVKWV5yUN0U0I",
+    "createdTime": "2016-09-29T16:25:18.000Z",
+    "fields": {
+      "Uses": "Oily hair",
+      "Category": "Hair"
+    }
+  },
+  {
+    "id": "recwifWY5KZRAlFTk",
+    "createdTime": "2016-09-02T17:41:32.000Z",
+    "fields": {
+      "Uses": "Dreaming",
+      "Category": "Sleep"
+    }
+  },
+  {
+    "id": "recwlb9PGxlB3BwXo",
+    "createdTime": "2016-08-21T16:10:04.000Z",
+    "fields": {
+      "Uses": "Dermatitis",
+      "Category": "Skin"
+    }
+  },
+  {
+    "id": "recx6GVcG8jiWa3f4",
+    "createdTime": "2016-09-02T18:20:16.000Z",
+    "fields": {
+      "Uses": "Grief/trauma",
+      "Category": "Emotional Support"
+    }
+  },
+  {
+    "id": "recxkYG9sOCP0D92G",
+    "createdTime": "2016-08-21T16:10:04.000Z",
+    "fields": {
+      "Uses": "Tick repellent",
+      "Category": "Home Care"
+    }
+  },
+  {
+    "id": "recxvie3fhA3gVlrV",
+    "createdTime": "2016-09-02T19:24:40.000Z",
+    "fields": {
+      "Uses": "Cellulite",
+      "Category": "Skin"
+    }
+  },
+  {
+    "id": "recyLLJCoGahkkJZj",
+    "createdTime": "2016-09-02T17:15:53.000Z",
+    "fields": {
+      "Uses": "Facial serum",
+      "Category": "Skin"
+    }
+  },
+  {
+    "id": "recybaJf2ley5STka",
+    "createdTime": "2016-08-21T16:10:04.000Z",
+    "fields": {
+      "Uses": "Constipation",
+      "Category": "Gastrointestinal"
+    }
+  },
+  {
+    "id": "recyshPSQ9gVzpNIB",
+    "createdTime": "2020-05-25T19:37:15.000Z",
+    "fields": {
+      "Uses": "Stimulant",
+      "Recipes": [
+        "recjyc08p3wfrnKmh",
+        "recyI4j5LSQ6XZLbq"
+      ]
+    }
+  },
+  {
+    "id": "recz8Yz1jQDGrLiST",
+    "createdTime": "2016-08-21T16:10:04.000Z",
+    "fields": {
+      "Uses": "Stomach cramps",
+      "Category": "Pain"
+    }
+  },
+  {
+    "id": "reczHP9RXNbnIXTcq",
+    "createdTime": "2016-09-02T16:58:55.000Z",
+    "fields": {
+      "Uses": "Hand sanitizer",
+      "Category": "Skin"
+    }
+  },
+  {
+    "id": "reczoJSUYp82914yS",
+    "createdTime": "2016-08-21T16:10:04.000Z",
+    "fields": {
+      "Uses": "Wounds",
+      "Category": "Skin"
+    }
+  }
+]
