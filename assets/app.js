@@ -205,7 +205,8 @@
       el.setAttribute("aria-current", tab === name ? "page" : null);
       el.setAttribute("href", hrefFor({ base: state.base, page: name, q: name === "search" ? state.q : "" }));
     });
-    document.getElementById("home-link").setAttribute("href", hrefFor({ base: state.base, page: "search" }));
+    const homeHref = hrefFor({ base: state.base, page: "search" });
+    document.querySelectorAll(".js-home, #home-link").forEach((el) => el.setAttribute("href", homeHref));
     const baseName = BASES[state.base].name;
     document.title =
       state.page === "calculator"
